@@ -1,0 +1,272 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
+	<meta name="description" content="">
+	<meta name="author" content="webThemez.com">
+
+	<title>Retro - Free Consulting Responsive Website Template</title>
+
+	<link rel="shortcut icon" href="assets/images/favicon.png">
+
+	<link rel="stylesheet" media="screen" href="http://fonts.googleapis.com/css?family=Open+Sans:300,400,700">
+	<link rel="stylesheet" href="assets/css/bootstrap.min.css">
+	<link rel="stylesheet" href="assets/css/font-awesome.min.css">
+
+	<!-- Custom styles for our template -->
+	<link rel="stylesheet" href="assets/css/bootstrap-theme.css" media="screen">
+	<link rel="stylesheet" href="assets/css/style.css">
+
+	<script src="assets/js/d3/d3.min.js"></script>
+	<script src="assets/js/d3/d3-sankey.min.js"></script>
+	<script src="assets/js/d3/SankeyChart.js"></script>
+
+
+	<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+	<!--[if lt IE 9]>
+	<script src="assets/js/html5shiv.js"></script>
+	<script src="assets/js/respond.min.js"></script>
+	<![endif]-->
+</head>
+
+<body>
+	<!-- Fixed navbar -->
+	<div class="navbar navbar-inverse navbar-fixed-top headroom">
+		<div class="container">
+			<div class="navbar-header">
+				<!-- Button for smallest screens -->
+				<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse"><span
+						class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
+				<a class="navbar-brand" href="index.html"><img src="assets/images/logo.png"
+						alt="Retro HTML5 template"></a>
+			</div>
+			<div class="navbar-collapse collapse">
+				<ul class="nav navbar-nav pull-right">
+					<li class="active"><a href="#">Home</a></li>
+					<li><a href="research.html">Our Research</a></li>
+					<!-- <li><a href="portfolio.html">Portfolio</a></li> -->
+					<li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown">Data Analysis <b
+								class="caret"></b></a>
+						<ul class="dropdown-menu">
+							<li><a href="fig1-show-the-ratio-through-diff-view.html">Fig.1 StackBarChart</a></li>
+							<li><a href="fig2-show-the-ratio-through-diff-department.html">Fig.2 StackBarChart</a></li>
+							<li><a href="fig3-show-flows-between-regions.html">Fig.3 Sankey</a></li>
+							<li><a href="fig4-show-flows-between-regions-with-department.html">Fig.4 Sankey</a></li>
+							<li><a href="fig5-show-flows-between-contries.html">Fig.5 Sankey</a></li>
+							<li><a href="fig6-show-flows-between-countris-with-department.html">Fig.6 Sankey</a></li>
+							<li><a href="fig7-show-flows-within-departments.html">Fig.7 Chord</a></li>
+						</ul>
+					</li>
+					<li><a href="publications.html">Publications</a></li>
+					<li><a href="about.html">About Team</a></li>
+				</ul>
+			</div>
+			<!--/.nav-collapse -->
+		</div>
+	</div>
+	<!-- /.navbar -->
+
+	<header id="head" class="secondary"></header>
+
+
+	<!-- container -->
+	<div class="container">
+
+		<div class="container researchlist">
+			<div class="row">
+				<div class="col-md-12">
+					<header class="page-header">
+						<h1 class="page-title">各城市的资源要素在生产/消费视角下的跨地区流动</h1>
+					</header>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-sm-6">
+					<div id="dropdown_container_EWCL">
+						<select id="selectEWCL" class="ds-form-input-container"> </select>
+					</div>
+				</div>
+				<div class="col-sm-6">
+					<div id="dropdown_container_region">
+						<select id="selectRegion" class="ds-form-input-container"> </select>
+					</div>
+				</div>
+			</div>
+			<div class="row">
+				<div id="SankeyArea" class="svg_panel"></div>
+			</div>
+		</div><!-- End container -->
+
+	</div> <!-- /container -->
+
+	<footer id="footer" class="top-space">
+		<div class="footer2">
+			<div class="container">
+				<div class="row">
+
+					<div class="col-md-6 panel">
+						<div class="panel-body">
+							<p class="simplenav">
+								<a href="index.html">Home</a> |
+								<a href="about.html">About</a> |
+								<a href="research.html">research</a> |
+								<a href="portfolio.html">Portfolio</a> |
+								<a href="publications.html">publications</a>
+							</p>
+						</div>
+					</div>
+
+					<div class="col-md-6 panel">
+						<div class="panel-body">
+							<p class="text-right">
+								Copyright &copy; 2014. Template by <a href="http://webthemez.com/"
+									rel="develop">WebThemez.com</a>
+							</p>
+						</div>
+					</div>
+
+				</div> <!-- /row of panels -->
+			</div>
+		</div>
+
+	</footer>
+
+
+	<!-- JavaScript libs are placed at the end of the document so the pages load faster -->
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+	<script src="http://netdna.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.min.js"></script>
+	<script src="assets/js/headroom.min.js"></script>
+	<script src="assets/js/jQuery.headroom.min.js"></script>
+	<script src="assets/js/custom.js"></script>
+	<script type="text/javascript">
+
+		const rulings = {
+			// isDomestic=1：国内地区，-1：国外地区，0：省份
+			"North": { name: "North", value: "North ", isDomestic: 1 },
+			"Northeast": { name: "Northeast", value: "Northeast ", isDomestic: 1 },
+			"Central": { name: "Central", value: "Central ", isDomestic: 1 },
+			"Central Coast": { name: "Central Coast", value: "Central Coast ", isDomestic: 1 },
+			"South Coast": { name: "South Coast", value: "South Coast ", isDomestic: 1 },
+			"Southwest": { name: "Southwest", value: "Southwest ", isDomestic: 1 },
+			"Northwest": { name: "Northwest", value: "Northwest ", isDomestic: 1 },
+			"EU": { name: "EU", value: "EU ", isDomestic: -1 },
+			"Non-EU": { name: "Non-EU", value: "Non-EU ", isDomestic: -1 },
+			"EA": { name: "EA", value: "EA ", isDomestic: -1 },
+			"BRIIAT": { name: "BRIIAT", value: "BRIIAT ", isDomestic: -1 },
+			"NAFTA": { name: "NAFTA", value: "NAFTA ", isDomestic: -1 },
+			"RoW": { name: "RoW", value: "RoW ", isDomestic: -1 },
+
+			"Sichuan": { name: "Sichuan", value: "Sichuan", isDomestic: 0 },
+			"Heilongjiang": { name: "Heilongjiang", value: "Heilongjiang", isDomestic: 0 },
+			"Jiangsu": { name: "Jiangsu", value: "Jiangsu", isDomestic: 0 },
+			"Chongqing": { name: "Chongqing", value: "Chongqing", isDomestic: 0 },
+			"Yunnan": { name: "Yunnan", value: "Yunnan", isDomestic: 0 },
+			"Shanghai": { name: "Shanghai", value: "Shanghai", isDomestic: 0 },
+			"Henan": { name: "Henan", value: "Henan", isDomestic: 0 },
+			"Inner Mongolia": { name: "Inner Mongolia", value: "Inner Mongolia", isDomestic: 0 },
+			"Liaoning": { name: "Liaoning", value: "Liaoning", isDomestic: 0 },
+			"Ningxia": { name: "Ningxia", value: "Ningxia", isDomestic: 0 },
+			"Guizhou": { name: "Guizhou", value: "Guizhou", isDomestic: 0 },
+			"Guangxi": { name: "Guangxi", value: "Guangxi", isDomestic: 0 },
+			"Shandong": { name: "Shandong", value: "Shandong", isDomestic: 0 },
+			"Shannxi": { name: "Shannxi", value: "Shannxi", isDomestic: 0 },
+			"Hebei": { name: "Hebei", value: "Hebei", isDomestic: 0 },
+			"Tianjin": { name: "Tianjin", value: "Tianjin", isDomestic: 0 },
+			"Hunan": { name: "Hunan", value: "Hunan", isDomestic: 0 },
+			"Hainan": { name: "Hainan", value: "Hainan", isDomestic: 0 },
+			"Zhejiang": { name: "Zhejiang", value: "Zhejiang", isDomestic: 0 },
+			"Qinghai": { name: "Qinghai", value: "Qinghai", isDomestic: 0 },
+			"Xinjiang": { name: "Xinjiang", value: "Xinjiang", isDomestic: 0 },
+			"Hubei": { name: "Hubei", value: "Hubei", isDomestic: 0 },
+			"Guangdong": { name: "Guangdong", value: "Guangdong", isDomestic: 0 },
+			"Jiangxi": { name: "Jiangxi", value: "Jiangxi", isDomestic: 0 },
+			"Jilin": { name: "Jilin", value: "Jilin", isDomestic: 0 },
+			"Gansu": { name: "Gansu", value: "Gansu", isDomestic: 0 },
+			"Anhui": { name: "Anhui", value: "Anhui", isDomestic: 0 },
+			"Shanxi": { name: "Shanxi", value: "Shanxi", isDomestic: 0 },
+			"Fujian": { name: "Fujian", value: "Fujian", isDomestic: 0 },
+			"Beijing": { name: "Beijing", value: "Beijing", isDomestic: 0 },
+
+			"Agriculture": { name: "Agriculture", value: "Agriculture", isDomestic: 0 },
+			"Food&tabacco": { name: "Food&tabacco", value: "Food&tabacco", isDomestic: 0 },
+			"Electricity, Gas &Water": { name: "Electricity, Gas &Water", value: "Electricity, Gas &Water", isDomestic: 0 },
+			"Construction": { name: "Construction", value: "Construction", isDomestic: 0 },
+			"Transport": { name: "Transport", value: "Transport", isDomestic: 0 },
+			"Services": { name: "Services", value: "Services", isDomestic: 0 },
+			"Others": { name: "Others", value: "Others", isDomestic: 0 },
+		};
+
+		var item_list = ["Energy", "Water", "CO2", "Land"],
+			unit_list = { "Energy": "Mtce", "Water": "Mt", "CO2": "Mt(CO2e)", "Land": "Kha" },
+			dept_list = ['Agriculture', 'Food&tabacco', 'Electricity, Gas &Water', 'Construction', 'Transport', 'Services', 'Others'],
+			region_list = ['北京', '天津', '河北', '山西', '内蒙古', '辽宁', '吉林', '黑龙江', '上海', '江苏', '浙江', '安徽', '福建', '江西', '山东', '河南', '湖北', '湖南', '广东', '广西', '海南', '重庆', '四川', '贵州', '云南', '陕西', '甘肃', '青海', '宁夏', '新疆'];
+		// 将item_list和region_list中的项目增加至两个下拉框
+		d3.select('#selectEWCL').selectAll("option")
+			.data(item_list).enter()
+			.append("option")
+			.text(function (d) { return d; })
+			.attr("value", function (d) { return d; });
+		d3.select('#selectRegion').selectAll("option")
+			.data(region_list).enter()
+			.append("option")
+			.text(function (d) { return d; })
+			.attr("value", function (d) { return d; });
+
+		init();
+		function init() {
+			d3.csv("assets/data/fig5_data.csv").then(d => {
+				drawChart(d); // 获取数据成功后，绘图
+				$('#selectEWCL').change(function () { drawChart(d); });// 增加 [要素] 和 [省份] 2个下拉框的响应函数
+				$('#selectRegion').change(function () { drawChart(d); });
+			});
+		};
+
+		function drawChart(d) {
+			$('#SankeyArea').empty();// 清空绘图区
+			var selectEWCL = document.getElementById('selectEWCL'),
+				selectRegion = document.getElementById('selectRegion');
+			var sel_EWCL = selectEWCL.options[selectEWCL.selectedIndex].value,
+				sel_region = selectRegion.options[selectRegion.selectedIndex].value;
+
+			// console.log("sel_EWCL:" + sel_EWCL);
+			// console.log("sel_region:" + sel_region);
+			// console.log(d);
+			d = d.filter(x => {
+				return (x.EWCL == sel_EWCL) && (x.region == sel_region)
+					&& ((rulings[x.source].isDomestic == -1 || rulings[x.target].isDomestic == -1)); // source或target有一个是国外
+			});
+
+			d = Object.assign(d.map(d => ({
+				source: rulings[d.source].value,
+				target: d.target,
+				value: d.value
+			})));
+			console.log(d);
+			const chart = SankeyChart({
+				links: d
+			}, {
+				// nodeGroup: d => d.id.split(/\W/)[0], // take first word for color
+				nodeGroup: d => d.id,
+				// colors: d3.schemePaired,
+				// colors: ["#a6cee3", "#1f78b4", "#b2df8a", "#33a02c", "#fb9a99", "#e31a1c", "#fdbf6f"],
+				colors: ["#a6cee3", "#1f78b4", "#b2df8a", "#33a02c", "#fb9a99", "#e31a1c", "#ff7f00",
+					"#cab2d6", "#6a3d9a", "#ffff99", "#b15928", "#bcbd22", "#17becf"],
+				nodeAlign: d3.sankeyJustify, // e.g., d3.sankeyJustify; set by input above
+				linkColor: "source", // e.g., "source" or "target"; set by input above
+				// format: (f => d => `${f(d)} TWh`)(d3.format(",.1~f")),
+				format: (f => d => `${f(d)}`.concat(unit_list[sel_EWCL]))(d3.format(",.1~f")),
+				width: 1200,
+				height: 600
+			});
+
+			// 添加绘图
+			SankeyArea.append(chart);
+		} // <--- end of then()
+
+	</script>
+</body>
+
+</html>

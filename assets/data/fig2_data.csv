@@ -1,0 +1,1684 @@
+,region,EWCL,dept,perspective,value
+0,北京,Energy,Agriculture,生产视角,0.4884426447243388
+1,北京,Energy,Food&tabacco,生产视角,0.5455225176171995
+2,北京,Energy,"Electricity, Gas &Water",生产视角,12.076248863832516
+3,北京,Energy,Construction,生产视角,0.8959664633179589
+4,北京,Energy,Transport,生产视角,9.053737859459336
+5,北京,Energy,Services,生产视角,6.206645275763937
+6,北京,Energy,Others,生产视角,10.10170174801171
+7,天津,Energy,Agriculture,生产视角,0.49334072492833897
+8,天津,Energy,Food&tabacco,生产视角,0.17153451365010794
+9,天津,Energy,"Electricity, Gas &Water",生产视角,27.594874692161774
+10,天津,Energy,Construction,生产视角,1.3638735868953733
+11,天津,Energy,Transport,生产视角,4.174466179675027
+12,天津,Energy,Services,生产视角,2.820560021490495
+13,天津,Energy,Others,生产视角,26.53379854611693
+14,河北,Energy,Agriculture,生产视角,1.4418273773361148
+15,河北,Energy,Food&tabacco,生产视角,0.9819097050366553
+16,河北,Energy,"Electricity, Gas &Water",生产视角,91.66651616762582
+17,河北,Energy,Construction,生产视角,2.4465607633174398
+18,河北,Energy,Transport,生产视角,7.724819413407172
+19,河北,Energy,Services,生产视角,6.029650592360469
+20,河北,Energy,Others,生产视角,138.88541049428628
+21,山西,Energy,Agriculture,生产视角,2.183506423586589
+22,山西,Energy,Food&tabacco,生产视角,0.10624412197885345
+23,山西,Energy,"Electricity, Gas &Water",生产视角,80.53010483998821
+24,山西,Energy,Construction,生产视角,0.9430843594938846
+25,山西,Energy,Transport,生产视角,7.51776644944858
+26,山西,Energy,Services,生产视角,4.491043739881468
+27,山西,Energy,Others,生产视角,61.80119589152482
+28,内蒙古,Energy,Agriculture,生产视角,3.505888525636006
+29,内蒙古,Energy,Food&tabacco,生产视角,0.4661031418085855
+30,内蒙古,Energy,"Electricity, Gas &Water",生产视角,119.38935986421122
+31,内蒙古,Energy,Construction,生产视角,2.7155196006182982
+32,内蒙古,Energy,Transport,生产视角,12.78025605830037
+33,内蒙古,Energy,Services,生产视角,10.853058010283933
+34,内蒙古,Energy,Others,生产视角,38.70944127314025
+35,辽宁,Energy,Agriculture,生产视角,2.163709786763173
+36,辽宁,Energy,Food&tabacco,生产视角,0.7984750295584003
+37,辽宁,Energy,"Electricity, Gas &Water",生产视角,74.89796724577187
+38,辽宁,Energy,Construction,生产视角,1.1841072898613674
+39,辽宁,Energy,Transport,生产视角,14.15508352738721
+40,辽宁,Energy,Services,生产视角,3.1738903228731172
+41,辽宁,Energy,Others,生产视角,92.67135980706288
+42,吉林,Energy,Agriculture,生产视角,0.9656549604618134
+43,吉林,Energy,Food&tabacco,生产视角,2.1194236645895033
+44,吉林,Energy,"Electricity, Gas &Water",生产视角,45.76624559245728
+45,吉林,Energy,Construction,生产视角,0.6283284775434967
+46,吉林,Energy,Transport,生产视角,4.873626718500583
+47,吉林,Energy,Services,生产视角,3.9687222806985
+48,吉林,Energy,Others,生产视角,24.43820565384434
+49,黑龙江,Energy,Agriculture,生产视角,2.5451771738981854
+50,黑龙江,Energy,Food&tabacco,生产视角,0.30107072165748144
+51,黑龙江,Energy,"Electricity, Gas &Water",生产视角,48.14064488819066
+52,黑龙江,Energy,Construction,生产视角,0.05218182029536638
+53,黑龙江,Energy,Transport,生产视角,4.962361651412453
+54,黑龙江,Energy,Services,生产视角,2.4811652861177174
+55,黑龙江,Energy,Others,生产视角,26.805616598036583
+56,上海,Energy,Agriculture,生产视角,0.4479140186844921
+57,上海,Energy,Food&tabacco,生产视角,0.22379990428223706
+58,上海,Energy,"Electricity, Gas &Water",生产视角,34.64167019766219
+59,上海,Energy,Construction,生产视角,1.1303096088357902
+60,上海,Energy,Transport,生产视角,18.73214949634246
+61,上海,Energy,Services,生产视角,5.887773436121239
+62,上海,Energy,Others,生产视角,30.548883400612958
+63,江苏,Energy,Agriculture,生产视角,2.99090078879417
+64,江苏,Energy,Food&tabacco,生产视角,0.7921136059623084
+65,江苏,Energy,"Electricity, Gas &Water",生产视角,131.551821648079
+66,江苏,Energy,Construction,生产视角,0.6369481334971631
+67,江苏,Energy,Transport,生产视角,13.127895277015254
+68,江苏,Energy,Services,生产视角,1.1650456745016813
+69,江苏,Energy,Others,生产视角,76.14115035519733
+70,浙江,Energy,Agriculture,生产视角,3.039162092207378
+71,浙江,Energy,Food&tabacco,生产视角,0.33413576344209917
+72,浙江,Energy,"Electricity, Gas &Water",生产视角,88.7096086407179
+73,浙江,Energy,Construction,生产视角,2.217234929638668
+74,浙江,Energy,Transport,生产视角,11.077022654745749
+75,浙江,Energy,Services,生产视角,3.1453850368196203
+76,浙江,Energy,Others,生产视角,24.422963201563466
+77,安徽,Energy,Agriculture,生产视角,1.465796022745132
+78,安徽,Energy,Food&tabacco,生产视角,0.5779179333719997
+79,安徽,Energy,"Electricity, Gas &Water",生产视角,55.611993119874356
+80,安徽,Energy,Construction,生产视角,0.6766303345617927
+81,安徽,Energy,Transport,生产视角,4.702322107580482
+82,安徽,Energy,Services,生产视角,1.3690590618875227
+83,安徽,Energy,Others,生产视角,28.56369197490489
+84,福建,Energy,Agriculture,生产视角,2.2821615108290905
+85,福建,Energy,Food&tabacco,生产视角,0.768780327358188
+86,福建,Energy,"Electricity, Gas &Water",生产视角,42.36037114788279
+87,福建,Energy,Construction,生产视角,1.0070547193511645
+88,福建,Energy,Transport,生产视角,7.402469123464574
+89,福建,Energy,Services,生产视角,2.1652704830449667
+90,福建,Energy,Others,生产视角,24.985775748900945
+91,江西,Energy,Agriculture,生产视角,0.9601442783634944
+92,江西,Energy,Food&tabacco,生产视角,0.6281793243878625
+93,江西,Energy,"Electricity, Gas &Water",生产视角,25.74831559976059
+94,江西,Energy,Construction,生产视角,0.15297197408931426
+95,江西,Energy,Transport,生产视角,4.116019942153162
+96,江西,Energy,Services,生产视角,1.0659507091283964
+97,江西,Energy,Others,生产视角,21.09306699232028
+98,山东,Energy,Agriculture,生产视角,2.7621144272264853
+99,山东,Energy,Food&tabacco,生产视角,2.855598990875114
+100,山东,Energy,"Electricity, Gas &Water",生产视角,143.80701272821392
+101,山东,Energy,Construction,生产视角,1.6304083789568755
+102,山东,Energy,Transport,生产视角,23.84361532793789
+103,山东,Energy,Services,生产视角,12.793962770884674
+104,山东,Energy,Others,生产视角,94.87981727515594
+105,河南,Energy,Agriculture,生产视角,2.2142887963088693
+106,河南,Energy,Food&tabacco,生产视角,1.5880571943767485
+107,河南,Energy,"Electricity, Gas &Water",生产视角,101.14785297277356
+108,河南,Energy,Construction,生产视角,0.8277223204282951
+109,河南,Energy,Transport,生产视角,8.710137525573481
+110,河南,Energy,Services,生产视角,1.1352714082596345
+111,河南,Energy,Others,生产视角,81.47486960426694
+112,湖北,Energy,Agriculture,生产视角,3.053530352735477
+113,湖北,Energy,Food&tabacco,生产视角,2.027480093267402
+114,湖北,Energy,"Electricity, Gas &Water",生产视角,48.145156369682226
+115,湖北,Energy,Construction,生产视角,2.501386749429913
+116,湖北,Energy,Transport,生产视角,12.147259844525866
+117,湖北,Energy,Services,生产视角,7.633715914918139
+118,湖北,Energy,Others,生产视角,47.120386417186836
+119,湖南,Energy,Agriculture,生产视角,3.6040520572577313
+120,湖南,Energy,Food&tabacco,生产视角,1.0022976950954248
+121,湖南,Energy,"Electricity, Gas &Water",生产视角,38.387807964686914
+122,湖南,Energy,Construction,生产视角,2.663512762278533
+123,湖南,Energy,Transport,生产视角,8.435323148055197
+124,湖南,Energy,Services,生产视角,6.412979642252642
+125,湖南,Energy,Others,生产视角,42.425277733020124
+126,广东,Energy,Agriculture,生产视角,1.8293304851915888
+127,广东,Energy,Food&tabacco,生产视角,1.9771187443917362
+128,广东,Energy,"Electricity, Gas &Water",生产视角,108.552128402715
+129,广东,Energy,Construction,生产视角,1.115159569616675
+130,广东,Energy,Transport,生产视角,25.277905627394816
+131,广东,Energy,Services,生产视角,5.1032387707534435
+132,广东,Energy,Others,生产视角,54.45095791495351
+133,广西,Energy,Agriculture,生产视角,0.5692508430798495
+134,广西,Energy,Food&tabacco,生产视角,3.8801062272748457
+135,广西,Energy,"Electricity, Gas &Water",生产视角,26.922877061420074
+136,广西,Energy,Construction,生产视角,0.05808482582666954
+137,广西,Energy,Transport,生产视角,7.066982095523679
+138,广西,Energy,Services,生产视角,2.0515531362750474
+139,广西,Energy,Others,生产视角,27.707900242403262
+140,海南,Energy,Agriculture,生产视角,0.8223397320247396
+141,海南,Energy,Food&tabacco,生产视角,0.03482967614344087
+142,海南,Energy,"Electricity, Gas &Water",生产视角,6.249243189199617
+143,海南,Energy,Construction,生产视角,0.1254357881655975
+144,海南,Energy,Transport,生产视角,2.8827904034487335
+145,海南,Energy,Services,生产视角,0.47605190861450025
+146,海南,Energy,Others,生产视角,3.028697071628241
+147,重庆,Energy,Agriculture,生产视角,2.485952274650436
+148,重庆,Energy,Food&tabacco,生产视角,0.33337001657440185
+149,重庆,Energy,"Electricity, Gas &Water",生产视角,20.01690641119435
+150,重庆,Energy,Construction,生产视角,0.6356063209987656
+151,重庆,Energy,Transport,生产视角,5.647767699842493
+152,重庆,Energy,Services,生产视角,1.54669862752445
+153,重庆,Energy,Others,生产视角,28.86516892020269
+154,四川,Energy,Agriculture,生产视角,2.112220103250055
+155,四川,Energy,Food&tabacco,生产视角,1.887349451359111
+156,四川,Energy,"Electricity, Gas &Water",生产视角,30.59194904332371
+157,四川,Energy,Construction,生产视角,1.3642938677989238
+158,四川,Energy,Transport,生产视角,10.06181498665497
+159,四川,Energy,Services,生产视角,4.955043096177877
+160,四川,Energy,Others,生产视角,67.87760004429327
+161,贵州,Energy,Agriculture,生产视角,1.1144875650350339
+162,贵州,Energy,Food&tabacco,生产视角,0.14564828113888859
+163,贵州,Energy,"Electricity, Gas &Water",生产视角,42.480468600036865
+164,贵州,Energy,Construction,生产视角,0.4509453368637644
+165,贵州,Energy,Transport,生产视角,4.599378445261963
+166,贵州,Energy,Services,生产视角,8.694628173108052
+167,贵州,Energy,Others,生产视角,16.14267516537032
+168,云南,Energy,Agriculture,生产视角,1.9928701107038298
+169,云南,Energy,Food&tabacco,生产视角,0.9054010111396216
+170,云南,Energy,"Electricity, Gas &Water",生产视角,31.54217493951895
+171,云南,Energy,Construction,生产视角,0.9618155897750181
+172,云南,Energy,Transport,生产视角,8.373644022909918
+173,云南,Energy,Services,生产视角,1.543405597357124
+174,云南,Energy,Others,生产视角,30.819028419025297
+175,陕西,Energy,Agriculture,生产视角,0.8302946546958457
+176,陕西,Energy,Food&tabacco,生产视角,0.2984265633840378
+177,陕西,Energy,"Electricity, Gas &Water",生产视角,45.34866267511436
+178,陕西,Energy,Construction,生产视角,1.084213605974721
+179,陕西,Energy,Transport,生产视角,8.532279918759269
+180,陕西,Energy,Services,生产视角,4.500750641386001
+181,陕西,Energy,Others,生产视角,23.00864728270703
+182,甘肃,Energy,Agriculture,生产视角,0.8803863704844069
+183,甘肃,Energy,Food&tabacco,生产视角,0.1816845140773941
+184,甘肃,Energy,"Electricity, Gas &Water",生产视角,27.520557264472703
+185,甘肃,Energy,Construction,生产视角,0.5147341300316827
+186,甘肃,Energy,Transport,生产视角,2.888156284360509
+187,甘肃,Energy,Services,生产视角,0.7648082052055653
+188,甘肃,Energy,Others,生产视角,18.184738242920254
+189,青海,Energy,Agriculture,生产视角,0.1477101780467821
+190,青海,Energy,Food&tabacco,生产视角,0.017030631856474847
+191,青海,Energy,"Electricity, Gas &Water",生产视角,4.4110291245465305
+192,青海,Energy,Construction,生产视角,0.1531304882996356
+193,青海,Energy,Transport,生产视角,1.09647719529959
+194,青海,Energy,Services,生产视角,1.2666531818152906
+195,青海,Energy,Others,生产视角,5.6507949777672195
+196,宁夏,Energy,Agriculture,生产视角,0.18013418011938212
+197,宁夏,Energy,Food&tabacco,生产视角,0.07483510479468194
+198,宁夏,Energy,"Electricity, Gas &Water",生产视角,24.054262469764133
+199,宁夏,Energy,Construction,生产视角,0.2687098213512912
+200,宁夏,Energy,Transport,生产视角,1.386862120202657
+201,宁夏,Energy,Services,生产视角,0.8750777394534706
+202,宁夏,Energy,Others,生产视角,10.174450193976337
+203,新疆,Energy,Agriculture,生产视角,1.7197223391772256
+204,新疆,Energy,Food&tabacco,生产视角,0.5631685697563131
+205,新疆,Energy,"Electricity, Gas &Water",生产视角,33.51619704698242
+206,新疆,Energy,Construction,生产视角,0.4677225023711116
+207,新疆,Energy,Transport,生产视角,4.6966032124495465
+208,新疆,Energy,Services,生产视角,2.128798027478749
+209,新疆,Energy,Others,生产视角,24.50486855535336
+210,北京,Energy,Agriculture,消费视角,1.334242762373335
+211,北京,Energy,Food&tabacco,消费视角,2.2245305424006707
+212,北京,Energy,"Electricity, Gas &Water",消费视角,8.628905118147701
+213,北京,Energy,Construction,消费视角,22.14440080589712
+214,北京,Energy,Transport,消费视角,2.253179806038858
+215,北京,Energy,Services,消费视角,37.76539710607379
+216,北京,Energy,Others,消费视角,10.834035910538402
+217,天津,Energy,Agriculture,消费视角,1.2095437122835357
+218,天津,Energy,Food&tabacco,消费视角,2.5158436012805403
+219,天津,Energy,"Electricity, Gas &Water",消费视角,9.59519394731055
+220,天津,Energy,Construction,消费视角,26.192610698616008
+221,天津,Energy,Transport,消费视角,8.693138274997384
+222,天津,Energy,Services,消费视角,12.448271040365771
+223,天津,Energy,Others,消费视角,29.079670325739247
+224,河北,Energy,Agriculture,消费视角,4.49142613432671
+225,河北,Energy,Food&tabacco,消费视角,5.983897831608362
+226,河北,Energy,"Electricity, Gas &Water",消费视角,37.13994313030458
+227,河北,Energy,Construction,消费视角,47.266186531320926
+228,河北,Energy,Transport,消费视角,7.073527404332913
+229,河北,Energy,Services,消费视角,28.094918427397094
+230,河北,Energy,Others,消费视角,54.75896243600329
+231,山西,Energy,Agriculture,消费视角,2.9946348384932477
+232,山西,Energy,Food&tabacco,消费视角,3.0553932504644434
+233,山西,Energy,"Electricity, Gas &Water",消费视角,14.70457729133823
+234,山西,Energy,Construction,消费视角,26.344958954424087
+235,山西,Energy,Transport,消费视角,6.383284339097873
+236,山西,Energy,Services,消费视角,19.791352684715225
+237,山西,Energy,Others,消费视角,26.60457310003514
+238,内蒙古,Energy,Agriculture,消费视角,2.9040618415808352
+239,内蒙古,Energy,Food&tabacco,消费视角,5.435087654815119
+240,内蒙古,Energy,"Electricity, Gas &Water",消费视角,14.287821199968123
+241,内蒙古,Energy,Construction,消费视角,42.36748710933958
+242,内蒙古,Energy,Transport,消费视角,6.343975798993773
+243,内蒙古,Energy,Services,消费视角,16.5756903986553
+244,内蒙古,Energy,Others,消费视角,28.30677363075859
+245,辽宁,Energy,Agriculture,消费视角,2.101150642637845
+246,辽宁,Energy,Food&tabacco,消费视角,6.499472246887931
+247,辽宁,Energy,"Electricity, Gas &Water",消费视角,15.395311540540742
+248,辽宁,Energy,Construction,消费视角,47.612492990421295
+249,辽宁,Energy,Transport,消费视角,4.627882757837412
+250,辽宁,Energy,Services,消费视角,27.07625399960585
+251,辽宁,Energy,Others,消费视角,52.72864964688005
+252,吉林,Energy,Agriculture,消费视角,1.189878444364427
+253,吉林,Energy,Food&tabacco,消费视角,4.343180219215844
+254,吉林,Energy,"Electricity, Gas &Water",消费视角,9.358644042286917
+255,吉林,Energy,Construction,消费视角,33.385593837711276
+256,吉林,Energy,Transport,消费视角,3.7397961432019096
+257,吉林,Energy,Services,消费视角,20.627411434269924
+258,吉林,Energy,Others,消费视角,39.146379478185
+259,黑龙江,Energy,Agriculture,消费视角,2.7947757356823093
+260,黑龙江,Energy,Food&tabacco,消费视角,3.5839331652891357
+261,黑龙江,Energy,"Electricity, Gas &Water",消费视角,11.505060189764334
+262,黑龙江,Energy,Construction,消费视角,19.974425559000558
+263,黑龙江,Energy,Transport,消费视角,3.5904547786087213
+264,黑龙江,Energy,Services,消费视角,22.83655496308236
+265,黑龙江,Energy,Others,消费视角,29.12238070961076
+266,上海,Energy,Agriculture,消费视角,4.788202482893478
+267,上海,Energy,Food&tabacco,消费视角,3.550300501873872
+268,上海,Energy,"Electricity, Gas &Water",消费视角,22.971713037487106
+269,上海,Energy,Construction,消费视角,26.706903361886322
+270,上海,Energy,Transport,消费视角,7.493655257730928
+271,上海,Energy,Services,消费视角,26.326133820729666
+272,上海,Energy,Others,消费视角,33.71751013516374
+273,江苏,Energy,Agriculture,消费视角,3.6052949094123106
+274,江苏,Energy,Food&tabacco,消费视角,6.384705186603623
+275,江苏,Energy,"Electricity, Gas &Water",消费视角,16.536943873031454
+276,江苏,Energy,Construction,消费视角,56.624049936936416
+277,江苏,Energy,Transport,消费视角,5.554171512123707
+278,江苏,Energy,Services,消费视角,36.03063416708448
+279,江苏,Energy,Others,消费视角,92.1742667541913
+280,浙江,Energy,Agriculture,消费视角,3.0853977304694435
+281,浙江,Energy,Food&tabacco,消费视角,4.4567954483803245
+282,浙江,Energy,"Electricity, Gas &Water",消费视角,15.361162753263118
+283,浙江,Energy,Construction,消费视角,54.78903878784181
+284,浙江,Energy,Transport,消费视角,2.670817908666895
+285,浙江,Energy,Services,消费视角,33.163863561849745
+286,浙江,Energy,Others,消费视角,52.70500844072414
+287,安徽,Energy,Agriculture,消费视角,1.4137998521042325
+288,安徽,Energy,Food&tabacco,消费视角,4.832397891810752
+289,安徽,Energy,"Electricity, Gas &Water",消费视角,10.106239919943791
+290,安徽,Energy,Construction,消费视角,31.778398991088707
+291,安徽,Energy,Transport,消费视角,1.9973459078550286
+292,安徽,Energy,Services,消费视角,21.319694272322266
+293,安徽,Energy,Others,消费视角,18.412577343404017
+294,福建,Energy,Agriculture,消费视角,2.306837918250951
+295,福建,Energy,Food&tabacco,消费视角,2.8674175124990704
+296,福建,Energy,"Electricity, Gas &Water",消费视角,17.760670801395687
+297,福建,Energy,Construction,消费视角,23.225151199250313
+298,福建,Energy,Transport,消费视角,4.858616718251536
+299,福建,Energy,Services,消费视角,15.74409153256508
+300,福建,Energy,Others,消费视角,20.07899308640017
+301,江西,Energy,Agriculture,消费视角,1.1590150682047833
+302,江西,Energy,Food&tabacco,消费视角,4.256539790064711
+303,江西,Energy,"Electricity, Gas &Water",消费视角,16.91857008599488
+304,江西,Energy,Construction,消费视角,22.676369436014486
+305,江西,Energy,Transport,消费视角,2.0564011907397535
+306,江西,Energy,Services,消费视角,7.1206557252519955
+307,江西,Energy,Others,消费视角,15.080662851737838
+308,山东,Energy,Agriculture,消费视角,3.0896563217534148
+309,山东,Energy,Food&tabacco,消费视角,31.941907690324832
+310,山东,Energy,"Electricity, Gas &Water",消费视角,9.899021016716937
+311,山东,Energy,Construction,消费视角,75.2211552766937
+312,山东,Energy,Transport,消费视角,4.273888839709217
+313,山东,Energy,Services,消费视角,38.1288242642471
+314,山东,Energy,Others,消费视角,119.18266228164715
+315,河南,Energy,Agriculture,消费视角,4.468863913171298
+316,河南,Energy,Food&tabacco,消费视角,6.340515133101084
+317,河南,Energy,"Electricity, Gas &Water",消费视角,9.462688629359981
+318,河南,Energy,Construction,消费视角,28.660342286105013
+319,河南,Energy,Transport,消费视角,2.3331416734361703
+320,河南,Energy,Services,消费视角,26.133973312275547
+321,河南,Energy,Others,消费视角,99.61831205942306
+322,湖北,Energy,Agriculture,消费视角,3.2116803413694988
+323,湖北,Energy,Food&tabacco,消费视角,7.4184047789782595
+324,湖北,Energy,"Electricity, Gas &Water",消费视角,6.147523365104861
+325,湖北,Energy,Construction,消费视角,36.54928659527799
+326,湖北,Energy,Transport,消费视角,5.951293832704978
+327,湖北,Energy,Services,消费视角,15.893902136925197
+328,湖北,Energy,Others,消费视角,30.245265776949715
+329,湖南,Energy,Agriculture,消费视角,4.8150482491892745
+330,湖南,Energy,Food&tabacco,消费视角,6.080320462497534
+331,湖南,Energy,"Electricity, Gas &Water",消费视角,5.329070598186545
+332,湖南,Energy,Construction,消费视角,33.169304574875135
+333,湖南,Energy,Transport,消费视角,3.242479037379406
+334,湖南,Energy,Services,消费视角,22.036594495549174
+335,湖南,Energy,Others,消费视角,29.39898649292075
+336,广东,Energy,Agriculture,消费视角,3.7454683231540455
+337,广东,Energy,Food&tabacco,消费视角,7.1304534875955
+338,广东,Energy,"Electricity, Gas &Water",消费视角,26.561839143570367
+339,广东,Energy,Construction,消费视角,69.60884050189631
+340,广东,Energy,Transport,消费视角,12.023573443994852
+341,广东,Energy,Services,消费视角,46.260878414940834
+342,广东,Energy,Others,消费视角,54.96063483556976
+343,广西,Energy,Agriculture,消费视角,1.879155093227777
+344,广西,Energy,Food&tabacco,消费视角,6.2150030328280215
+345,广西,Energy,"Electricity, Gas &Water",消费视角,7.4063229483863475
+346,广西,Energy,Construction,消费视角,26.435679400437824
+347,广西,Energy,Transport,消费视角,3.2009919227972263
+348,广西,Energy,Services,消费视角,11.512582105617806
+349,广西,Energy,Others,消费视角,19.588916667789793
+350,海南,Energy,Agriculture,消费视角,0.8249458700928914
+351,海南,Energy,Food&tabacco,消费视角,0.34726516182159717
+352,海南,Energy,"Electricity, Gas &Water",消费视角,0.5452776092904935
+353,海南,Energy,Construction,消费视角,5.600017023282063
+354,海南,Energy,Transport,消费视角,0.887381095917618
+355,海南,Energy,Services,消费视角,2.501059926126184
+356,海南,Energy,Others,消费视角,2.1533688831813276
+357,重庆,Energy,Agriculture,消费视角,2.3076532577783517
+358,重庆,Energy,Food&tabacco,消费视角,2.2314744531016046
+359,重庆,Energy,"Electricity, Gas &Water",消费视角,5.076883510141245
+360,重庆,Energy,Construction,消费视角,26.731722333782486
+361,重庆,Energy,Transport,消费视角,2.303708601715053
+362,重庆,Energy,Services,消费视角,9.080441623845298
+363,重庆,Energy,Others,消费视角,13.855226292306439
+364,四川,Energy,Agriculture,消费视角,5.383232199774024
+365,四川,Energy,Food&tabacco,消费视角,7.363051121803339
+366,四川,Energy,"Electricity, Gas &Water",消费视角,6.24938930840096
+367,四川,Energy,Construction,消费视角,30.437893126109888
+368,四川,Energy,Transport,消费视角,3.7193319949520895
+369,四川,Energy,Services,消费视角,19.68873904625978
+370,四川,Energy,Others,消费视角,37.09576873474006
+371,贵州,Energy,Agriculture,消费视角,1.9439360410473516
+372,贵州,Energy,Food&tabacco,消费视角,0.6755995683391882
+373,贵州,Energy,"Electricity, Gas &Water",消费视角,4.8620407803729915
+374,贵州,Energy,Construction,消费视角,15.295357778048203
+375,贵州,Energy,Transport,消费视角,2.1361257854559925
+376,贵州,Energy,Services,消费视角,15.320704732240753
+377,贵州,Energy,Others,消费视角,9.733753181615967
+378,云南,Energy,Agriculture,消费视角,4.482576016506992
+379,云南,Energy,Food&tabacco,消费视角,2.5312513097347606
+380,云南,Energy,"Electricity, Gas &Water",消费视角,7.775313372265742
+381,云南,Energy,Construction,消费视角,27.234341928565865
+382,云南,Energy,Transport,消费视角,1.7346842611336395
+383,云南,Energy,Services,消费视角,10.177010513459146
+384,云南,Energy,Others,消费视角,18.859075912757962
+385,陕西,Energy,Agriculture,消费视角,3.352716099569875
+386,陕西,Energy,Food&tabacco,消费视角,3.9176762142137007
+387,陕西,Energy,"Electricity, Gas &Water",消费视角,14.591914025903288
+388,陕西,Energy,Construction,消费视角,21.748248098829695
+389,陕西,Energy,Transport,消费视角,1.947044250010705
+390,陕西,Energy,Services,消费视角,15.420929462881022
+391,陕西,Energy,Others,消费视角,31.880030831530295
+392,甘肃,Energy,Agriculture,消费视角,3.529560346387909
+393,甘肃,Energy,Food&tabacco,消费视角,1.8148293297922145
+394,甘肃,Energy,"Electricity, Gas &Water",消费视角,4.244442376672259
+395,甘肃,Energy,Construction,消费视角,17.916776089742477
+396,甘肃,Energy,Transport,消费视角,1.8642807692949297
+397,甘肃,Energy,Services,消费视角,5.908181065018511
+398,甘肃,Energy,Others,消费视角,5.831412114621524
+399,青海,Energy,Agriculture,消费视角,0.9211109236001193
+400,青海,Energy,Food&tabacco,消费视角,0.27243567735526664
+401,青海,Energy,"Electricity, Gas &Water",消费视角,2.0700616572235337
+402,青海,Energy,Construction,消费视角,3.7150281772265767
+403,青海,Energy,Transport,消费视角,1.880755726942727
+404,青海,Energy,Services,消费视角,2.837663052005042
+405,青海,Energy,Others,消费视角,2.768266040300073
+406,宁夏,Energy,Agriculture,消费视角,0.5558463536745484
+407,宁夏,Energy,Food&tabacco,消费视角,0.21642573074573984
+408,宁夏,Energy,"Electricity, Gas &Water",消费视角,4.133173019246472
+409,宁夏,Energy,Construction,消费视角,13.46047722722294
+410,宁夏,Energy,Transport,消费视角,1.0984273188533529
+411,宁夏,Energy,Services,消费视角,4.468952482122807
+412,宁夏,Energy,Others,消费视角,7.079246731823007
+413,新疆,Energy,Agriculture,消费视角,3.2191775973780428
+414,新疆,Energy,Food&tabacco,消费视角,2.8194092200301077
+415,新疆,Energy,"Electricity, Gas &Water",消费视角,13.996966080925896
+416,新疆,Energy,Construction,消费视角,20.061233366185267
+417,新疆,Energy,Transport,消费视角,1.668301841728411
+418,新疆,Energy,Services,消费视角,11.487081944396616
+419,新疆,Energy,Others,消费视角,12.322164056312724
+,region,EWCL,dept,perspective,value
+0,北京,Water,Agriculture,生产视角,3037.8671317831468
+1,北京,Water,Food&tabacco,生产视角,8.825302289334498
+2,北京,Water,"Electricity, Gas &Water",生产视角,139.1400588676361
+3,北京,Water,Construction,生产视角,55.64664114748314
+4,北京,Water,Transport,生产视角,6.438750361291089
+5,北京,Water,Services,生产视角,65.38862413326052
+6,北京,Water,Others,生产视角,148.52683322830575
+7,天津,Water,Agriculture,生产视角,3367.925009818472
+8,天津,Water,Food&tabacco,生产视角,8.515539382662528
+9,天津,Water,"Electricity, Gas &Water",生产视角,96.1886811856408
+10,天津,Water,Construction,生产视角,39.96785286094857
+11,天津,Water,Transport,生产视角,3.9309498117679826
+12,天津,Water,Services,生产视角,11.148465685801664
+13,天津,Water,Others,生产视角,234.94049937095755
+14,河北,Water,Agriculture,生产视角,66244.56319434557
+15,河北,Water,Food&tabacco,生产视角,25.330228101913526
+16,河北,Water,"Electricity, Gas &Water",生产视角,1652.2775343214316
+17,河北,Water,Construction,生产视角,264.8589216285728
+18,河北,Water,Transport,生产视角,29.73605729549472
+19,河北,Water,Services,生产视角,67.7962841295068
+20,河北,Water,Others,生产视角,991.0225848942548
+21,山西,Water,Agriculture,生产视角,16330.169045735334
+22,山西,Water,Food&tabacco,生产视角,5.584930904858725
+23,山西,Water,"Electricity, Gas &Water",生产视角,296.8030376286474
+24,山西,Water,Construction,生产视角,138.57891519019188
+25,山西,Water,Transport,生产视角,4.550962190438433
+26,山西,Water,Services,生产视角,13.73688487315839
+27,山西,Water,Others,生产视角,526.8005916530001
+28,内蒙古,Water,Agriculture,生产视角,32791.75604063554
+29,内蒙古,Water,Food&tabacco,生产视角,18.10602634408503
+30,内蒙古,Water,"Electricity, Gas &Water",生产视角,389.8072624204718
+31,内蒙古,Water,Construction,生产视角,133.22700850479998
+32,内蒙古,Water,Transport,生产视角,9.361075754920295
+33,内蒙古,Water,Services,生产视角,19.328316118536087
+34,内蒙古,Water,Others,生产视角,385.5023271642211
+35,辽宁,Water,Agriculture,生产视角,30787.252810195125
+36,辽宁,Water,Food&tabacco,生产视角,16.5545492594006
+37,辽宁,Water,"Electricity, Gas &Water",生产视角,415.3999380182469
+38,辽宁,Water,Construction,生产视角,168.31022774866267
+39,辽宁,Water,Transport,生产视角,11.503063027690283
+40,辽宁,Water,Services,生产视角,53.98369712958319
+41,辽宁,Water,Others,生产视角,1001.5053483677468
+42,吉林,Water,Agriculture,生产视角,31597.358178996154
+43,吉林,Water,Food&tabacco,生产视角,17.43770948915174
+44,吉林,Water,"Electricity, Gas &Water",生产视角,568.0249678970011
+45,吉林,Water,Construction,生产视角,132.55663195676303
+46,吉林,Water,Transport,生产视角,6.581074278000966
+47,吉林,Water,Services,生产视角,40.49817232032014
+48,吉林,Water,Others,生产视角,336.2875981403415
+49,黑龙江,Water,Agriculture,生产视角,56279.70905420447
+50,黑龙江,Water,Food&tabacco,生产视角,18.94848740241997
+51,黑龙江,Water,"Electricity, Gas &Water",生产视角,1204.5817758124097
+52,黑龙江,Water,Construction,生产视角,237.7758968595313
+53,黑龙江,Water,Transport,生产视角,10.445938671519187
+54,黑龙江,Water,Services,生产视角,49.944352711254695
+55,黑龙江,Water,Others,生产视角,398.05246588967066
+56,上海,Water,Agriculture,生产视角,2480.0305600058596
+57,上海,Water,Food&tabacco,生产视角,14.712530658687456
+58,上海,Water,"Electricity, Gas &Water",生产视角,6699.428269241817
+59,上海,Water,Construction,生产视角,718.2483487081404
+60,上海,Water,Transport,生产视角,21.167502014334232
+61,上海,Water,Services,生产视角,83.40055375370451
+62,上海,Water,Others,生产视角,680.5557660565356
+63,江苏,Water,Agriculture,生产视角,49780.55263240733
+64,江苏,Water,Food&tabacco,生产视角,35.21178863782865
+65,江苏,Water,"Electricity, Gas &Water",生产视角,14084.756786105127
+66,江苏,Water,Construction,生产视角,1430.796281812878
+67,江苏,Water,Transport,生产视角,18.63015860478534
+68,江苏,Water,Services,生产视角,109.48602332866739
+69,江苏,Water,Others,生产视角,2124.3877841912654
+70,浙江,Water,Agriculture,生产视角,15162.318097368756
+71,浙江,Water,Food&tabacco,生产视角,37.29612088541019
+72,浙江,Water,"Electricity, Gas &Water",生产视角,458.95120794322077
+73,浙江,Water,Construction,生产视角,185.72316718614184
+74,浙江,Water,Transport,生产视角,13.427183171770219
+75,浙江,Water,Services,生产视角,101.13064738592283
+76,浙江,Water,Others,生产视角,1483.7768716116614
+77,安徽,Water,Agriculture,生产视角,46128.2029403267
+78,安徽,Water,Food&tabacco,生产视角,33.69960077264119
+79,安徽,Water,"Electricity, Gas &Water",生产视角,1420.1252277827873
+80,安徽,Water,Construction,生产视角,317.12602829429653
+81,安徽,Water,Transport,生产视角,8.11140616941304
+82,安徽,Water,Services,生产视角,41.20454654664629
+83,安徽,Water,Others,生产视角,648.7908918449552
+84,福建,Water,Agriculture,生产视角,17736.551064567648
+85,福建,Water,Food&tabacco,生产视角,34.29227193741406
+86,福建,Water,"Electricity, Gas &Water",生产视角,1692.819552777242
+87,福建,Water,Construction,生产视角,347.3643838333206
+88,福建,Water,Transport,生产视角,22.297080966789224
+89,福建,Water,Services,生产视角,96.39833353570293
+90,福建,Water,Others,生产视角,761.4551320292663
+91,江西,Water,Agriculture,生产视角,18697.629647382797
+92,江西,Water,Food&tabacco,生产视角,16.762901394541565
+93,江西,Water,"Electricity, Gas &Water",生产视角,2437.6837071426366
+94,江西,Water,Construction,生产视角,396.50084331204494
+95,江西,Water,Transport,生产视角,7.033666754663821
+96,江西,Water,Services,生产视角,33.66337821454048
+97,江西,Water,Others,生产视角,532.0335544579302
+98,山东,Water,Agriculture,生产视角,91704.85618074427
+99,山东,Water,Food&tabacco,生产视角,83.57244578589959
+100,山东,Water,"Electricity, Gas &Water",生产视角,669.8609388733768
+101,山东,Water,Construction,生产视角,189.82358903672846
+102,山东,Water,Transport,生产视角,10.29514149893366
+103,山东,Water,Services,生产视角,51.61388637626965
+104,山东,Water,Others,生产视角,1665.0595880287483
+105,河南,Water,Agriculture,生产视角,91248.25340969591
+106,河南,Water,Food&tabacco,生产视角,38.10281555282012
+107,河南,Water,"Electricity, Gas &Water",生产视角,512.0444857000621
+108,河南,Water,Construction,生产视角,118.09555089613686
+109,河南,Water,Transport,生产视角,34.51233566703306
+110,河南,Water,Services,生产视角,182.12252949383952
+111,河南,Water,Others,生产视角,857.4912126642948
+112,湖北,Water,Agriculture,生产视角,36655.90140609299
+113,湖北,Water,Food&tabacco,生产视角,39.12175958605019
+114,湖北,Water,"Electricity, Gas &Water",生产视角,3013.724570592334
+115,湖北,Water,Construction,生产视角,638.7089854040634
+116,湖北,Water,Transport,生产视角,12.290331789240215
+117,湖北,Water,Services,生产视角,52.47235007484473
+118,湖北,Water,Others,生产视角,848.3261109962639
+119,湖南,Water,Agriculture,生产视角,30523.48889730333
+120,湖南,Water,Food&tabacco,生产视角,26.634875921781333
+121,湖南,Water,"Electricity, Gas &Water",生产视角,3203.4627752997767
+122,湖南,Water,Construction,生产视角,689.7680524374314
+123,湖南,Water,Transport,生产视角,12.720800509364558
+124,湖南,Water,Services,生产视角,71.31275116124073
+125,湖南,Water,Others,生产视角,1058.6198467405925
+126,广东,Water,Agriculture,生产视角,30467.799117942977
+127,广东,Water,Food&tabacco,生产视角,65.11264783064551
+128,广东,Water,"Electricity, Gas &Water",生产视角,1195.1605249799961
+129,广东,Water,Construction,生产视角,237.0091471796001
+130,广东,Water,Transport,生产视角,27.604743413334965
+131,广东,Water,Services,生产视角,200.07729538159725
+132,广东,Water,Others,生产视角,2300.046291576809
+133,广西,Water,Agriculture,生产视角,36845.28786306258
+134,广西,Water,Food&tabacco,生产视角,80.83126762853558
+135,广西,Water,"Electricity, Gas &Water",生产视角,934.3691501023228
+136,广西,Water,Construction,生产视角,274.04178153041016
+137,广西,Water,Transport,生产视角,15.176976185562356
+138,广西,Water,Services,生产视角,72.59328327486374
+139,广西,Water,Others,生产视角,581.367839068012
+140,海南,Water,Agriculture,生产视角,5615.612232978363
+141,海南,Water,Food&tabacco,生产视角,8.884520423025135
+142,海南,Water,"Electricity, Gas &Water",生产视角,30.47671096186523
+143,海南,Water,Construction,生产视角,23.295471878920196
+144,海南,Water,Transport,生产视角,4.074386102727343
+145,海南,Water,Services,生产视角,13.656567216540237
+146,海南,Water,Others,生产视角,45.54177368236484
+147,重庆,Water,Agriculture,生产视角,13823.162595008174
+148,重庆,Water,Food&tabacco,生产视角,8.36120991016763
+149,重庆,Water,"Electricity, Gas &Water",生产视角,1845.064256946379
+150,重庆,Water,Construction,生产视角,439.80573721344456
+151,重庆,Water,Transport,生产视角,4.017106999711176
+152,重庆,Water,Services,生产视角,23.747847394865747
+153,重庆,Water,Others,生产视角,335.72321327483303
+154,四川,Water,Agriculture,生产视角,47523.421690185794
+155,四川,Water,Food&tabacco,生产视角,35.76105636927571
+156,四川,Water,"Electricity, Gas &Water",生产视角,371.3705205206818
+157,四川,Water,Construction,生产视角,185.20467373771285
+158,四川,Water,Transport,生产视角,8.799201581797
+159,四川,Water,Services,生产视角,78.91484197732508
+160,四川,Water,Others,生产视角,988.765169480139
+161,贵州,Water,Agriculture,生产视角,15451.34285683905
+162,贵州,Water,Food&tabacco,生产视角,9.320821014977268
+163,贵州,Water,"Electricity, Gas &Water",生产视角,715.2698858431359
+164,贵州,Water,Construction,生产视角,188.52940939412292
+165,贵州,Water,Transport,生产视角,1.5971829502107808
+166,贵州,Water,Services,生产视角,6.334364909716098
+167,贵州,Water,Others,生产视角,209.92689936036925
+168,云南,Water,Agriculture,生产视角,28795.39079147365
+169,云南,Water,Food&tabacco,生产视角,45.45143466860015
+170,云南,Water,"Electricity, Gas &Water",生产视角,1840.8601038210586
+171,云南,Water,Construction,生产视角,540.8375066490021
+172,云南,Water,Transport,生产视角,1.5606304735558059
+173,云南,Water,Services,生产视角,18.287445741697354
+174,云南,Water,Others,生产视角,364.474892194081
+175,陕西,Water,Agriculture,生产视角,23663.3841396637
+176,陕西,Water,Food&tabacco,生产视角,13.699423484030165
+177,陕西,Water,"Electricity, Gas &Water",生产视角,179.5348338352379
+178,陕西,Water,Construction,生产视角,101.3207779514508
+179,陕西,Water,Transport,生产视角,7.302354730489059
+180,陕西,Water,Services,生产视角,35.82773984802165
+181,陕西,Water,Others,生产视角,374.07808118361754
+182,甘肃,Water,Agriculture,生产视角,16722.347234270354
+183,甘肃,Water,Food&tabacco,生产视角,14.485823829510743
+184,甘肃,Water,"Electricity, Gas &Water",生产视角,257.09166388261264
+185,甘肃,Water,Construction,生产视角,148.72947733034158
+186,甘肃,Water,Transport,生产视角,3.6573232635851283
+187,甘肃,Water,Services,生产视角,15.964691052940474
+188,甘肃,Water,Others,生产视角,377.1122526154875
+189,青海,Water,Agriculture,生产视角,2279.65258737458
+190,青海,Water,Food&tabacco,生产视角,1.148184824473024
+191,青海,Water,"Electricity, Gas &Water",生产视角,10.948049636150664
+192,青海,Water,Construction,生产视角,25.43896485760877
+193,青海,Water,Transport,生产视角,0.8027356942171379
+194,青海,Water,Services,生产视角,4.76490416980357
+195,青海,Water,Others,生产视角,100.6809243427562
+196,宁夏,Water,Agriculture,生产视角,5882.3399550992135
+197,宁夏,Water,Food&tabacco,生产视角,3.2538315827853292
+198,宁夏,Water,"Electricity, Gas &Water",生产视角,105.98677579324875
+199,宁夏,Water,Construction,生产视角,54.49730480643901
+200,宁夏,Water,Transport,生产视角,2.0396655955002925
+201,宁夏,Water,Services,生产视角,7.179897271186885
+202,宁夏,Water,Others,生产视角,113.1479041042383
+203,新疆,Water,Agriculture,生产视角,36618.48901202685
+204,新疆,Water,Food&tabacco,生产视角,12.061542799590136
+205,新疆,Water,"Electricity, Gas &Water",生产视角,694.3366674938636
+206,新疆,Water,Construction,生产视角,283.4385728746197
+207,新疆,Water,Transport,生产视角,3.3599317459508278
+208,新疆,Water,Services,生产视角,13.57856118860247
+209,新疆,Water,Others,生产视角,609.6050639997427
+210,北京,Water,Agriculture,消费视角,5930.340797214589
+211,北京,Water,Food&tabacco,消费视角,4481.532146353978
+212,北京,Water,"Electricity, Gas &Water",消费视角,264.67580118407363
+213,北京,Water,Construction,消费视角,2089.518227273529
+214,北京,Water,Transport,消费视角,138.77205357147872
+215,北京,Water,Services,消费视角,7727.621166283894
+216,北京,Water,Others,消费视角,1356.0004104915438
+217,天津,Water,Agriculture,消费视角,4679.135055448427
+218,天津,Water,Food&tabacco,消费视角,5080.971488104784
+219,天津,Water,"Electricity, Gas &Water",消费视角,167.72035631979696
+220,天津,Water,Construction,消费视角,2035.0200735316525
+221,天津,Water,Transport,消费视角,727.1652412934418
+222,天津,Water,Services,消费视角,3164.2188152301273
+223,天津,Water,Others,消费视角,3275.962921549809
+224,河北,Water,Agriculture,消费视角,19481.49234780169
+225,河北,Water,Food&tabacco,消费视角,11302.132850600576
+226,河北,Water,"Electricity, Gas &Water",消费视角,956.9033078446322
+227,河北,Water,Construction,消费视角,3771.4161427458453
+228,河北,Water,Transport,消费视角,939.8076735982302
+229,河北,Water,Services,消费视角,5132.998445491755
+230,河北,Water,Others,消费视角,5273.854016526293
+231,山西,Water,Agriculture,消费视角,10060.402453711675
+232,山西,Water,Food&tabacco,消费视角,6331.365795067302
+233,山西,Water,"Electricity, Gas &Water",消费视角,190.09956311340818
+234,山西,Water,Construction,消费视角,1952.7148218672887
+235,山西,Water,Transport,消费视角,629.8096890835693
+236,山西,Water,Services,消费视角,3468.619515099366
+237,山西,Water,Others,消费视角,3115.6610970980046
+238,内蒙古,Water,Agriculture,消费视角,11654.7665448112
+239,内蒙古,Water,Food&tabacco,消费视角,9390.80405738296
+240,内蒙古,Water,"Electricity, Gas &Water",消费视角,105.85692474719075
+241,内蒙古,Water,Construction,消费视角,2896.798335314673
+242,内蒙古,Water,Transport,消费视角,424.9609134643082
+243,内蒙古,Water,Services,消费视角,2821.6173647190462
+244,内蒙古,Water,Others,消费视角,4101.6107651510965
+245,辽宁,Water,Agriculture,消费视角,8658.396142257756
+246,辽宁,Water,Food&tabacco,消费视角,15785.488333460471
+247,辽宁,Water,"Electricity, Gas &Water",消费视角,171.24647987696733
+248,辽宁,Water,Construction,消费视角,3202.5041555140806
+249,辽宁,Water,Transport,消费视角,285.67312410264805
+250,辽宁,Water,Services,消费视角,6742.603015288574
+251,辽宁,Water,Others,消费视角,5877.896115819207
+252,吉林,Water,Agriculture,消费视角,7206.964849454469
+253,吉林,Water,Food&tabacco,消费视角,8546.666934685918
+254,吉林,Water,"Electricity, Gas &Water",消费视角,126.5064592834563
+255,吉林,Water,Construction,消费视角,2244.5099803136472
+256,吉林,Water,Transport,消费视角,706.1198696970392
+257,吉林,Water,Services,消费视角,4146.313893659678
+258,吉林,Water,Others,消费视角,4400.805838899345
+259,黑龙江,Water,Agriculture,消费视角,15838.872573260873
+260,黑龙江,Water,Food&tabacco,消费视角,10151.00824217749
+261,黑龙江,Water,"Electricity, Gas &Water",消费视角,319.65342342929324
+262,黑龙江,Water,Construction,消费视角,1726.1015417804854
+263,黑龙江,Water,Transport,消费视角,228.62915717235748
+264,黑龙江,Water,Services,消费视角,6362.46849359121
+265,黑龙江,Water,Others,消费视角,4288.863199474135
+266,上海,Water,Agriculture,消费视角,20136.906694296937
+267,上海,Water,Food&tabacco,消费视角,6915.256563673936
+268,上海,Water,"Electricity, Gas &Water",消费视角,2874.6222420876884
+269,上海,Water,Construction,消费视角,3377.60417000762
+270,上海,Water,Transport,消费视角,583.5614445267652
+271,上海,Water,Services,消费视角,5977.712536428858
+272,上海,Water,Others,消费视角,4785.470780516866
+273,江苏,Water,Agriculture,消费视角,17835.61875635186
+274,江苏,Water,Food&tabacco,消费视角,14923.310229278333
+275,江苏,Water,"Electricity, Gas &Water",消费视角,1602.3595219304082
+276,江苏,Water,Construction,消费视角,9231.190917472823
+277,江苏,Water,Transport,消费视角,448.4393289906183
+278,江苏,Water,Services,消费视角,12458.136242617189
+279,江苏,Water,Others,消费视角,13319.504749413478
+280,浙江,Water,Agriculture,消费视角,10293.470008477985
+281,浙江,Water,Food&tabacco,消费视角,8434.924928271274
+282,浙江,Water,"Electricity, Gas &Water",消费视角,427.0312629912038
+283,浙江,Water,Construction,消费视角,4656.316185035806
+284,浙江,Water,Transport,消费视角,171.28219565695508
+285,浙江,Water,Services,消费视角,10184.775649110485
+286,浙江,Water,Others,消费视角,6138.3009083737425
+287,安徽,Water,Agriculture,消费视角,7492.24549588299
+288,安徽,Water,Food&tabacco,消费视角,11491.283431852193
+289,安徽,Water,"Electricity, Gas &Water",消费视角,346.8692950431028
+290,安徽,Water,Construction,消费视角,3830.847263759237
+291,安徽,Water,Transport,消费视角,182.89011279234415
+292,安徽,Water,Services,消费视角,5921.655671652759
+293,安徽,Water,Others,消费视角,3808.423016234601
+294,福建,Water,Agriculture,消费视角,8842.50140157941
+295,福建,Water,Food&tabacco,消费视角,6276.929828903525
+296,福建,Water,"Electricity, Gas &Water",消费视角,819.0751885420419
+297,福建,Water,Construction,消费视角,3396.6245087276147
+298,福建,Water,Transport,消费视角,386.2497378477173
+299,福建,Water,Services,消费视角,4650.137196468442
+300,福建,Water,Others,消费视角,3345.5007407533953
+301,江西,Water,Agriculture,消费视角,7089.2163394067875
+302,江西,Water,Food&tabacco,消费视角,8669.798076489378
+303,江西,Water,"Electricity, Gas &Water",消费视角,939.9808459488844
+304,江西,Water,Construction,消费视角,2609.030907153829
+305,江西,Water,Transport,消费视角,163.42899287957596
+306,江西,Water,Services,消费视角,2125.0533653631264
+307,江西,Water,Others,消费视角,2415.22858967042
+308,山东,Water,Agriculture,消费视角,13471.675037586076
+309,山东,Water,Food&tabacco,消费视角,53228.19151199943
+310,山东,Water,"Electricity, Gas &Water",消费视角,214.876289116467
+311,山东,Water,Construction,消费视角,10017.603103980393
+312,山东,Water,Transport,消费视角,422.2588429625937
+313,山东,Water,Services,消费视角,9894.90217165779
+314,山东,Water,Others,消费视角,16156.580644184549
+315,河南,Water,Agriculture,消费视角,31022.641617906578
+316,河南,Water,Food&tabacco,消费视角,18369.99812980323
+317,河南,Water,"Electricity, Gas &Water",消费视角,324.16226931066853
+318,河南,Water,Construction,消费视角,3673.679944510263
+319,河南,Water,Transport,消费视角,213.3601627806416
+320,河南,Water,Services,消费视角,11187.43529458866
+321,河南,Water,Others,消费视角,19745.76544719311
+322,湖北,Water,Agriculture,消费视角,13684.105701384793
+323,湖北,Water,Food&tabacco,消费视角,16207.789777752936
+324,湖北,Water,"Electricity, Gas &Water",消费视角,400.4186174108253
+325,湖北,Water,Construction,消费视角,3899.609502516294
+326,湖北,Water,Transport,消费视角,445.7187706961095
+327,湖北,Water,Services,消费视角,4211.627899772629
+328,湖北,Water,Others,消费视角,4913.907977576111
+329,湖南,Water,Agriculture,消费视角,14557.440341816868
+330,湖南,Water,Food&tabacco,消费视角,8491.103004138165
+331,湖南,Water,"Electricity, Gas &Water",消费视角,393.98598382212896
+332,湖南,Water,Construction,消费视角,3642.292621972463
+333,湖南,Water,Transport,消费视角,237.48279884682222
+334,湖南,Water,Services,消费视角,4467.150496503308
+335,湖南,Water,Others,消费视角,4480.857069266677
+336,广东,Water,Agriculture,消费视角,17334.057761659864
+337,广东,Water,Food&tabacco,消费视角,13488.105151410538
+338,广东,Water,"Electricity, Gas &Water",消费视角,715.8104444621356
+339,广东,Water,Construction,消费视角,6052.79982005542
+340,广东,Water,Transport,消费视角,513.7984290787505
+341,广东,Water,Services,消费视角,13340.746652446256
+342,广东,Water,Others,消费视角,8547.865149592732
+343,广西,Water,Agriculture,消费视角,16613.760005875334
+344,广西,Water,Food&tabacco,消费视角,12259.321782550878
+345,广西,Water,"Electricity, Gas &Water",消费视角,301.5335026640239
+346,广西,Water,Construction,消费视角,2896.1904775288785
+347,广西,Water,Transport,消费视角,273.7255866663563
+348,广西,Water,Services,消费视角,4026.712687428178
+349,广西,Water,Others,消费视角,2547.333090304936
+350,海南,Water,Agriculture,消费视角,2950.089167055061
+351,海南,Water,Food&tabacco,消费视角,706.5981068582902
+352,海南,Water,"Electricity, Gas &Water",消费视角,14.498115796463399
+353,海南,Water,Construction,消费视角,1007.2538696709878
+354,海南,Water,Transport,消费视角,70.62059427865412
+355,海南,Water,Services,消费视角,811.5015694238326
+356,海南,Water,Others,消费视角,241.58582852554014
+357,重庆,Water,Agriculture,消费视角,8189.485117203001
+358,重庆,Water,Food&tabacco,消费视角,4384.311764442054
+359,重庆,Water,"Electricity, Gas &Water",消费视角,364.18104971064076
+360,重庆,Water,Construction,消费视角,2943.83831899609
+361,重庆,Water,Transport,消费视角,177.3611023709299
+362,重庆,Water,Services,消费视角,2696.5936118786676
+363,重庆,Water,Others,消费视角,1627.8769554085266
+364,四川,Water,Agriculture,消费视角,22593.955432429117
+365,四川,Water,Food&tabacco,消费视角,13169.906194202116
+366,四川,Water,"Electricity, Gas &Water",消费视角,194.80217935482634
+367,四川,Water,Construction,消费视角,2257.3748036701377
+368,四川,Water,Transport,消费视角,121.03654732298509
+369,四川,Water,Services,消费视角,5943.786356434392
+370,四川,Water,Others,消费视角,4516.135656319758
+371,贵州,Water,Agriculture,消费视角,9189.05518736439
+372,贵州,Water,Food&tabacco,消费视角,1253.0217565088183
+373,贵州,Water,"Electricity, Gas &Water",消费视角,100.83439706198676
+374,贵州,Water,Construction,消费视角,1159.8827430741412
+375,贵州,Water,Transport,消费视角,166.4293441417901
+376,贵州,Water,Services,消费视角,1799.2243165670022
+377,贵州,Water,Others,消费视角,1186.758702807572
+378,云南,Water,Agriculture,消费视角,20510.829743411927
+379,云南,Water,Food&tabacco,消费视角,4072.8121109619638
+380,云南,Water,"Electricity, Gas &Water",消费视角,496.02478431287426
+381,云南,Water,Construction,消费视角,2530.3661365092084
+382,云南,Water,Transport,消费视角,85.92916369676647
+383,云南,Water,Services,消费视角,2490.8869160313293
+384,云南,Water,Others,消费视角,2339.5887387595726
+385,陕西,Water,Agriculture,消费视角,18825.14443981529
+386,陕西,Water,Food&tabacco,消费视角,7733.844195131427
+387,陕西,Water,"Electricity, Gas &Water",消费视角,190.98114230612003
+388,陕西,Water,Construction,消费视角,2121.9726322759225
+389,陕西,Water,Transport,消费视角,77.6183374401742
+390,陕西,Water,Services,消费视角,2902.989135165555
+391,陕西,Water,Others,消费视角,4100.356124713907
+392,甘肃,Water,Agriculture,消费视角,12583.74824569983
+393,甘肃,Water,Food&tabacco,消费视角,3416.996458107963
+394,甘肃,Water,"Electricity, Gas &Water",消费视角,85.73655530527755
+395,甘肃,Water,Construction,消费视角,1571.7763795814217
+396,甘肃,Water,Transport,消费视角,227.01670188237918
+397,甘肃,Water,Services,消费视角,736.4466994881498
+398,甘肃,Water,Others,消费视角,1011.1703573523744
+399,青海,Water,Agriculture,消费视角,3847.2276183327867
+400,青海,Water,Food&tabacco,消费视角,584.709547095428
+401,青海,Water,"Electricity, Gas &Water",消费视角,30.526838999874506
+402,青海,Water,Construction,消费视角,193.15309486608783
+403,青海,Water,Transport,消费视角,126.71283944723497
+404,青海,Water,Services,消费视角,314.3822203400607
+405,青海,Water,Others,消费视角,238.6235138010952
+406,宁夏,Water,Agriculture,消费视角,2576.560950646865
+407,宁夏,Water,Food&tabacco,消费视角,457.1020616782124
+408,宁夏,Water,"Electricity, Gas &Water",消费视角,31.380424461401866
+409,宁夏,Water,Construction,消费视角,689.0006204800993
+410,宁夏,Water,Transport,消费视角,37.86595788311021
+411,宁夏,Water,Services,消费视角,610.0981015064932
+412,宁夏,Water,Others,消费视角,564.3321621588495
+413,新疆,Water,Agriculture,消费视角,12354.767595649693
+414,新疆,Water,Food&tabacco,消费视角,5095.77763233618
+415,新疆,Water,"Electricity, Gas &Water",消费视角,344.635622757591
+416,新疆,Water,Construction,消费视角,1691.8752598045885
+417,新疆,Water,Transport,消费视角,120.78092680131331
+418,新疆,Water,Services,消费视角,1854.5173136085036
+419,新疆,Water,Others,消费视角,1802.1882285111612
+,region,EWCL,dept,perspective,value
+0,北京,Land,Agriculture,生产视角,2879.301438606662
+1,北京,Land,Food&tabacco,生产视角,1663.046328102132
+2,北京,Land,"Electricity, Gas &Water",生产视角,86.04341276340574
+3,北京,Land,Construction,生产视角,751.3762640774278
+4,北京,Land,Transport,生产视角,59.93724631086409
+5,北京,Land,Services,生产视角,3222.817955668941
+6,北京,Land,Others,生产视角,405.63124310550364
+7,天津,Land,Agriculture,生产视角,2092.056818439049
+8,天津,Land,Food&tabacco,生产视角,2259.79167879016
+9,天津,Land,"Electricity, Gas &Water",生产视角,46.10068550390356
+10,天津,Land,Construction,生产视角,807.6278219510236
+11,天津,Land,Transport,生产视角,299.9510406750277
+12,天津,Land,Services,生产视角,1584.1492310608626
+13,天津,Land,Others,生产视角,1134.9685216358582
+14,河北,Land,Agriculture,生产视角,7776.394949599971
+15,河北,Land,Food&tabacco,生产视角,3711.2329933612637
+16,河北,Land,"Electricity, Gas &Water",生产视角,178.67757488685402
+17,河北,Land,Construction,生产视角,1185.1587588838668
+18,河北,Land,Transport,生产视角,376.0941011414665
+19,河北,Land,Services,生产视角,2395.720104549936
+20,河北,Land,Others,生产视角,1530.5248995763395
+21,山西,Land,Agriculture,生产视角,7161.367759569932
+22,山西,Land,Food&tabacco,生产视角,3236.7496174404823
+23,山西,Land,"Electricity, Gas &Water",生产视角,73.75445246901104
+24,山西,Land,Construction,生产视角,914.0125115947754
+25,山西,Land,Transport,生产视角,397.93938090502246
+26,山西,Land,Services,生产视角,1998.8774990809843
+27,山西,Land,Others,生产视角,1082.4733635994592
+28,内蒙古,Land,Agriculture,生产视角,42500.99096780564
+29,内蒙古,Land,Food&tabacco,生产视角,11572.564552745007
+30,内蒙古,Land,"Electricity, Gas &Water",生产视角,66.25932568058522
+31,内蒙古,Land,Construction,生产视角,2827.298904543773
+32,内蒙古,Land,Transport,生产视角,443.10694012201697
+33,内蒙古,Land,Services,生产视角,4451.745048635832
+34,内蒙古,Land,Others,生产视角,2454.868068419136
+35,辽宁,Land,Agriculture,生产视角,5202.52133709159
+36,辽宁,Land,Food&tabacco,生产视角,5159.657757505598
+37,辽宁,Land,"Electricity, Gas &Water",生产视角,38.06403306758649
+38,辽宁,Land,Construction,生产视角,962.900891696991
+39,辽宁,Land,Transport,生产视角,125.86840705895806
+40,辽宁,Land,Services,生产视角,2376.030526571267
+41,辽宁,Land,Others,生产视角,1755.2670516596522
+42,吉林,Land,Agriculture,生产视角,5953.063147945068
+43,吉林,Land,Food&tabacco,生产视角,3336.271268008748
+44,吉林,Land,"Electricity, Gas &Water",生产视角,29.128253739752896
+45,吉林,Land,Construction,生产视角,795.3039504863085
+46,吉林,Land,Transport,生产视角,384.65607906267314
+47,吉林,Land,Services,生产视角,1783.1510234869133
+48,吉林,Land,Others,生产视角,1476.8452992729908
+49,黑龙江,Land,Agriculture,生产视角,11588.285370487809
+50,黑龙江,Land,Food&tabacco,生产视角,4586.900427481256
+51,黑龙江,Land,"Electricity, Gas &Water",生产视角,37.382689731439676
+52,黑龙江,Land,Construction,生产视角,550.4845030677335
+53,黑龙江,Land,Transport,生产视角,138.29555849043754
+54,黑龙江,Land,Services,生产视角,2960.0571108026807
+55,黑龙江,Land,Others,生产视角,1611.7603546891835
+56,上海,Land,Agriculture,生产视角,10112.700013093261
+57,上海,Land,Food&tabacco,生产视角,2714.960071586243
+58,上海,Land,"Electricity, Gas &Water",生产视角,149.31982833119227
+59,上海,Land,Construction,生产视角,594.2289965780936
+60,上海,Land,Transport,生产视角,166.52545226895177
+61,上海,Land,Services,生产视角,2189.311942853221
+62,上海,Land,Others,生产视角,1331.605586301362
+63,江苏,Land,Agriculture,生产视角,8418.283575640336
+64,江苏,Land,Food&tabacco,生产视角,4414.835569733004
+65,江苏,Land,"Electricity, Gas &Water",生产视角,78.7323714963745
+66,江苏,Land,Construction,生产视角,1768.4317849209647
+67,江苏,Land,Transport,生产视角,201.37695966945267
+68,江苏,Land,Services,生产视角,3401.2976007436587
+69,江苏,Land,Others,生产视角,2967.8338534792747
+70,浙江,Land,Agriculture,生产视角,7746.509282982442
+71,浙江,Land,Food&tabacco,生产视角,2972.9960416717563
+72,浙江,Land,"Electricity, Gas &Water",生产视角,60.15785168548036
+73,浙江,Land,Construction,生产视角,1359.7757260955036
+74,浙江,Land,Transport,生产视角,105.2451650928941
+75,浙江,Land,Services,生产视角,4751.468248450838
+76,浙江,Land,Others,生产视角,1678.8861084854898
+77,安徽,Land,Agriculture,生产视角,3610.5754566895166
+78,安徽,Land,Food&tabacco,生产视角,3461.6789926217825
+79,安徽,Land,"Electricity, Gas &Water",生产视角,38.74632173086047
+80,安徽,Land,Construction,生产视角,958.4819165229467
+81,安徽,Land,Transport,生产视角,85.77626340318182
+82,安徽,Land,Services,生产视角,2047.6011735002535
+83,安徽,Land,Others,生产视角,1028.92603682334
+84,福建,Land,Agriculture,生产视角,5739.5438313188115
+85,福建,Land,Food&tabacco,生产视角,2085.3018785430777
+86,福建,Land,"Electricity, Gas &Water",生产视角,51.333229703117226
+87,福建,Land,Construction,生产视角,948.3733868196289
+88,福建,Land,Transport,生产视角,172.14408352372448
+89,福建,Land,Services,生产视角,1707.9832586485077
+90,福建,Land,Others,生产视角,946.9943637180274
+91,江西,Land,Agriculture,生产视角,5945.63719720381
+92,江西,Land,Food&tabacco,生产视角,4127.419653847952
+93,江西,Land,"Electricity, Gas &Water",生产视角,89.91556677178613
+94,江西,Land,Construction,生产视角,644.6247745814187
+95,江西,Land,Transport,生产视角,88.82934146297356
+96,江西,Land,Services,生产视角,997.6378339681999
+97,江西,Land,Others,生产视角,674.1480009751975
+98,山东,Land,Agriculture,生产视角,5003.624917878308
+99,山东,Land,Food&tabacco,生产视角,11340.09166961275
+100,山东,Land,"Electricity, Gas &Water",生产视角,39.50456543946601
+101,山东,Land,Construction,生产视角,1815.1055675842117
+102,山东,Land,Transport,生产视角,140.33589385899444
+103,山东,Land,Services,生产视角,2152.844423698867
+104,山东,Land,Others,生产视角,2916.475215245406
+105,河南,Land,Agriculture,生产视角,8452.353267577448
+106,河南,Land,Food&tabacco,生产视角,3953.1368097768213
+107,河南,Land,"Electricity, Gas &Water",生产视角,59.302162522556515
+108,河南,Land,Construction,生产视角,885.3898574525015
+109,河南,Land,Transport,生产视角,80.4710160343146
+110,河南,Land,Services,生产视角,2671.9335914774756
+111,河南,Land,Others,生产视角,4432.743854746759
+112,湖北,Land,Agriculture,生产视角,8193.14738657312
+113,湖北,Land,Food&tabacco,生产视角,6351.722845193584
+114,湖北,Land,"Electricity, Gas &Water",生产视角,48.62840192797696
+115,湖北,Land,Construction,生产视角,1068.894004011114
+116,湖北,Land,Transport,生产视角,179.49296158484051
+117,湖北,Land,Services,生产视角,1567.8697865582726
+118,湖北,Land,Others,生产视角,1427.6445836023731
+119,湖南,Land,Agriculture,生产视角,8650.746686775768
+120,湖南,Land,Food&tabacco,生产视角,3003.176653047477
+121,湖南,Land,"Electricity, Gas &Water",生产视角,26.818205201854877
+122,湖南,Land,Construction,生产视角,983.6272488257398
+123,湖南,Land,Transport,生产视角,120.21367295027038
+124,湖南,Land,Services,生产视角,1605.9525643517031
+125,湖南,Land,Others,生产视角,1246.3959264540154
+126,广东,Land,Agriculture,生产视角,10710.146044544932
+127,广东,Land,Food&tabacco,生产视角,4584.65120192066
+128,广东,Land,"Electricity, Gas &Water",生产视角,139.21658148138013
+129,广东,Land,Construction,生产视角,1863.0786337026307
+130,广东,Land,Transport,生产视角,211.88006045731504
+131,广东,Land,Services,生产视角,4894.432736315467
+132,广东,Land,Others,生产视角,2430.2029166043953
+133,广西,Land,Agriculture,生产视角,11251.046606660333
+134,广西,Land,Food&tabacco,生产视角,5257.199015257322
+135,广西,Land,"Electricity, Gas &Water",生产视角,28.98060870680635
+136,广西,Land,Construction,生产视角,987.5036237708674
+137,广西,Land,Transport,生产视角,156.0406962699413
+138,广西,Land,Services,生产视角,1835.9154064770628
+139,广西,Land,Others,生产视角,775.685229949927
+140,海南,Land,Agriculture,生产视角,2038.5404012896945
+141,海南,Land,Food&tabacco,生产视角,270.95275628512394
+142,海南,Land,"Electricity, Gas &Water",生产视角,5.985931871689514
+143,海南,Land,Construction,生产视角,521.5007692625862
+144,海南,Land,Transport,生产视角,34.35137947507373
+145,海南,Land,Services,生产视角,438.408042562613
+146,海南,Land,Others,生产视角,78.3705693911005
+147,重庆,Land,Agriculture,生产视角,4889.343602435673
+148,重庆,Land,Food&tabacco,生产视角,1699.5923118907954
+149,重庆,Land,"Electricity, Gas &Water",生产视角,23.408645904314785
+150,重庆,Land,Construction,生产视角,806.3874181716843
+151,重庆,Land,Transport,生产视角,89.90674106464598
+152,重庆,Land,Services,生产视角,1099.6979275049225
+153,重庆,Land,Others,生产视角,444.7473857529667
+154,四川,Land,Agriculture,生产视角,19653.05413559688
+155,四川,Land,Food&tabacco,生产视角,6726.14496243112
+156,四川,Land,"Electricity, Gas &Water",生产视角,69.25264971493874
+157,四川,Land,Construction,生产视角,909.0055747772644
+158,四川,Land,Transport,生产视角,105.33748230348499
+159,四川,Land,Services,生产视角,3273.43480649517
+160,四川,Land,Others,生产视角,1686.7564752080164
+161,贵州,Land,Agriculture,生产视角,8241.569028381396
+162,贵州,Land,Food&tabacco,生产视角,589.8076017210658
+163,贵州,Land,"Electricity, Gas &Water",生产视角,13.568424163703654
+164,贵州,Land,Construction,生产视角,428.1752172593724
+165,贵州,Land,Transport,生产视角,122.13822981249407
+166,贵州,Land,Services,生产视角,934.6645742082169
+167,贵州,Land,Others,生产视角,362.08141527800046
+168,云南,Land,Agriculture,生产视角,24495.36708564733
+169,云南,Land,Food&tabacco,生产视角,2419.8147639878043
+170,云南,Land,"Electricity, Gas &Water",生产视角,75.51093139956957
+171,云南,Land,Construction,生产视角,1063.6788588285026
+172,云南,Land,Transport,生产视角,92.99891614297735
+173,云南,Land,Services,生产视角,1611.965687426969
+174,云南,Land,Others,生产视角,719.8688166721316
+175,陕西,Land,Agriculture,生产视角,53819.31669899424
+176,陕西,Land,Food&tabacco,生产视角,3384.7436370527594
+177,陕西,Land,"Electricity, Gas &Water",生产视角,82.66938282162943
+178,陕西,Land,Construction,生产视角,2024.967276756795
+179,陕西,Land,Transport,生产视角,67.21753874428478
+180,陕西,Land,Services,生产视角,2518.866428666327
+181,陕西,Land,Others,生产视角,1809.6210721004338
+182,甘肃,Land,Agriculture,生产视角,11545.04972834207
+183,甘肃,Land,Food&tabacco,生产视角,1792.4482583084625
+184,甘肃,Land,"Electricity, Gas &Water",生产视角,25.17956515883524
+185,甘肃,Land,Construction,生产视角,861.1357749889861
+186,甘肃,Land,Transport,生产视角,202.77375292475145
+187,甘肃,Land,Services,生产视角,430.3470628680138
+188,甘肃,Land,Others,生产视角,427.5267624923212
+189,青海,Land,Agriculture,生产视角,23849.710317129113
+190,青海,Land,Food&tabacco,生产视角,767.2847496585969
+191,青海,Land,"Electricity, Gas &Water",生产视角,18.376759781323575
+192,青海,Land,Construction,生产视角,405.7347416267008
+193,青海,Land,Transport,生产视角,93.51785642648615
+194,青海,Land,Services,生产视角,1033.1220384701828
+195,青海,Land,Others,生产视角,309.1983491614777
+196,宁夏,Land,Agriculture,生产视角,17663.415279977206
+197,宁夏,Land,Food&tabacco,生产视角,440.2737227290305
+198,宁夏,Land,"Electricity, Gas &Water",生产视角,24.066857954335084
+199,宁夏,Land,Construction,生产视角,902.1450262674048
+200,宁夏,Land,Transport,生产视角,72.2328876411284
+201,宁夏,Land,Services,生产视角,1415.7075139259853
+202,宁夏,Land,Others,生产视角,502.52612219709425
+203,新疆,Land,Agriculture,生产视角,2934.2417466901534
+204,新疆,Land,Food&tabacco,生产视角,766.8912148417548
+205,新疆,Land,"Electricity, Gas &Water",生产视角,18.048863131495104
+206,新疆,Land,Construction,生产视角,351.5536154201256
+207,新疆,Land,Transport,生产视角,50.22861878627765
+208,新疆,Land,Services,生产视角,485.2300868303017
+209,新疆,Land,Others,生产视角,486.8734757495752
+210,北京,Land,Agriculture,消费视角,372.1867656443668
+211,北京,Land,Food&tabacco,消费视角,1023.2819399727266
+212,北京,Land,"Electricity, Gas &Water",消费视角,38.05581119276292
+213,北京,Land,Construction,消费视角,388.9485166702669
+214,北京,Land,Transport,消费视角,29.865465381031225
+215,北京,Land,Services,消费视角,1311.7638121261798
+216,北京,Land,Others,消费视角,360.6057956503883
+217,天津,Land,Agriculture,消费视角,280.67074999763213
+218,天津,Land,Food&tabacco,消费视角,996.7281955839577
+219,天津,Land,"Electricity, Gas &Water",消费视角,16.622721316034394
+220,天津,Land,Construction,消费视角,379.9005738268156
+221,天津,Land,Transport,消费视角,123.71670714987215
+222,天津,Land,Services,消费视角,536.0659772014155
+223,天津,Land,Others,消费视角,750.9960831797123
+224,河北,Land,Agriculture,消费视角,639.0946945453688
+225,河北,Land,Food&tabacco,消费视角,2050.4431530467527
+226,河北,Land,"Electricity, Gas &Water",消费视角,54.05604503385887
+227,河北,Land,Construction,消费视角,513.2967635671845
+228,河北,Land,Transport,消费视角,92.25376314550562
+229,河北,Land,Services,消费视角,719.6965647204048
+230,河北,Land,Others,消费视角,1139.1777982938852
+231,山西,Land,Agriculture,消费视角,276.0798348560964
+232,山西,Land,Food&tabacco,消费视角,1045.4869617740267
+233,山西,Land,"Electricity, Gas &Water",消费视角,15.086038776358807
+234,山西,Land,Construction,消费视角,221.07099658292216
+235,山西,Land,Transport,消费视角,54.983652593232115
+236,山西,Land,Services,消费视角,407.1163353092199
+237,山西,Land,Others,消费视角,602.4851126351466
+238,内蒙古,Land,Agriculture,消费视角,354.5948109289519
+239,内蒙古,Land,Food&tabacco,消费视角,1680.0289690849345
+240,内蒙古,Land,"Electricity, Gas &Water",消费视角,11.18377742664002
+241,内蒙古,Land,Construction,消费视角,432.2051779480401
+242,内蒙古,Land,Transport,消费视角,77.78667889319173
+243,内蒙古,Land,Services,消费视角,410.86202070390124
+244,内蒙古,Land,Others,消费视角,818.2417091087495
+245,辽宁,Land,Agriculture,消费视角,580.8255963757015
+246,辽宁,Land,Food&tabacco,消费视角,2882.1449461541065
+247,辽宁,Land,"Electricity, Gas &Water",消费视角,15.554742431450343
+248,辽宁,Land,Construction,消费视角,584.7789928470883
+249,辽宁,Land,Transport,消费视角,43.363906606704674
+250,辽宁,Land,Services,消费视角,1018.0376575314791
+251,辽宁,Land,Others,消费视角,1345.6214010688034
+252,吉林,Land,Agriculture,消费视角,283.12681882679976
+253,吉林,Land,Food&tabacco,消费视角,1419.57668162393
+254,吉林,Land,"Electricity, Gas &Water",消费视角,8.940784756508993
+255,吉林,Land,Construction,消费视角,314.8607097066149
+256,吉林,Land,Transport,消费视角,32.03301151449926
+257,吉林,Land,Services,消费视角,549.8637015116585
+258,吉林,Land,Others,消费视角,855.2693872190463
+259,黑龙江,Land,Agriculture,消费视角,377.7419937413172
+260,黑龙江,Land,Food&tabacco,消费视角,1243.5433147034692
+261,黑龙江,Land,"Electricity, Gas &Water",消费视角,12.008011476237725
+262,黑龙江,Land,Construction,消费视角,236.37753662594622
+263,黑龙江,Land,Transport,消费视角,34.51672180706673
+264,黑龙江,Land,Services,消费视角,606.8249260285847
+265,黑龙江,Land,Others,消费视角,760.3127159195158
+266,上海,Land,Agriculture,消费视角,663.2217709160944
+267,上海,Land,Food&tabacco,消费视角,1420.2245177401662
+268,上海,Land,"Electricity, Gas &Water",消费视角,73.48216194780993
+269,上海,Land,Construction,消费视角,529.4568768572112
+270,上海,Land,Transport,消费视角,125.08671804760608
+271,上海,Land,Services,消费视角,974.8082284065146
+272,上海,Land,Others,消费视角,1146.4186609690182
+273,江苏,Land,Agriculture,消费视角,1045.6801904300423
+274,江苏,Land,Food&tabacco,消费视角,3018.5504575094224
+275,江苏,Land,"Electricity, Gas &Water",消费视角,44.485598087441154
+276,江苏,Land,Construction,消费视角,1314.3110800080847
+277,江苏,Land,Transport,消费视角,81.19738909611173
+278,江苏,Land,Services,消费视角,1880.5401861898144
+279,江苏,Land,Others,消费视角,2712.1645390674435
+280,浙江,Land,Agriculture,消费视角,729.5723111925018
+281,浙江,Land,Food&tabacco,消费视角,2119.018397699434
+282,浙江,Land,"Electricity, Gas &Water",消费视角,31.598346076932753
+283,浙江,Land,Construction,消费视角,1057.2027846555634
+284,浙江,Land,Transport,消费视角,35.790131529454925
+285,浙江,Land,Services,消费视角,1726.8699202702178
+286,浙江,Land,Others,消费视角,1708.7003555439444
+287,安徽,Land,Agriculture,消费视角,333.25748091753917
+288,安徽,Land,Food&tabacco,消费视角,1734.87781894839
+289,安徽,Land,"Electricity, Gas &Water",消费视角,17.0965565801921
+290,安徽,Land,Construction,消费视角,484.22218875421396
+291,安徽,Land,Transport,消费视角,29.45927522355974
+292,安徽,Land,Services,消费视角,727.4024784240444
+293,安徽,Land,Others,消费视角,690.9908334664904
+294,福建,Land,Agriculture,消费视角,497.0375829099203
+295,福建,Land,Food&tabacco,消费视角,1584.594108955119
+296,福建,Land,"Electricity, Gas &Water",消费视角,34.568586413937474
+297,福建,Land,Construction,消费视角,671.1252982918419
+298,福建,Land,Transport,消费视角,75.09199764939018
+299,福建,Land,Services,消费视角,884.8077362314077
+300,福建,Land,Others,消费视角,867.3128104735409
+301,江西,Land,Agriculture,消费视角,245.49515728974023
+302,江西,Land,Food&tabacco,消费视角,1725.2687073081077
+303,江西,Land,"Electricity, Gas &Water",消费视角,39.33076135285179
+304,江西,Land,Construction,消费视角,375.0730599733399
+305,江西,Land,Transport,消费视角,26.196432023006867
+306,江西,Land,Services,消费视角,340.5664097204554
+307,江西,Land,Others,消费视角,669.1643903647856
+308,山东,Land,Agriculture,消费视角,1005.7700333434514
+309,山东,Land,Food&tabacco,消费视角,10365.356930579139
+310,山东,Land,"Electricity, Gas &Water",消费视角,28.875281931693465
+311,山东,Land,Construction,消费视角,2103.271526308097
+312,山东,Land,Transport,消费视角,87.99118462674849
+313,山东,Land,Services,消费视角,1924.4210410183455
+314,山东,Land,Others,消费视角,3855.1997550901797
+315,河南,Land,Agriculture,消费视角,987.4338674225459
+316,河南,Land,Food&tabacco,消费视角,3220.8709313484987
+317,河南,Land,"Electricity, Gas &Water",消费视角,35.02265962364121
+318,河南,Land,Construction,消费视角,579.132643120822
+319,河南,Land,Transport,消费视角,37.19152605901749
+320,河南,Land,Services,消费视角,1686.3464595301266
+321,河南,Land,Others,消费视角,3518.667515724285
+322,湖北,Land,Agriculture,消费视角,457.8520239625742
+323,湖北,Land,Food&tabacco,消费视角,2753.442630491333
+324,湖北,Land,"Electricity, Gas &Water",消费视角,24.052950178670706
+325,湖北,Land,Construction,消费视角,454.4408962944499
+326,湖北,Land,Transport,消费视角,57.76445450826117
+327,湖北,Land,Services,消费视角,640.9905107854902
+328,湖北,Land,Others,消费视角,1015.807471343411
+329,湖南,Land,Agriculture,消费视角,620.0427200351423
+330,湖南,Land,Food&tabacco,消费视角,2045.069800996115
+331,湖南,Land,"Electricity, Gas &Water",消费视角,14.041432353631047
+332,湖南,Land,Construction,消费视角,409.47255378353015
+333,湖南,Land,Transport,消费视角,30.823042252764484
+334,湖南,Land,Services,消费视角,682.2530386548192
+335,湖南,Land,Others,消费视角,994.1845576868329
+336,广东,Land,Agriculture,消费视角,1140.9138488052417
+337,广东,Land,Food&tabacco,消费视角,3349.127144777749
+338,广东,Land,"Electricity, Gas &Water",消费视角,65.21273626814971
+339,广东,Land,Construction,消费视角,1040.3222364280332
+340,广东,Land,Transport,消费视角,130.65988631465694
+341,广东,Land,Services,消费视角,2567.575312222124
+342,广东,Land,Others,消费视角,2206.71738940222
+343,广西,Land,Agriculture,消费视角,414.4839625347734
+344,广西,Land,Food&tabacco,消费视角,2165.2902064548302
+345,广西,Land,"Electricity, Gas &Water",消费视角,11.971156712756011
+346,广西,Land,Construction,消费视角,429.3568836441199
+347,广西,Land,Transport,消费视角,31.732009394143596
+348,广西,Land,Services,消费视角,571.6956800348372
+349,广西,Land,Others,消费视角,574.9210228057796
+350,海南,Land,Agriculture,消费视角,77.37335319911101
+351,海南,Land,Food&tabacco,消费视角,183.03042056792827
+352,海南,Land,"Electricity, Gas &Water",消费视角,1.6648543553775084
+353,海南,Land,Construction,消费视角,98.8698401805314
+354,海南,Land,Transport,消费视角,13.613645044115556
+355,海南,Land,Services,消费视角,101.21018973582147
+356,海南,Land,Others,消费视角,56.02408441035451
+357,重庆,Land,Agriculture,消费视角,272.2006161417097
+358,重庆,Land,Food&tabacco,消费视角,909.6247427299453
+359,重庆,Land,"Electricity, Gas &Water",消费视角,9.854462203604125
+360,重庆,Land,Construction,消费视角,257.71707156329035
+361,重庆,Land,Transport,消费视角,19.36569173619738
+362,重庆,Land,Services,消费视角,452.55354620858105
+363,重庆,Land,Others,消费视角,382.9467410163321
+364,四川,Land,Agriculture,消费视角,781.6540004153657
+365,四川,Land,Food&tabacco,消费视角,2880.488439194769
+366,四川,Land,"Electricity, Gas &Water",消费视角,24.969557271650466
+367,四川,Land,Construction,消费视角,424.7465473351465
+368,四川,Land,Transport,消费视角,26.895050304689818
+369,四川,Land,Services,消费视角,1035.9679304176345
+370,四川,Land,Others,消费视角,1055.3653055422642
+371,贵州,Land,Agriculture,消费视角,156.2704137584027
+372,贵州,Land,Food&tabacco,消费视角,282.7555180113626
+373,贵州,Land,"Electricity, Gas &Water",消费视角,3.5667074584794247
+374,贵州,Land,Construction,消费视角,146.73065716016248
+375,贵州,Land,Transport,消费视角,17.73891544679934
+376,贵州,Land,Services,消费视角,245.95325681191187
+377,贵州,Land,Others,消费视角,276.77924856993076
+378,云南,Land,Agriculture,消费视角,407.617606939673
+379,云南,Land,Food&tabacco,消费视角,860.7975865976995
+380,云南,Land,"Electricity, Gas &Water",消费视角,13.873046755763628
+381,云南,Land,Construction,消费视角,263.41724967136514
+382,云南,Land,Transport,消费视角,10.21088044794095
+383,云南,Land,Services,消费视角,348.88103890806275
+384,云南,Land,Others,消费视角,544.309056749018
+385,陕西,Land,Agriculture,消费视角,468.52464096623453
+386,陕西,Land,Food&tabacco,消费视角,1543.8990066894692
+387,陕西,Land,"Electricity, Gas &Water",消费视角,21.894988012334213
+388,陕西,Land,Construction,消费视角,309.59982483360807
+389,陕西,Land,Transport,消费视角,17.48389504564373
+390,陕西,Land,Services,消费视角,466.71418533723784
+391,陕西,Land,Others,消费视角,899.8252643410171
+392,甘肃,Land,Agriculture,消费视角,286.2965562895147
+393,甘肃,Land,Food&tabacco,消费视角,597.7769605784283
+394,甘肃,Land,"Electricity, Gas &Water",消费视角,4.799820508870369
+395,甘肃,Land,Construction,消费视角,171.72743622837928
+396,甘肃,Land,Transport,消费视角,13.632964410844728
+397,甘肃,Land,Services,消费视角,104.17129542775952
+398,甘肃,Land,Others,消费视角,211.00360368868135
+399,青海,Land,Agriculture,消费视角,82.23786554305138
+400,青海,Land,Food&tabacco,消费视角,120.48661617610519
+401,青海,Land,"Electricity, Gas &Water",消费视角,2.4481720298566585
+402,青海,Land,Construction,消费视角,32.636761621537104
+403,青海,Land,Transport,消费视角,21.507983678063972
+404,青海,Land,Services,消费视角,48.82754146060026
+405,青海,Land,Others,消费视角,49.829153602868054
+406,宁夏,Land,Agriculture,消费视角,76.63734096858481
+407,宁夏,Land,Food&tabacco,消费视角,104.68835977166748
+408,宁夏,Land,"Electricity, Gas &Water",消费视角,2.0910471941274102
+409,宁夏,Land,Construction,消费视角,99.44110231025557
+410,宁夏,Land,Transport,消费视角,7.286811200299404
+411,宁夏,Land,Services,消费视角,89.61480090649704
+412,宁夏,Land,Others,消费视角,113.68788147459661
+413,新疆,Land,Agriculture,消费视角,213.739892614347
+414,新疆,Land,Food&tabacco,消费视角,667.4507035843422
+415,新疆,Land,"Electricity, Gas &Water",消费视角,9.577334471186083
+416,新疆,Land,Construction,消费视角,191.81516323805425
+417,新疆,Land,Transport,消费视角,16.62266073145868
+418,新疆,Land,Services,消费视角,209.27681934531964
+419,新疆,Land,Others,消费视角,359.16182431433737
+,region,EWCL,dept,perspective,value
+0,北京,CO2,Agriculture,生产视角,4.3484206687521025
+1,北京,CO2,Food&tabacco,生产视角,1.4875416974449407
+2,北京,CO2,"Electricity, Gas &Water",生产视角,30.58011549453449
+3,北京,CO2,Construction,生产视角,2.0093567843062323
+4,北京,CO2,Transport,生产视角,19.209864577379584
+5,北京,CO2,Services,生产视角,13.419828895118243
+6,北京,CO2,Others,生产视角,27.874173356971113
+7,天津,CO2,Agriculture,生产视角,3.536481680970515
+8,天津,CO2,Food&tabacco,生产视角,0.48364238209325616
+9,天津,CO2,"Electricity, Gas &Water",生产视角,78.69667286279554
+10,天津,CO2,Construction,生产视角,3.0349570654090745
+11,天津,CO2,Transport,生产视角,9.1803611232999
+12,天津,CO2,Services,生产视角,6.3453722139607
+13,天津,CO2,Others,生产视角,59.53383735899338
+14,河北,CO2,Agriculture,生产视角,36.87636187021333
+15,河北,CO2,Food&tabacco,生产视角,2.7644022027113375
+16,河北,CO2,"Electricity, Gas &Water",生产视角,260.0947869325284
+17,河北,CO2,Construction,生产视角,5.346465348514192
+18,河北,CO2,Transport,生产视角,16.730106928973814
+19,河北,CO2,Services,生产视角,15.765828122372463
+20,河北,CO2,Others,生产视角,352.45205816562134
+21,山西,CO2,Agriculture,生产视角,14.99156950422777
+22,山西,CO2,Food&tabacco,生产视角,0.2872227269490264
+23,山西,CO2,"Electricity, Gas &Water",生产视角,227.70539458570912
+24,山西,CO2,Construction,生产视角,2.390925352643171
+25,山西,CO2,Transport,生产视角,16.073429430101502
+26,山西,CO2,Services,生产视角,11.663877902195747
+27,山西,CO2,Others,生产视角,166.1676855764254
+28,内蒙古,CO2,Agriculture,生产视角,52.62795569245324
+29,内蒙古,CO2,Food&tabacco,生产视角,1.3506323872427128
+30,内蒙古,CO2,"Electricity, Gas &Water",生产视角,342.1691814505204
+31,内蒙古,CO2,Construction,生产视角,6.89723470123896
+32,内蒙古,CO2,Transport,生产视角,27.56816267465867
+33,内蒙古,CO2,Services,生产视角,29.241872918123608
+34,内蒙古,CO2,Others,生产视角,88.62336388751412
+35,辽宁,CO2,Agriculture,生产视角,27.453299856319617
+36,辽宁,CO2,Food&tabacco,生产视角,2.063736544959091
+37,辽宁,CO2,"Electricity, Gas &Water",生产视角,210.56308852623744
+38,辽宁,CO2,Construction,生产视角,2.6664726545343624
+39,辽宁,CO2,Transport,生产视角,30.805451457664823
+40,辽宁,CO2,Services,生产视角,7.127568922951261
+41,辽宁,CO2,Others,生产视角,202.14209495586837
+42,吉林,CO2,Agriculture,生产视角,24.427093790331785
+43,吉林,CO2,Food&tabacco,生产视角,6.037677249619508
+44,吉林,CO2,"Electricity, Gas &Water",生产视角,130.12924811350706
+45,吉林,CO2,Construction,生产视角,1.391607053174533
+46,吉林,CO2,Transport,生产视角,10.990245697824955
+47,吉林,CO2,Services,生产视角,10.886878651016497
+48,吉林,CO2,Others,生产视角,57.97072619722792
+49,黑龙江,CO2,Agriculture,生产视角,44.96662306756278
+50,黑龙江,CO2,Food&tabacco,生产视角,0.7553014066534994
+51,黑龙江,CO2,"Electricity, Gas &Water",生产视角,132.82738687870042
+52,黑龙江,CO2,Construction,生产视角,0.11353238639010818
+53,黑龙江,CO2,Transport,生产视角,10.881847270941016
+54,黑龙江,CO2,Services,生产视角,5.2988214315549715
+55,黑龙江,CO2,Others,生产视角,63.20356742888759
+56,上海,CO2,Agriculture,生产视角,3.089739417271305
+57,上海,CO2,Food&tabacco,生产视角,0.4871757111988818
+58,上海,CO2,"Electricity, Gas &Water",生产视角,96.00730936747364
+59,上海,CO2,Construction,生产视角,2.4723804205958952
+60,上海,CO2,Transport,生产视角,40.684737511617556
+61,上海,CO2,Services,生产视角,12.389012978520867
+62,上海,CO2,Others,生产视角,71.70073453146036
+63,江苏,CO2,Agriculture,生产视角,40.591675815012316
+64,江苏,CO2,Food&tabacco,生产视角,1.618498672352857
+65,江苏,CO2,"Electricity, Gas &Water",生产视角,366.53687988715143
+66,江苏,CO2,Construction,生产视角,1.4098414707253535
+67,江苏,CO2,Transport,生产视角,27.88707580775813
+68,江苏,CO2,Services,生产视角,2.4755083888306593
+69,江苏,CO2,Others,生产视角,173.72803545619655
+70,浙江,CO2,Agriculture,生产视角,20.88528275239866
+71,浙江,CO2,Food&tabacco,生产视角,0.874031388979301
+72,浙江,CO2,"Electricity, Gas &Water",生产视角,249.98904663949008
+73,浙江,CO2,Construction,生产视角,4.800795844926832
+74,浙江,CO2,Transport,生产视角,23.574759390417388
+75,浙江,CO2,Services,生产视角,6.665929673011963
+76,浙江,CO2,Others,生产视角,56.15264043072577
+77,安徽,CO2,Agriculture,生产视角,36.81119411703306
+78,安徽,CO2,Food&tabacco,生产视角,1.5060300662738448
+79,安徽,CO2,"Electricity, Gas &Water",生产视角,157.9261562650357
+80,安徽,CO2,Construction,生产视角,1.5534533942304725
+81,安徽,CO2,Transport,生产视角,10.208001747683792
+82,安徽,CO2,Services,生产视角,3.2188261086398353
+83,安徽,CO2,Others,生产视角,79.52783303290514
+84,福建,CO2,Agriculture,生产视角,20.37150208491962
+85,福建,CO2,Food&tabacco,生产视角,1.895813027160882
+86,福建,CO2,"Electricity, Gas &Water",生产视角,117.68941856065348
+87,福建,CO2,Construction,生产视角,2.1986657079369625
+88,福建,CO2,Transport,生产视角,15.904219676564217
+89,福建,CO2,Services,生产视角,4.689835093332178
+90,福建,CO2,Others,生产视角,61.1826160493231
+91,江西,CO2,Agriculture,生产视角,40.827960336977924
+92,江西,CO2,Food&tabacco,生产视角,1.4006687930569597
+93,江西,CO2,"Electricity, Gas &Water",生产视角,72.26072008897222
+94,江西,CO2,Construction,生产视角,0.3514690319510539
+95,江西,CO2,Transport,生产视角,8.852403224979657
+96,江西,CO2,Services,生产视角,2.48446200262765
+97,江西,CO2,Others,生产视角,55.46179784206
+98,山东,CO2,Agriculture,生产视角,50.399621544449836
+99,山东,CO2,Food&tabacco,生产视角,7.889819273682626
+100,山东,CO2,"Electricity, Gas &Water",生产视角,411.29850531895806
+101,山东,CO2,Construction,生产视角,3.9648574220144703
+102,山东,CO2,Transport,生产视角,51.5219048493922
+103,山东,CO2,Services,生产视角,35.825555372908674
+104,山东,CO2,Others,生产视角,255.2108048239445
+105,河南,CO2,Agriculture,生产视角,77.59698172773429
+106,河南,CO2,Food&tabacco,生产视角,4.422010375745801
+107,河南,CO2,"Electricity, Gas &Water",生产视角,276.49649376687626
+108,河南,CO2,Construction,生产视角,1.7241175696843425
+109,河南,CO2,Transport,生产视角,18.694576258184966
+110,河南,CO2,Services,生产视角,2.493240278204717
+111,河南,CO2,Others,生产视角,202.54371031633883
+112,湖北,CO2,Agriculture,生产视角,49.828880497594554
+113,湖北,CO2,Food&tabacco,生产视角,5.720034165032954
+114,湖北,CO2,"Electricity, Gas &Water",生产视角,135.88968827631746
+115,湖北,CO2,Construction,生产视角,6.076581014465229
+116,湖北,CO2,Transport,生产视角,27.37480688584093
+117,湖北,CO2,Services,生产视角,19.37913326665671
+118,湖北,CO2,Others,生产视角,121.63571869436801
+119,湖南,CO2,Agriculture,生产视角,70.22304459580688
+120,湖南,CO2,Food&tabacco,生产视角,2.336893796694496
+121,湖南,CO2,"Electricity, Gas &Water",生产视角,109.33297106838006
+122,湖南,CO2,Construction,生产视角,2.9376016358748607
+123,湖南,CO2,Transport,生产视角,18.886696165006096
+124,湖南,CO2,Services,生产视角,11.997139291078092
+125,湖南,CO2,Others,生产视角,107.34821641114947
+126,广东,CO2,Agriculture,生产视角,39.0078378851463
+127,广东,CO2,Food&tabacco,生产视角,2.584412573380967
+128,广东,CO2,"Electricity, Gas &Water",生产视角,297.40553233454983
+129,广东,CO2,Construction,生产视角,2.0288665516273348
+130,广东,CO2,Transport,生产视角,53.44106746345466
+131,广东,CO2,Services,生产视角,10.570826751295527
+132,广东,CO2,Others,生产视角,125.51791955431094
+133,广西,CO2,Agriculture,生产视角,42.08257683450835
+134,广西,CO2,Food&tabacco,生产视角,4.914695813655797
+135,广西,CO2,"Electricity, Gas &Water",生产视角,74.88678347872596
+136,广西,CO2,Construction,生产视角,0.1198280887032856
+137,广西,CO2,Transport,生产视角,15.216187302859158
+138,广西,CO2,Services,生产视角,4.862317037158491
+139,广西,CO2,Others,生产视角,62.266487408908304
+140,海南,CO2,Agriculture,生产视角,9.150691353021106
+141,海南,CO2,Food&tabacco,生产视角,0.07101743829882533
+142,海南,CO2,"Electricity, Gas &Water",生产视角,14.908770639200283
+143,海南,CO2,Construction,生产视角,0.2663094830567196
+144,海南,CO2,Transport,生产视角,6.0928850793235485
+145,海南,CO2,Services,生产视角,0.9921621673413545
+146,海南,CO2,Others,生产视角,5.545712895150277
+147,重庆,CO2,Agriculture,生产视角,21.196449879408213
+148,重庆,CO2,Food&tabacco,生产视角,0.6020259749916965
+149,重庆,CO2,"Electricity, Gas &Water",生产视角,51.64404674857194
+150,重庆,CO2,Construction,生产视角,1.4791666197972035
+151,重庆,CO2,Transport,生产视角,12.183955272073
+152,重庆,CO2,Services,生产视角,3.5174681490711768
+153,重庆,CO2,Others,生产视角,71.9494426588502
+154,四川,CO2,Agriculture,生产视角,66.34683902144434
+155,四川,CO2,Food&tabacco,生产视角,4.847700471942175
+156,四川,CO2,"Electricity, Gas &Water",生产视角,84.9878232616702
+157,四川,CO2,Construction,生产视角,2.7311722784120835
+158,四川,CO2,Transport,生产视角,20.770563473780197
+159,四川,CO2,Services,生产视角,10.526223221747578
+160,四川,CO2,Others,生产视角,156.95074136259058
+161,贵州,CO2,Agriculture,生产视角,29.090909330819
+162,贵州,CO2,Food&tabacco,生产视角,0.38148072468902694
+163,贵州,CO2,"Electricity, Gas &Water",生产视角,122.30273489057629
+164,贵州,CO2,Construction,生产视角,1.1264413401234472
+165,贵州,CO2,Transport,生产视角,9.873918777884995
+166,贵州,CO2,Services,生产视角,24.23880165377243
+167,贵州,CO2,Others,生产视角,41.14514802227703
+168,云南,CO2,Agriculture,生产视角,46.311967020532535
+169,云南,CO2,Food&tabacco,生产视角,1.1988320433069815
+170,云南,CO2,"Electricity, Gas &Water",生产视角,89.95160528857531
+171,云南,CO2,Construction,生产视角,2.1635527024276695
+172,云南,CO2,Transport,生产视角,18.03101884959555
+173,云南,CO2,Services,生产视角,3.6363236385377755
+174,云南,CO2,Others,生产视角,79.86704790958055
+175,陕西,CO2,Agriculture,生产视角,16.377058835166196
+176,陕西,CO2,Food&tabacco,生产视角,0.8821750544164368
+177,陕西,CO2,"Electricity, Gas &Water",生产视角,127.89001156711069
+178,陕西,CO2,Construction,生产视角,2.502992156220159
+179,陕西,CO2,Transport,生产视角,18.259012390625614
+180,陕西,CO2,Services,生产视角,11.048554075198972
+181,陕西,CO2,Others,生产视角,61.14377754085105
+182,甘肃,CO2,Agriculture,生产视角,22.717175341551656
+183,甘肃,CO2,Food&tabacco,生产视角,0.4816626384883099
+184,甘肃,CO2,"Electricity, Gas &Water",生产视角,78.34381970508113
+185,甘肃,CO2,Construction,生产视角,1.239809952051811
+186,甘肃,CO2,Transport,生产视角,6.415521964802849
+187,甘肃,CO2,Services,生产视角,1.8711703014594532
+188,甘肃,CO2,Others,生产视角,37.78290469837983
+189,青海,CO2,Agriculture,生产视角,16.622855981309858
+190,青海,CO2,Food&tabacco,生产视角,0.03679676075328894
+191,青海,CO2,"Electricity, Gas &Water",生产视角,11.952967081877613
+192,青海,CO2,Construction,生产视角,0.34369724220026565
+193,青海,CO2,Transport,生产视角,2.3954770561452623
+194,青海,CO2,Services,生产视角,2.837705196692578
+195,青海,CO2,Others,生产视角,13.177143147944722
+196,宁夏,CO2,Agriculture,生产视角,6.106570674711395
+197,宁夏,CO2,Food&tabacco,生产视角,0.2148089300214716
+198,宁夏,CO2,"Electricity, Gas &Water",生产视角,69.33631925895381
+199,宁夏,CO2,Construction,生产视角,0.617146540708834
+200,宁夏,CO2,Transport,生产视角,2.9784652104239373
+201,宁夏,CO2,Services,生产视角,1.9028459487483629
+202,宁夏,CO2,Others,生产视角,27.02566561206306
+203,新疆,CO2,Agriculture,生产视角,28.980518224813952
+204,新疆,CO2,Food&tabacco,生产视角,1.6148097877725474
+205,新疆,CO2,"Electricity, Gas &Water",生产视角,94.14496508139104
+206,新疆,CO2,Construction,生产视角,1.097699076613396
+207,新疆,CO2,Transport,生产视角,10.061870843364554
+208,新疆,CO2,Services,生产视角,4.893211745365306
+209,新疆,CO2,Others,生产视角,59.02570057480325
+210,北京,CO2,Agriculture,消费视角,7.507257821417582
+211,北京,CO2,Food&tabacco,消费视角,8.634551594476164
+212,北京,CO2,"Electricity, Gas &Water",消费视角,22.466000911612493
+213,北京,CO2,Construction,消费视角,54.51487167946618
+214,北京,CO2,Transport,消费视角,4.721230880342841
+215,北京,CO2,Services,消费视角,89.28534667153089
+216,北京,CO2,Others,消费视角,23.18542053165571
+217,天津,CO2,Agriculture,消费视角,6.251460163282634
+218,天津,CO2,Food&tabacco,消费视角,9.809483193504116
+219,天津,CO2,"Electricity, Gas &Water",消费视角,26.891281467209602
+220,天津,CO2,Construction,消费视角,63.59217461314652
+221,天津,CO2,Transport,消费视角,19.103770538614192
+222,天津,CO2,Services,消费视角,32.279596662492516
+223,天津,CO2,Others,消费视角,67.67759752623056
+224,河北,CO2,Agriculture,消费视角,21.88976686292377
+225,河北,CO2,Food&tabacco,消费视角,21.960866227907488
+226,河北,CO2,"Electricity, Gas &Water",消费视角,104.0432012293943
+227,河北,CO2,Construction,消费视角,118.27647093906643
+228,河北,CO2,Transport,消费视角,16.821677780069543
+229,河北,CO2,Services,消费视角,74.35172033488685
+230,河北,CO2,Others,消费视角,129.80922338349066
+231,山西,CO2,Agriculture,消费视角,13.693005102422367
+232,山西,CO2,Food&tabacco,消费视角,11.98194605507438
+233,山西,CO2,"Electricity, Gas &Water",消费视角,41.18712975838899
+234,山西,CO2,Construction,消费视角,69.24294560416217
+235,山西,CO2,Transport,消费视角,14.665835427322197
+236,山西,CO2,Services,消费视角,53.98132173874336
+237,山西,CO2,Others,消费视角,63.27701542944123
+238,内蒙古,CO2,Agriculture,消费视角,22.293391594271633
+239,内蒙古,CO2,Food&tabacco,消费视角,22.181078639072403
+240,内蒙古,CO2,"Electricity, Gas &Water",消费视角,40.35052888052881
+241,内蒙古,CO2,Construction,消费视角,104.14154523398935
+242,内蒙古,CO2,Transport,消费视角,14.170232543879901
+243,内蒙古,CO2,Services,消费视角,44.84012091422451
+244,内蒙古,CO2,Others,消费视角,66.80322339158704
+245,辽宁,CO2,Agriculture,消费视角,10.99715818456005
+246,辽宁,CO2,Food&tabacco,消费视角,26.085284931014016
+247,辽宁,CO2,"Electricity, Gas &Water",消费视角,42.089692565419696
+248,辽宁,CO2,Construction,消费视角,112.98352806858583
+249,辽宁,CO2,Transport,消费视角,10.122657445465975
+250,辽宁,CO2,Services,消费视角,68.60655008447705
+251,辽宁,CO2,Others,消费视角,119.94431300210101
+252,吉林,CO2,Agriculture,消费视角,7.837897557647615
+253,吉林,CO2,Food&tabacco,消费视角,16.603504215703083
+254,吉林,CO2,"Electricity, Gas &Water",消费视角,26.391495008481957
+255,吉林,CO2,Construction,消费视角,84.12975522619865
+256,吉林,CO2,Transport,消费视角,9.102988304199869
+257,吉林,CO2,Services,消费视角,56.71710099613143
+258,吉林,CO2,Others,消费视角,94.057164391811
+259,黑龙江,CO2,Agriculture,消费视角,17.38632980009824
+260,黑龙江,CO2,Food&tabacco,消费视角,15.413263619559341
+261,黑龙江,CO2,"Electricity, Gas &Water",消费视角,31.582659399223957
+262,黑龙江,CO2,Construction,消费视角,48.52412723562311
+263,黑龙江,CO2,Transport,消费视角,8.013773416302119
+264,黑龙江,CO2,Services,消费视角,60.70571933616931
+265,黑龙江,CO2,Others,消费视角,68.79963857284197
+266,上海,CO2,Agriculture,消费视角,26.568580478785957
+267,上海,CO2,Food&tabacco,消费视角,13.811218317263057
+268,上海,CO2,"Electricity, Gas &Water",消费视角,62.498935620080225
+269,上海,CO2,Construction,消费视角,65.32750851166725
+270,上海,CO2,Transport,消费视角,15.906339693507572
+271,上海,CO2,Services,消费视角,64.15250718598277
+272,上海,CO2,Others,消费视角,77.37407249955349
+273,江苏,CO2,Agriculture,消费视角,21.112549011067845
+274,江苏,CO2,Food&tabacco,消费视角,25.40137609216338
+275,江苏,CO2,"Electricity, Gas &Water",消费视角,44.88441110844228
+276,江苏,CO2,Construction,消费视角,137.49805117416128
+277,江苏,CO2,Transport,消费视角,11.771721052611298
+278,江苏,CO2,Services,消费视角,89.85949284665173
+279,江苏,CO2,Others,消费视角,207.99713463324036
+280,浙江,CO2,Agriculture,消费视角,15.449643769011782
+281,浙江,CO2,Food&tabacco,消费视角,16.917482387102105
+282,浙江,CO2,"Electricity, Gas &Water",消费视角,42.490662051270036
+283,浙江,CO2,Construction,消费视角,134.62118701029124
+284,浙江,CO2,Transport,消费视角,5.66597683267212
+285,浙江,CO2,Services,消费视角,84.02791564508554
+286,浙江,CO2,Others,消费视角,118.79967309210528
+287,安徽,CO2,Agriculture,消费视角,8.78194296200095
+288,安徽,CO2,Food&tabacco,消费视角,19.839792442383768
+289,安徽,CO2,"Electricity, Gas &Water",消费视角,28.316494618177426
+290,安徽,CO2,Construction,消费视角,81.63412575343186
+291,安徽,CO2,Transport,消费视角,4.3611127635567515
+292,安徽,CO2,Services,消费视角,54.968409030298616
+293,安徽,CO2,Others,消费视角,43.32579225312887
+294,福建,CO2,Agriculture,消费视角,12.64623331390888
+295,福建,CO2,Food&tabacco,消费视角,11.592295191106137
+296,福建,CO2,"Electricity, Gas &Water",消费视角,48.67040273391101
+297,福建,CO2,Construction,消费视角,56.25942158031044
+298,福建,CO2,Transport,消费视角,10.485857260204625
+299,福建,CO2,Services,消费视角,39.09552646811017
+300,福建,CO2,Others,消费视角,44.406703819827754
+301,江西,CO2,Agriculture,消费视角,14.50983721739694
+302,江西,CO2,Food&tabacco,消费视角,21.5443034743602
+303,江西,CO2,"Electricity, Gas &Water",消费视角,46.74485055474153
+304,江西,CO2,Construction,消费视角,57.781739324430475
+305,江西,CO2,Transport,消费视角,4.554368051768234
+306,江西,CO2,Services,消费视角,19.17642811703763
+307,江西,CO2,Others,消费视角,35.03263741905587
+308,山东,CO2,Agriculture,消费视角,14.831484663248307
+309,山东,CO2,Food&tabacco,消费视角,110.28174418467547
+310,山东,CO2,"Electricity, Gas &Water",消费视角,27.676225367892922
+311,山东,CO2,Construction,消费视角,191.76466812454348
+312,山东,CO2,Transport,消费视角,9.35450817145291
+313,山东,CO2,Services,消费视角,98.05130736789532
+314,山东,CO2,Others,消费视角,286.1463132967618
+315,河南,CO2,Agriculture,消费视角,34.78700259634407
+316,河南,CO2,Food&tabacco,消费视角,28.636687914078152
+317,河南,CO2,"Electricity, Gas &Water",消费视角,25.4985541719808
+318,河南,CO2,Construction,消费视角,71.82105352798297
+319,河南,CO2,Transport,消费视角,5.26117006776825
+320,河南,CO2,Services,消费视角,70.48278249665044
+321,河南,CO2,Others,消费视角,241.32356351576522
+322,湖北,CO2,Agriculture,消费视角,21.97291463218416
+323,湖北,CO2,Food&tabacco,消费视角,33.51350681917188
+324,湖北,CO2,"Electricity, Gas &Water",消费视角,16.866914540744215
+325,湖北,CO2,Construction,消费视角,93.74475922268768
+326,湖北,CO2,Transport,消费视角,13.642959491615605
+327,湖北,CO2,Services,消费视角,42.32001251264571
+328,湖北,CO2,Others,消费视角,71.69473388399352
+329,湖南,CO2,Agriculture,消费视角,37.3215113544034
+330,湖南,CO2,Food&tabacco,消费视角,24.73478740596099
+331,湖南,CO2,"Electricity, Gas &Water",消费视角,14.799949098656286
+332,湖南,CO2,Construction,消费视角,81.33034366189843
+333,湖南,CO2,Transport,消费视角,7.39818536199869
+334,湖南,CO2,Services,消费视角,56.668241750071815
+335,湖南,CO2,Others,消费视角,69.72675953436094
+336,广东,CO2,Agriculture,消费视角,27.501948977196513
+337,广东,CO2,Food&tabacco,消费视角,28.407223324272415
+338,广东,CO2,"Electricity, Gas &Water",消费视角,71.33146703317144
+339,广东,CO2,Construction,消费视角,174.01091368139595
+340,广东,CO2,Transport,消费视角,24.9026317210932
+341,广东,CO2,Services,消费视角,112.27369498658707
+342,广东,CO2,Others,消费视角,121.32584780498618
+343,广西,CO2,Agriculture,消费视角,22.39276292903234
+344,广西,CO2,Food&tabacco,消费视角,24.736980471264815
+345,广西,CO2,"Electricity, Gas &Water",消费视角,20.248993324795535
+346,广西,CO2,Construction,消费视角,64.31214223532109
+347,广西,CO2,Transport,消费视角,6.922642064894052
+348,广西,CO2,Services,消费视角,30.48109259195433
+349,广西,CO2,Others,消费视角,43.73453133156968
+350,海南,CO2,Agriculture,消费视角,5.483558079973542
+351,海南,CO2,Food&tabacco,消费视角,1.4239510691220418
+352,海南,CO2,"Electricity, Gas &Water",消费视角,1.2886204222183784
+353,海南,CO2,Construction,消费视角,13.123112527629058
+354,海南,CO2,Transport,消费视角,1.8503394585587412
+355,海南,CO2,Services,消费视角,6.082199794352887
+356,海南,CO2,Others,消费视角,4.503777430090562
+357,重庆,CO2,Agriculture,消费视角,14.088175210947009
+358,重庆,CO2,Food&tabacco,消费视角,9.052758268039065
+359,重庆,CO2,"Electricity, Gas &Water",消费视角,13.135631116607028
+360,重庆,CO2,Construction,消费视角,65.03775968441172
+361,重庆,CO2,Transport,消费视角,5.166401116005723
+362,重庆,CO2,Services,消费视角,23.167029259513168
+363,重庆,CO2,Others,消费视角,31.258233036327898
+364,四川,CO2,Agriculture,消费视角,39.57396600265985
+365,四川,CO2,Food&tabacco,消费视角,29.967329380338903
+366,四川,CO2,"Electricity, Gas &Water",消费视角,16.668321402077755
+367,四川,CO2,Construction,消费视角,69.39505265200881
+368,四川,CO2,Transport,消费视角,7.830455326326943
+369,四川,CO2,Services,消费视角,49.819649780239274
+370,四川,CO2,Others,消费视角,83.7189723469123
+371,贵州,CO2,Agriculture,消费视角,19.31429357121781
+372,贵州,CO2,Food&tabacco,消费视角,2.928525120019734
+373,贵州,CO2,"Electricity, Gas &Water",消费视角,13.87469925039929
+374,贵州,CO2,Construction,消费视角,39.132840835934154
+375,贵州,CO2,Transport,消费视角,5.023753658582533
+376,贵州,CO2,Services,消费视角,42.41252736891511
+377,贵州,CO2,Others,消费视角,22.55849425529299
+378,云南,CO2,Agriculture,消费视角,39.0034848831487
+379,云南,CO2,Food&tabacco,消费视角,9.834905379893728
+380,云南,CO2,"Electricity, Gas &Water",消费视角,21.8109543779661
+381,云南,CO2,Construction,消费视角,68.05845953836916
+382,云南,CO2,Transport,消费视角,3.797059937759451
+383,云南,CO2,Services,消费视角,26.389806990854446
+384,云南,CO2,Others,消费视角,43.16802842962678
+385,陕西,CO2,Agriculture,消费视角,21.122784211445442
+386,陕西,CO2,Food&tabacco,消费视角,15.456518807055499
+387,陕西,CO2,"Electricity, Gas &Water",消费视角,40.568084147604196
+388,陕西,CO2,Construction,消费视角,54.644309776950784
+389,陕西,CO2,Transport,消费视角,4.245854228553634
+390,陕西,CO2,Services,消费视角,41.06512344633235
+391,陕西,CO2,Others,消费视角,75.60475139106282
+392,甘肃,CO2,Agriculture,消费视角,23.193979870323957
+393,甘肃,CO2,Food&tabacco,消费视角,7.442532730659016
+394,甘肃,CO2,"Electricity, Gas &Water",消费视角,11.88740429927675
+395,甘肃,CO2,Construction,消费视角,44.501782219095
+396,甘肃,CO2,Transport,消费视角,4.444540733807939
+397,甘肃,CO2,Services,消费视角,15.788075922653572
+398,甘肃,CO2,Others,消费视角,13.600592927353787
+399,青海,CO2,Agriculture,消费视角,17.310097955821238
+400,青海,CO2,Food&tabacco,消费视角,1.4037773417366637
+401,青海,CO2,"Electricity, Gas &Water",消费视角,5.678852808278079
+402,青海,CO2,Construction,消费视角,9.314684487834395
+403,青海,CO2,Transport,消费视角,4.1754283130966625
+404,青海,CO2,Services,消费视角,7.464478455303882
+405,青海,CO2,Others,消费视角,6.554343614236219
+406,宁夏,CO2,Agriculture,消费视角,3.7513573026617486
+407,宁夏,CO2,Food&tabacco,消费视角,0.8644651072288891
+408,宁夏,CO2,"Electricity, Gas &Water",消费视角,11.835237029798172
+409,宁夏,CO2,Construction,消费视角,35.574631871682136
+410,宁夏,CO2,Transport,消费视角,2.6191906289282767
+411,宁夏,CO2,Services,消费视角,11.888517349754398
+412,宁夏,CO2,Others,消费视角,17.19537497104969
+413,新疆,CO2,Agriculture,消费视角,16.42702679827009
+414,新疆,CO2,Food&tabacco,消费视角,10.524612147834432
+415,新疆,CO2,"Electricity, Gas &Water",消费视角,39.042150919479326
+416,新疆,CO2,Construction,消费视角,51.451155115854334
+417,新疆,CO2,Transport,消费视角,3.6615479629627607
+418,新疆,CO2,Services,消费视角,29.772907836035056
+419,新疆,CO2,Others,消费视角,28.460054096839592

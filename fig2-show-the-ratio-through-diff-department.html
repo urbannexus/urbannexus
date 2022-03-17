@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
+	<meta name="description" content="">
+	<meta name="author" content="webThemez.com">
+
+	<title>Retro - Free Consulting Responsive Website Template</title>
+
+	<link rel="shortcut icon" href="assets/images/favicon.png">
+
+	<link rel="stylesheet" media="screen" href="http://fonts.googleapis.com/css?family=Open+Sans:300,400,700">
+	<link rel="stylesheet" href="/assets/css/bootstrap.min.css">
+	<link rel="stylesheet" href="/assets/css/font-awesome.min.css">
+
+	<!-- Custom styles for our template -->
+	<link rel="stylesheet" href="/assets/css/bootstrap-theme.css" media="screen">
+	<link rel="stylesheet" href="/assets/css/style.css">
+
+	<script src="/assets/js/d3/d3.min.js"></script>
+	<script src="/assets/js/d3/StackedBarChart.js"></script>
+	<script src="/assets/js/d3/Swatches.js"></script>
+	<script src="/assets/js/d3/htl.min.js"></script>
+
+	<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+	<!--[if lt IE 9]>
+	<script src="assets/js/html5shiv.js"></script>
+	<script src="assets/js/respond.min.js"></script>
+	<![endif]-->
+</head>
+
+<body>
+	<!-- Fixed navbar -->
+	<div class="navbar navbar-inverse navbar-fixed-top headroom">
+		<div class="container">
+			<div class="navbar-header">
+				<!-- Button for smallest screens -->
+				<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse"><span
+						class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
+				<a class="navbar-brand" href="index.html"><img src="assets/images/logo.png"
+						alt="Retro HTML5 template"></a>
+			</div>
+			<div class="navbar-collapse collapse">
+				<ul class="nav navbar-nav pull-right">
+					<li><a href="index.html">Home</a></li>
+					<li><a href="research.html">Our Research</a></li>
+					<!-- <li><a href="portfolio.html">Portfolio</a></li> -->
+					<li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown">Data Analysis <b
+								class="caret"></b></a>
+						<ul class="dropdown-menu">
+							<li><a href="fig1-show-the-ratio-through-diff-view.html">Fig.1 StackBarChart</a></li>
+							<li><a href="fig2-show-the-ratio-through-diff-department.html">Fig.2 StackBarChart</a></li>
+							<li><a href="fig3-show-flows-between-regions.html">Fig.3 Sankey</a></li>
+							<li><a href="fig4-show-flows-between-regions-with-department.html">Fig.4 Sankey</a></li>
+							<li><a href="fig5-show-flows-between-contries.html">Fig.5 Sankey</a></li>
+							<li><a href="fig6-show-flows-between-countris-with-department.html">Fig.6 Sankey</a></li>
+							<li><a href="fig7-show-flows-within-departments.html">Fig.7 Chord</a></li>
+						</ul>
+					</li>
+					<li><a href="publications.html">Publications</a></li>
+					<li><a href="about.html">About Team</a></li>
+				</ul>
+			</div>
+			<!--/.nav-collapse -->
+		</div>
+	</div>
+	<!-- /.navbar -->
+
+	<header id="head" class="secondary"></header>
+
+	<!-- container -->
+	<div class="container">
+
+		<div class="container researchlist">
+			<div class="row">
+				<div class="col-md-12">
+					<header class="page-header">
+						<h1 class="page-title">各城市的资源要素在生产/消费视角下的跨国流动比例</h1>
+					</header>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-sm-6">
+					<div id="dropdown_container_EWCL">
+						<select id="selectEWCL" class="ds-form-input-container"> </select>
+					</div>
+				</div>
+				<div class="col-sm-6">
+					<div id="dropdown_container_region">
+						<select id="selectRegion" class="ds-form-input-container"> </select>
+					</div>
+				</div>
+			</div>
+			<div class="row">
+				<div id="StackBarArea" class="svg_panel"></div>
+			</div>
+		</div><!-- End container -->
+	</div> <!-- /container -->
+
+
+	<footer id="footer" class="top-space">
+		<div class="footer2">
+			<div class="container">
+				<div class="row">
+
+					<div class="col-md-6 panel">
+						<div class="panel-body">
+							<p class="simplenav">
+								<a href="index.html">Home</a> |
+								<a href="about.html">About</a> |
+								<a href="research.html">research</a> |
+								<a href="portfolio.html">Portfolio</a> |
+								<a href="publications.html">publications</a>
+							</p>
+						</div>
+					</div>
+
+					<div class="col-md-6 panel">
+						<div class="panel-body">
+							<p class="text-right"> Copyright &copy; 2021. Bnu Dream Lab</p>
+						</div>
+					</div>
+
+				</div> <!-- /row of panels -->
+			</div>
+		</div>
+
+	</footer>
+
+
+	<!-- JavaScript libs are placed at the end of the document so the pages load faster -->
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+	<script src="http://netdna.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.min.js"></script>
+	<script src="assets/js/headroom.min.js"></script>
+	<script src="assets/js/jQuery.headroom.min.js"></script>
+	<script src="assets/js/custom.js"></script>
+	<script type="text/javascript">
+
+		const rulings = {
+			"生产视角": { name: "生产视角", sign: -1 },
+			"消费视角": { name: "消费视角", sign: 1 }
+		};
+		var item_list = ["Energy", "Water", "CO2", "Land"],
+			unit_list = { "Energy": "Mtce", "Water": "Mt", "CO2": "Mt(CO2e)", "Land": "Kha" },
+			dept_list = ['Agriculture', 'Food&tabacco', 'Electricity, Gas &Water', 'Construction', 'Transport', 'Services', 'Others'],
+			region_list = ['全部省份', '北京', '天津', '河北', '山西', '内蒙古', '辽宁', '吉林', '黑龙江', '上海', '江苏', '浙江', '安徽', '福建', '江西', '山东', '河南', '湖北', '湖南', '广东', '广西', '海南', '重庆', '四川', '贵州', '云南', '陕西', '甘肃', '青海', '宁夏', '新疆'];
+		// 将item_list和region_list中的项目增加至两个下拉框
+		d3.select('#selectEWCL').selectAll("option")
+			.data(item_list).enter()
+			.append("option")
+			.text(function (d) { return d; })
+			.attr("value", function (d) { return d; });
+		d3.select('#selectRegion').selectAll("option")
+			.data(region_list).enter()
+			.append("option")
+			.text(function (d) { return d; })
+			.attr("value", function (d) { return d; });
+
+		init();
+		function init() {
+			d3.csv("assets/data/fig2_data.csv").then(d => {
+				drawChart(d); // 获取数据成功后，绘图
+				$('#selectEWCL').change(function () { drawChart(d); });// 增加 [要素] 和 [省份] 2个下拉框的响应函数
+				$('#selectRegion').change(function () { drawChart(d); });
+			});
+		};
+
+		// const colorScheme = d3.schemeSpectral[7];//["#d53e4f","#fc8d59","#fee08b","#ffffbf","#e6f598","#99d594","#3288bd"]
+		const colorScheme = ["#f46d43", "#fdae61", "#fee08b", "#e6f598", "#abdda4", "#66c2a5", "#3288bd"];
+		const colorSchemeR = ['#3288bd', '#66c2a5', '#abdda4', '#e6f598', '#fee08b', '#fdae61', '#f46d43'];
+		const colorScheme14 = colorScheme.concat(colorSchemeR);
+		// console.log(colorScheme14);
+		function drawChart(d) {
+			$('#StackBarArea').empty();// 清空绘图区
+			var selectEWCL = document.getElementById('selectEWCL'),
+				selectRegion = document.getElementById('selectRegion');
+			var sel_EWCL = selectEWCL.options[selectEWCL.selectedIndex].value,
+				sel_region = selectRegion.options[selectRegion.selectedIndex].value;
+			d = d.filter(x => {
+				if (sel_region == "全部省份")
+					return x.EWCL == sel_EWCL;
+				else
+					return (x.EWCL == sel_EWCL) && (x.region == sel_region);
+			});
+			d = Object.assign(d.map(d => ({
+				region: d.region,
+				dept: d.dept,
+				perspective: d.perspective,
+				value: d.value * rulings[d.perspective].sign,
+			})), {
+				rulings: [...d3.union(Object.values(rulings).map(d => d.perspective))]
+			});
+			const chart = StackedBarChart(d, {
+				x: d => d.value,
+				y: d => d.region,
+				// z: d => d.dept,
+				z: d => {
+					if (d.value >= 0) return d.dept + "";
+					else return d.dept + " ";
+				},
+				// xFormat: "kw",
+				xLabel: "←  生产视角  ----+----  消费视角  →",
+				yDomain: d3.groupSort(d, D => d3.sum(D, d => -Math.min(0, d.value)), d => d.region),
+				zDomain: d.dept,
+				colors: colorScheme14,
+				width: 1100,
+				height: d.length * 2.3 + 30,
+				// marginLeft: 100
+			});
+
+			// 添加Legend
+			// var swatches = Swatches(chart.scales.color);
+			// var swatches = Swatches(d3.scaleOrdinal(dept_list, colorScheme));//手动关联
+			var unit = { label: unit_list[sel_EWCL], color: "#FFFFFF" };
+			var swatches = Swatches(d3.scaleOrdinal(['本地', '国内', '国际'].concat(unit.label), ["#fee08b", "#99d594", "#3288bd"].concat(unit.color)));//手动关联
+			var swatches = Swatches(d3.scaleOrdinal(dept_list.concat(unit.label), colorScheme.concat(unit.color)));//手动关联
+
+			$('#StackBarArea').append(swatches);
+			// 添加绘图
+			$('#StackBarArea').append(chart);
+		}
+	</script>
+</body>
+
+</html>

@@ -1,0 +1,3150 @@
+,source,EWCL,target,value,region
+1,North,Water,Sichuan,1094.8786338642228,四川
+2,Northeast,Water,Sichuan,573.7431672911467,四川
+3,Central,Water,Sichuan,2589.503427592892,四川
+4,Central Coast,Water,Sichuan,522.2762055977636,四川
+5,South Coast,Water,Sichuan,567.2541535018754,四川
+6,Southwest,Water,Sichuan,1496.7107670423568,四川
+7,Northwest,Water,Sichuan,1341.8975864642616,四川
+8,EU,Water,Sichuan,113.75210023164676,四川
+9,Non-EU,Water,Sichuan,57.01166196984461,四川
+10,EA,Water,Sichuan,62.18803931819155,四川
+11,BRIIAT,Water,Sichuan,2734.4607636649307,四川
+12,NAFTA,Water,Sichuan,1730.5991053635844,四川
+13,RoW,Water,Sichuan,4805.749609721055,四川
+15,North,Energy,Sichuan,4.728343244506248,四川
+16,Northeast,Energy,Sichuan,1.340108128670097,四川
+17,Central,Energy,Sichuan,5.100528455871614,四川
+18,Central Coast,Energy,Sichuan,3.0075426018240083,四川
+19,South Coast,Energy,Sichuan,1.8234241391664991,四川
+20,Southwest,Energy,Sichuan,3.281063094918085,四川
+21,Northwest,Energy,Sichuan,3.6375133423364536,四川
+22,EU,Energy,Sichuan,1.3682373933124463,四川
+23,Non-EU,Energy,Sichuan,0.41524173729433256,四川
+24,EA,Energy,Sichuan,4.346209610311041,四川
+25,BRIIAT,Energy,Sichuan,2.8111754018474207,四川
+26,NAFTA,Energy,Sichuan,1.8452164923646488,四川
+27,RoW,Energy,Sichuan,7.737255326804502,四川
+29,North,CO2,Sichuan,12.979804392616371,四川
+30,Northeast,CO2,Sichuan,3.669553727342629,四川
+31,Central,CO2,Sichuan,16.120109007285524,四川
+32,Central Coast,CO2,Sichuan,7.94288744171873,四川
+33,South Coast,CO2,Sichuan,5.073143597654077,四川
+34,Southwest,CO2,Sichuan,10.27879168695649,四川
+35,Northwest,CO2,Sichuan,10.434411698248715,四川
+36,EU,CO2,Sichuan,1.6182843616226255,四川
+37,Non-EU,CO2,Sichuan,0.6371389758825792,四川
+38,EA,CO2,Sichuan,4.147289335059284,四川
+39,BRIIAT,CO2,Sichuan,7.371024787369851,四川
+40,NAFTA,CO2,Sichuan,3.1895393742808498,四川
+41,RoW,CO2,Sichuan,11.306317227601728,四川
+43,North,Land,Sichuan,183.34737673569555,四川
+44,Northeast,Land,Sichuan,299.55832830233214,四川
+45,Central,Land,Sichuan,803.7176710637336,四川
+46,Central Coast,Land,Sichuan,84.99436215812815,四川
+47,South Coast,Land,Sichuan,234.90657807304993,四川
+48,Southwest,Land,Sichuan,1093.719448274222,四川
+49,Northwest,Land,Sichuan,3167.0111553228853,四川
+50,EU,Land,Sichuan,60.25203319096006,四川
+51,Non-EU,Land,Sichuan,27.0516815850271,四川
+52,EA,Land,Sichuan,11.549390068173196,四川
+53,BRIIAT,Land,Sichuan,1977.1695543572375,四川
+54,NAFTA,Land,Sichuan,808.0866197679085,四川
+55,RoW,Land,Sichuan,3345.977551512214,四川
+56,Sichuan,Water,North,3153.3993959183344,四川
+70,Sichuan,Energy,North,5.696473286778984,四川
+84,Sichuan,CO2,North,18.012855416066,四川
+98,Sichuan,Land,North,2437.1405305820754,四川
+112,Sichuan,Water,Northeast,591.9578193118155,四川
+126,Sichuan,Energy,Northeast,1.5694316390125258,四川
+140,Sichuan,CO2,Northeast,4.523459175826701,四川
+154,Sichuan,Land,Northeast,452.5476017293949,四川
+168,Sichuan,Water,Central,2396.6485675656004,四川
+182,Sichuan,Energy,Central,6.674960999341627,四川
+196,Sichuan,CO2,Central,19.63609063277036,四川
+210,Sichuan,Land,Central,1830.5493023762406,四川
+224,Sichuan,Water,Central Coast,2115.5324714636627,四川
+238,Sichuan,Energy,Central Coast,4.2729649728624315,四川
+252,Sichuan,CO2,Central Coast,13.037053153031914,四川
+266,Sichuan,Land,Central Coast,1631.9987229808055,四川
+280,Sichuan,Water,South Coast,1395.557273747916,四川
+294,Sichuan,Energy,South Coast,4.840008448198626,四川
+308,Sichuan,CO2,South Coast,13.719892762676066,四川
+322,Sichuan,Land,South Coast,1058.5786861752183,四川
+336,Sichuan,Water,Southwest,2616.054036372753,四川
+350,Sichuan,Energy,Southwest,7.406000289412405,四川
+364,Sichuan,CO2,Southwest,20.950833847081757,四川
+378,Sichuan,Land,Southwest,2002.8581478169529,四川
+392,Sichuan,Water,Northwest,2325.829805100331,四川
+406,Sichuan,Energy,Northwest,4.558390379982147,四川
+420,Sichuan,CO2,Northwest,13.838925120215459,四川
+434,Sichuan,Land,Northwest,1791.1067543496313,四川
+448,Sichuan,Water,EU,556.4787541399951,四川
+462,Sichuan,Energy,EU,2.4756019786013157,四川
+476,Sichuan,CO2,EU,6.64021878864409,四川
+490,Sichuan,Land,EU,417.71308515826274,四川
+504,Sichuan,Water,Non-EU,199.5357020444794,四川
+518,Sichuan,Energy,Non-EU,0.8688364701876391,四川
+532,Sichuan,CO2,Non-EU,2.3356704657373295,四川
+546,Sichuan,Land,Non-EU,149.97989561855843,四川
+560,Sichuan,Water,EA,464.85764424219843,四川
+574,Sichuan,Energy,EA,2.01812775750138,四川
+588,Sichuan,CO2,EA,5.427928887783961,四川
+602,Sichuan,Land,EA,349.6545953395454,四川
+616,Sichuan,Water,BRIIAT,537.4003700503328,四川
+630,Sichuan,Energy,BRIIAT,2.248571023483491,四川
+644,Sichuan,CO2,BRIIAT,6.0769789475835605,四川
+658,Sichuan,Land,BRIIAT,404.4019760536605,四川
+672,Sichuan,Water,NAFTA,1006.0417125512377,四川
+686,Sichuan,Energy,NAFTA,4.191077146956135,四川
+700,Sichuan,CO2,NAFTA,11.375891915379711,四川
+714,Sichuan,Land,NAFTA,755.6353093760222,四川
+728,Sichuan,Water,RoW,725.9716532345255,四川
+742,Sichuan,Energy,RoW,3.5342796377264114,四川
+756,Sichuan,CO2,RoW,9.379812701865823,四川
+770,Sichuan,Land,RoW,542.7591883629595,四川
+,source,EWCL,target,value,region
+1,North,Water,Heilongjiang,3109.4984996433254,黑龙江
+2,Northeast,Water,Heilongjiang,1923.0335570812945,黑龙江
+3,Central,Water,Heilongjiang,1822.9163725727215,黑龙江
+4,Central Coast,Water,Heilongjiang,770.3391417111199,黑龙江
+5,South Coast,Water,Heilongjiang,154.84335000685388,黑龙江
+6,Southwest,Water,Heilongjiang,418.9828309929462,黑龙江
+7,Northwest,Water,Heilongjiang,849.1870536276182,黑龙江
+8,EU,Water,Heilongjiang,63.830275393277894,黑龙江
+9,Non-EU,Water,Heilongjiang,32.56846326249879,黑龙江
+10,EA,Water,Heilongjiang,37.24424331746836,黑龙江
+11,BRIIAT,Water,Heilongjiang,1422.3986355952886,黑龙江
+12,NAFTA,Water,Heilongjiang,885.4547537516164,黑龙江
+13,RoW,Water,Heilongjiang,2587.359841418736,黑龙江
+15,North,Energy,Heilongjiang,8.350554526023524,黑龙江
+16,Northeast,Energy,Heilongjiang,16.5360672584128,黑龙江
+17,Central,Energy,Heilongjiang,4.380059776211636,黑龙江
+18,Central Coast,Energy,Heilongjiang,3.6342133760571116,黑龙江
+19,South Coast,Energy,Heilongjiang,1.0654979083324463,黑龙江
+20,Southwest,Energy,Heilongjiang,1.3832315565217832,黑龙江
+21,Northwest,Energy,Heilongjiang,6.102568494083915,黑龙江
+22,EU,Energy,Heilongjiang,0.8392708384025216,黑龙江
+23,Non-EU,Energy,Heilongjiang,0.25884138228743436,黑龙江
+24,EA,Energy,Heilongjiang,2.8033282377748474,黑龙江
+25,BRIIAT,Energy,Heilongjiang,1.9474209869421275,黑龙江
+26,NAFTA,Energy,Heilongjiang,1.1325447027197288,黑龙江
+27,RoW,Energy,Heilongjiang,5.570629288843466,黑龙江
+29,North,CO2,Heilongjiang,23.499588852873313,黑龙江
+30,Northeast,CO2,Heilongjiang,42.669553093079834,黑龙江
+31,Central,CO2,Heilongjiang,13.199286326547156,黑龙江
+32,Central Coast,CO2,Heilongjiang,9.649665524544137,黑龙江
+33,South Coast,CO2,Heilongjiang,2.823509781542619,黑龙江
+34,Southwest,CO2,Heilongjiang,3.9767504310266077,黑龙江
+35,Northwest,CO2,Heilongjiang,17.437839931997562,黑龙江
+36,EU,CO2,Heilongjiang,0.9697961639384644,黑龙江
+37,Non-EU,CO2,Heilongjiang,0.390916261175921,黑龙江
+38,EA,CO2,Heilongjiang,2.5499541123765344,黑龙江
+39,BRIIAT,CO2,Heilongjiang,4.7709864685046375,黑龙江
+40,NAFTA,CO2,Heilongjiang,1.8550555854460284,黑龙江
+41,RoW,CO2,Heilongjiang,7.565753188208419,黑龙江
+43,North,Land,Heilongjiang,519.082681096761,黑龙江
+44,Northeast,Land,Heilongjiang,853.3890567313358,黑龙江
+45,Central,Land,Heilongjiang,445.2264105117194,黑龙江
+46,Central Coast,Land,Heilongjiang,102.9406586305371,黑龙江
+47,South Coast,Land,Heilongjiang,62.03980297293996,黑龙江
+48,Southwest,Land,Heilongjiang,293.000002738494,黑龙江
+49,Northwest,Land,Heilongjiang,1838.840423862035,黑龙江
+50,EU,Land,Heilongjiang,32.61061372648213,黑龙江
+51,Non-EU,Land,Heilongjiang,15.623092653905195,黑龙江
+52,EA,Land,Heilongjiang,6.910557666526771,黑龙江
+53,BRIIAT,Land,Heilongjiang,1034.2637137483223,黑龙江
+54,NAFTA,Land,Heilongjiang,415.2404864127808,黑龙江
+55,RoW,Land,Heilongjiang,1766.6767560941205,黑龙江
+56,Heilongjiang,Water,North,7872.660973296104,黑龙江
+70,Heilongjiang,Energy,North,9.31158272826681,黑龙江
+84,Heilongjiang,CO2,North,29.36170023946658,黑龙江
+98,Heilongjiang,Land,North,4533.414849052409,黑龙江
+112,Heilongjiang,Water,Northeast,6816.128129652871,黑龙江
+126,Heilongjiang,Energy,Northeast,11.142874882040115,黑龙江
+140,Heilongjiang,CO2,Northeast,33.57406282958026,黑龙江
+154,Heilongjiang,Land,Northeast,3892.8304468613687,黑龙江
+168,Heilongjiang,Water,Central,3671.7333113573286,黑龙江
+182,Heilongjiang,Energy,Central,3.49399091475404,黑龙江
+196,Heilongjiang,CO2,Central,11.221835823504165,黑龙江
+210,Heilongjiang,Land,Central,2123.8582149774625,黑龙江
+224,Heilongjiang,Water,Central Coast,6104.929554080457,黑龙江
+238,Heilongjiang,Energy,Central Coast,4.670885553267486,黑龙江
+252,Heilongjiang,CO2,Central Coast,15.656629935310722,黑龙江
+266,Heilongjiang,Land,Central Coast,3552.8351069687524,黑龙江
+280,Heilongjiang,Water,South Coast,611.4556145378294,黑龙江
+294,Heilongjiang,Energy,South Coast,2.398469085777866,黑龙江
+308,Heilongjiang,CO2,South Coast,6.129200137728827,黑龙江
+322,Heilongjiang,Land,South Coast,342.6223082872025,黑龙江
+336,Heilongjiang,Water,Southwest,1017.748025153634,黑龙江
+350,Heilongjiang,Energy,Southwest,1.7807824907911671,黑龙江
+364,Heilongjiang,CO2,Southwest,5.057860112414194,黑龙江
+378,Heilongjiang,Land,Southwest,583.8408139433373,黑龙江
+392,Heilongjiang,Water,Northwest,1633.7715526587338,黑龙江
+406,Heilongjiang,Energy,Northwest,2.71345901791216,黑龙江
+420,Heilongjiang,CO2,Northwest,7.892219099086733,黑龙江
+434,Heilongjiang,Land,Northwest,936.8569567935339,黑龙江
+448,Heilongjiang,Water,EU,889.8789533025877,黑龙江
+462,Heilongjiang,Energy,EU,1.670414900000548,黑龙江
+476,Heilongjiang,CO2,EU,4.834323844059965,黑龙江
+490,Heilongjiang,Land,EU,508.8697483267965,黑龙江
+504,Heilongjiang,Water,Non-EU,316.91947811814237,黑龙江
+518,Heilongjiang,Energy,Non-EU,0.5784207547582219,黑龙江
+532,Heilongjiang,CO2,Non-EU,1.6792690694947077,黑龙江
+546,Heilongjiang,Land,Non-EU,181.44401803977314,黑龙江
+560,Heilongjiang,Water,EA,793.4606425745623,黑龙江
+574,Heilongjiang,Energy,EA,1.4289289381366794,黑龙江
+588,Heilongjiang,CO2,EA,4.156134081317299,黑龙江
+602,Heilongjiang,Land,EA,454.5755937111406,黑龙江
+616,Heilongjiang,Water,BRIIAT,839.0247572050836,黑龙江
+630,Heilongjiang,Energy,BRIIAT,1.4908562910847172,黑龙江
+644,Heilongjiang,CO2,BRIIAT,4.333333963110496,黑龙江
+658,Heilongjiang,Land,BRIIAT,480.3713782488562,黑龙江
+672,Heilongjiang,Water,NAFTA,1587.652278093209,黑龙江
+686,Heilongjiang,Energy,NAFTA,2.6836465668231217,黑龙江
+700,Heilongjiang,CO2,NAFTA,7.886655164161695,黑龙江
+714,Heilongjiang,Land,NAFTA,908.9538290880504,黑龙江
+728,Heilongjiang,Water,RoW,1206.1550890096066,黑龙江
+742,Heilongjiang,Energy,RoW,2.5205492475706626,黑龙江
+756,Heilongjiang,CO2,RoW,7.196999912897959,黑龙江
+770,Heilongjiang,Land,RoW,687.7680372798695,黑龙江
+,source,EWCL,target,value,region
+1,North,Water,Jiangsu,5995.061201824445,江苏
+2,Northeast,Water,Jiangsu,4898.617633893921,江苏
+3,Central,Water,Jiangsu,6042.436661905674,江苏
+4,Central Coast,Water,Jiangsu,478.7456415266582,江苏
+5,South Coast,Water,Jiangsu,1220.1625549434289,江苏
+6,Southwest,Water,Jiangsu,2359.7971143434943,江苏
+7,Northwest,Water,Jiangsu,4109.230601631384,江苏
+8,EU,Water,Jiangsu,232.70486088836606,江苏
+9,Non-EU,Water,Jiangsu,119.98772986602492,江苏
+10,EA,Water,Jiangsu,153.6158059905692,江苏
+11,BRIIAT,Water,Jiangsu,4188.0088063139165,江苏
+12,NAFTA,Water,Jiangsu,2620.338543692941,江苏
+13,RoW,Water,Jiangsu,8134.588065800502,江苏
+15,North,Energy,Jiangsu,23.28265958834048,江苏
+16,Northeast,Energy,Jiangsu,7.171788890828479,江苏
+17,Central,Energy,Jiangsu,26.963142802600547,江苏
+18,Central Coast,Energy,Jiangsu,4.696274483298204,江苏
+19,South Coast,Energy,Jiangsu,4.293337971435994,江苏
+20,Southwest,Energy,Jiangsu,6.0944815466134035,江苏
+21,Northwest,Energy,Jiangsu,13.388744206312499,江苏
+22,EU,Energy,Jiangsu,3.2833482695290757,江苏
+23,Non-EU,Energy,Jiangsu,1.0107020366279997,江苏
+24,EA,Energy,Jiangsu,11.230609468487062,江苏
+25,BRIIAT,Energy,Jiangsu,7.137407649638293,江苏
+26,NAFTA,Energy,Jiangsu,4.3107776283065755,江苏
+27,RoW,Energy,Jiangsu,19.78593952665284,江苏
+29,North,CO2,Jiangsu,63.67160441365475,江苏
+30,Northeast,CO2,Jiangsu,21.292688608624143,江苏
+31,Central,CO2,Jiangsu,77.8357145225549,江苏
+32,Central Coast,CO2,Jiangsu,11.973065667686255,江苏
+33,South Coast,CO2,Jiangsu,11.716253667326082,江苏
+34,Southwest,CO2,Jiangsu,18.189182006074372,江苏
+35,Northwest,CO2,Jiangsu,37.96930331482869,江苏
+36,EU,CO2,Jiangsu,3.8309349240027957,江苏
+37,Non-EU,CO2,Jiangsu,1.5400837176927424,江苏
+38,EA,CO2,Jiangsu,10.921470211083918,江苏
+39,BRIIAT,CO2,Jiangsu,16.85920251289153,江苏
+40,NAFTA,CO2,Jiangsu,6.817006876883238,江苏
+41,RoW,CO2,Jiangsu,25.96040963459927,江苏
+43,North,Land,Jiangsu,1036.1297919174663,江苏
+44,Northeast,Land,Jiangsu,2587.949645615036,江苏
+45,Central,Land,Jiangsu,1602.442449487441,江苏
+46,Central Coast,Land,Jiangsu,170.52019962148103,江苏
+47,South Coast,Land,Jiangsu,519.6196890518112,江苏
+48,Southwest,Land,Jiangsu,1697.6836308888192,江苏
+49,Northwest,Land,Jiangsu,8829.610128949967,江苏
+50,EU,Land,Jiangsu,109.80401242344477,江苏
+51,Non-EU,Land,Jiangsu,58.64548162267265,江苏
+52,EA,Land,Jiangsu,28.869055849883217,江苏
+53,BRIIAT,Land,Jiangsu,3123.830405818735,江苏
+54,NAFTA,Land,Jiangsu,1242.2807768967405,江苏
+55,RoW,Land,Jiangsu,5533.499707776884,江苏
+56,Jiangsu,Water,North,3908.9619289144975,江苏
+70,Jiangsu,Energy,North,13.04009690237734,江苏
+84,Jiangsu,CO2,North,35.76148224643802,江苏
+98,Jiangsu,Land,North,364.7190102058589,江苏
+112,Jiangsu,Water,Northeast,1810.1478695514538,江苏
+126,Jiangsu,Energy,Northeast,6.151093133849886,江苏
+140,Jiangsu,CO2,Northeast,16.622159738183296,江苏
+154,Jiangsu,Land,Northeast,174.45966094970478,江苏
+168,Jiangsu,Water,Central,3609.4658247395005,江苏
+182,Jiangsu,Energy,Central,17.034340721269317,江苏
+196,Jiangsu,CO2,Central,45.83730075565435,江苏
+210,Jiangsu,Land,Central,292.5641277043748,江苏
+224,Jiangsu,Water,Central Coast,3255.0602712521195,江苏
+238,Jiangsu,Energy,Central Coast,15.340627837736173,江苏
+252,Jiangsu,CO2,Central Coast,42.25274486290026,江苏
+266,Jiangsu,Land,Central Coast,240.7049266948562,江苏
+280,Jiangsu,Water,South Coast,1651.8752287423222,江苏
+294,Jiangsu,Energy,South Coast,5.907507084697938,江苏
+308,Jiangsu,CO2,South Coast,15.966988970232498,江苏
+322,Jiangsu,Land,South Coast,153.24516926500348,江苏
+336,Jiangsu,Water,Southwest,1424.9926821362953,江苏
+350,Jiangsu,Energy,Southwest,5.745445968386942,江苏
+364,Jiangsu,CO2,Southwest,15.398376967211767,江苏
+378,Jiangsu,Land,Southwest,128.52772164709398,江苏
+392,Jiangsu,Water,Northwest,2776.3858886965177,江苏
+406,Jiangsu,Energy,Northwest,11.135604621936448,江苏
+420,Jiangsu,CO2,Northwest,29.70225785630842,江苏
+434,Jiangsu,Land,Northwest,253.83072131721667,江苏
+448,Jiangsu,Water,EU,3142.603291872392,江苏
+462,Jiangsu,Energy,EU,10.734790523311313,江苏
+476,Jiangsu,CO2,EU,28.93147398655851,江苏
+490,Jiangsu,Land,EU,305.8303741668962,江苏
+504,Jiangsu,Water,Non-EU,1098.1091826481193,江苏
+518,Jiangsu,Energy,Non-EU,3.755001124626283,江苏
+532,Jiangsu,CO2,Non-EU,10.11913975347829,江苏
+546,Jiangsu,Land,Non-EU,106.91188372275548,江苏
+560,Jiangsu,Water,EA,2611.179956268006,江苏
+574,Jiangsu,Energy,EA,8.791964154430538,江苏
+588,Jiangsu,CO2,EA,23.696078352620848,江苏
+602,Jiangsu,Land,EA,256.33912330519115,江苏
+616,Jiangsu,Water,BRIIAT,3046.1515895753255,江苏
+630,Jiangsu,Energy,BRIIAT,9.718249677848833,江苏
+644,Jiangsu,CO2,BRIIAT,26.345150412033824,江苏
+658,Jiangsu,Land,BRIIAT,301.28449040402796,江苏
+672,Jiangsu,Water,NAFTA,5790.902062801872,江苏
+686,Jiangsu,Energy,NAFTA,19.20712170595545,江苏
+700,Jiangsu,CO2,NAFTA,51.98549374637503,江苏
+714,Jiangsu,Land,NAFTA,565.7743931211655,江苏
+728,Jiangsu,Water,RoW,4192.721154456068,江苏
+742,Jiangsu,Energy,RoW,15.5831797559087,江苏
+756,Jiangsu,CO2,RoW,41.68105200959685,江苏
+770,Jiangsu,Land,RoW,401.62143100966017,江苏
+,source,EWCL,target,value,region
+1,North,Water,Chongqing,858.0448577436285,重庆
+2,Northeast,Water,Chongqing,520.0392330319512,重庆
+3,Central,Water,Chongqing,2182.220172688713,重庆
+4,Central Coast,Water,Chongqing,337.72989941366495,重庆
+5,South Coast,Water,Chongqing,374.89779821370325,重庆
+6,Southwest,Water,Chongqing,2341.9551281713757,重庆
+7,Northwest,Water,Chongqing,790.3622356686026,重庆
+8,EU,Water,Chongqing,48.68508229186466,重庆
+9,Non-EU,Water,Chongqing,24.37256077648043,重庆
+10,EA,Water,Chongqing,28.15844421801991,重庆
+11,BRIIAT,Water,Chongqing,973.8381052461181,重庆
+12,NAFTA,Water,Chongqing,618.2798601534873,重庆
+13,RoW,Water,Chongqing,1817.778094701552,重庆
+15,North,Energy,Chongqing,2.729542618922557,重庆
+16,Northeast,Energy,Chongqing,1.0309370244004958,重庆
+17,Central,Energy,Chongqing,3.681534841688848,重庆
+18,Central Coast,Energy,Chongqing,1.6325338727211065,重庆
+19,South Coast,Energy,Chongqing,1.9506351542096956,重庆
+20,Southwest,Energy,Chongqing,6.444527253585949,重庆
+21,Northwest,Energy,Chongqing,2.232668811504127,重庆
+22,EU,Energy,Chongqing,0.6236192142596398,重庆
+23,Non-EU,Energy,Chongqing,0.1877557326877017,重庆
+24,EA,Energy,Chongqing,1.964739562112235,重庆
+25,BRIIAT,Energy,Chongqing,1.2322823546693853,重庆
+26,NAFTA,Energy,Chongqing,0.8071542115037029,重庆
+27,RoW,Energy,Chongqing,3.4934299752205487,重庆
+29,North,CO2,Chongqing,7.495197168284671,重庆
+30,Northeast,CO2,Chongqing,2.928406057662033,重庆
+31,Central,CO2,Chongqing,12.187075770776458,重庆
+32,Central Coast,CO2,Chongqing,4.305364186006489,重庆
+33,South Coast,CO2,Chongqing,5.298362007117872,重庆
+34,Southwest,CO2,Chongqing,18.78293361885976,重庆
+35,Northwest,CO2,Chongqing,6.445562296379279,重庆
+36,EU,CO2,Chongqing,0.7373632874009494,重庆
+37,Non-EU,CO2,Chongqing,0.28710559256671286,重庆
+38,EA,CO2,Chongqing,1.8734540593585292,重庆
+39,BRIIAT,CO2,Chongqing,3.0368623593124227,重庆
+40,NAFTA,CO2,Chongqing,1.3303382998269044,重庆
+41,RoW,CO2,Chongqing,4.764396243825993,重庆
+43,North,Land,Chongqing,160.39772473522652,重庆
+44,Northeast,Land,Chongqing,267.1142081677305,重庆
+45,Central,Land,Chongqing,726.2875611273437,重庆
+46,Central Coast,Land,Chongqing,57.31850516686053,重庆
+47,South Coast,Land,Chongqing,153.8261439822008,重庆
+48,Southwest,Land,Chongqing,1773.8204853218697,重庆
+49,Northwest,Land,Chongqing,1601.09807858662,重庆
+50,EU,Land,Chongqing,23.926303201967254,重庆
+51,Non-EU,Land,Chongqing,11.74565787449116,重庆
+52,EA,Land,Chongqing,5.266943012176026,重庆
+53,BRIIAT,Land,Chongqing,715.7057497252243,重庆
+54,NAFTA,Land,Chongqing,290.4692162749108,重庆
+55,RoW,Land,Chongqing,1257.1490015108902,重庆
+56,Chongqing,Water,North,850.3512898571664,重庆
+70,Chongqing,Energy,North,2.96806995260157,重庆
+84,Chongqing,CO2,North,8.128532581576168,重庆
+98,Chongqing,Land,North,360.2513319461209,重庆
+112,Chongqing,Water,Northeast,146.34011998995152,重庆
+126,Chongqing,Energy,Northeast,0.6963115404363038,重庆
+140,Chongqing,CO2,Northeast,1.8531095581269714,重庆
+154,Chongqing,Land,Northeast,58.14693592751137,重庆
+168,Chongqing,Water,Central,1487.153422555968,重庆
+182,Chongqing,Energy,Central,3.6079219686490616,重庆
+196,Chongqing,CO2,Central,10.424127457446124,重庆
+210,Chongqing,Land,Central,646.5371762844467,重庆
+224,Chongqing,Water,Central Coast,611.7528261206667,重庆
+238,Chongqing,Energy,Central Coast,1.7176518691501501,重庆
+252,Chongqing,CO2,Central Coast,4.894886338719383,重庆
+266,Chongqing,Land,Central Coast,271.00345345366225,重庆
+280,Chongqing,Water,South Coast,929.7175733466813,重庆
+294,Chongqing,Energy,South Coast,4.000672806386684,重庆
+308,Chongqing,CO2,South Coast,10.889119773277837,重庆
+322,Chongqing,Land,South Coast,351.4699697880261,重庆
+336,Chongqing,Water,Southwest,1300.6159852462097,重庆
+350,Chongqing,Energy,Southwest,4.038836966231408,重庆
+364,Chongqing,CO2,Southwest,11.314336471653306,重庆
+378,Chongqing,Land,Southwest,568.9911887834375,重庆
+392,Chongqing,Water,Northwest,408.93004385199646,重庆
+406,Chongqing,Energy,Northwest,2.259225580606842,重庆
+420,Chongqing,CO2,Northwest,5.889029252603505,重庆
+434,Chongqing,Land,Northwest,151.23874194572886,重庆
+448,Chongqing,Water,EU,206.96118226287172,重庆
+462,Chongqing,Energy,EU,1.0957522000544573,重庆
+476,Chongqing,CO2,EU,2.908526534113946,重庆
+490,Chongqing,Land,EU,82.52719921766135,重庆
+504,Chongqing,Water,Non-EU,73.48392153103212,重庆
+518,Chongqing,Energy,Non-EU,0.38274165578144875,重庆
+532,Chongqing,CO2,Non-EU,1.017100473151665,重庆
+546,Chongqing,Land,Non-EU,29.42997151123204,重庆
+560,Chongqing,Water,EA,168.69857905903612,重庆
+574,Chongqing,Energy,EA,0.8711633843185232,重庆
+588,Chongqing,CO2,EA,2.318954837757712,重庆
+602,Chongqing,Land,EA,68.26426886878926,重庆
+616,Chongqing,Water,BRIIAT,196.50971459685593,重庆
+630,Chongqing,Energy,BRIIAT,0.9775934206490192,重庆
+644,Chongqing,CO2,BRIIAT,2.609354195665547,重庆
+658,Chongqing,Land,BRIIAT,79.77514905953774,重庆
+672,Chongqing,Water,NAFTA,359.3049371907545,重庆
+686,Chongqing,Energy,NAFTA,1.7748483351978825,重庆
+700,Chongqing,CO2,NAFTA,4.7600937426740035,重庆
+714,Chongqing,Land,NAFTA,144.3828732402095,重庆
+728,Chongqing,Water,RoW,272.7759234476396,重庆
+742,Chongqing,Energy,RoW,1.5649311457397708,重庆
+756,Chongqing,CO2,RoW,4.131817341523722,重庆
+770,Chongqing,Land,RoW,108.29922793943732,重庆
+,source,EWCL,target,value,region
+1,North,Water,Yunnan,743.5673944905246,云南
+2,Northeast,Water,Yunnan,425.09595756203976,云南
+3,Central,Water,Yunnan,2099.7024864897508,云南
+4,Central Coast,Water,Yunnan,492.5504573890299,云南
+5,South Coast,Water,Yunnan,395.2751556161858,云南
+6,Southwest,Water,Yunnan,2181.870342952732,云南
+7,Northwest,Water,Yunnan,382.6281836870393,云南
+8,EU,Water,Yunnan,55.862246651021835,云南
+9,Non-EU,Water,Yunnan,28.55422113240728,云南
+10,EA,Water,Yunnan,33.7822664604206,云南
+11,BRIIAT,Water,Yunnan,1024.731813215352,云南
+12,NAFTA,Water,Yunnan,640.356600320427,云南
+13,RoW,Water,Yunnan,1969.1708966538956,云南
+15,North,Energy,Yunnan,3.8233409157864653,云南
+16,Northeast,Energy,Yunnan,1.593759217206329,云南
+17,Central,Energy,Yunnan,4.737018483103064,云南
+18,Central Coast,Energy,Yunnan,3.2534949262348754,云南
+19,South Coast,Energy,Yunnan,2.9535145271608463,云南
+20,Southwest,Energy,Yunnan,6.114389747437069,云南
+21,Northwest,Energy,Yunnan,2.574246235195047,云南
+22,EU,Energy,Yunnan,0.7638830669332608,云南
+23,Non-EU,Energy,Yunnan,0.23458615575147598,云南
+24,EA,Energy,Yunnan,2.4066100315603554,云南
+25,BRIIAT,Energy,Yunnan,1.6955972628680043,云南
+26,NAFTA,Energy,Yunnan,0.9903051002481754,云南
+27,RoW,Energy,Yunnan,4.569770127165309,云南
+29,North,CO2,Yunnan,10.250280244604639,云南
+30,Northeast,CO2,Yunnan,4.1479323048890935,云南
+31,Central,CO2,Yunnan,14.878304019659442,云南
+32,Central Coast,CO2,Yunnan,8.446334539250822,云南
+33,South Coast,CO2,Yunnan,7.593719342095482,云南
+34,Southwest,CO2,Yunnan,17.84289276222233,云南
+35,Northwest,CO2,Yunnan,6.931954362375452,云南
+36,EU,CO2,Yunnan,0.8970681908661361,云南
+37,Non-EU,CO2,Yunnan,0.3580454370037962,云南
+38,EA,CO2,Yunnan,2.281997248599712,云南
+39,BRIIAT,CO2,Yunnan,4.074136677863997,云南
+40,NAFTA,CO2,Yunnan,1.5874215425399556,云南
+41,RoW,CO2,Yunnan,6.145448567428212,云南
+43,North,Land,Yunnan,135.91403146100924,云南
+44,Northeast,Land,Yunnan,214.2650169523289,云南
+45,Central,Land,Yunnan,755.464575752718,云南
+46,Central Coast,Land,Yunnan,79.43891703179885,云南
+47,South Coast,Land,Yunnan,145.78166745289477,云南
+48,Southwest,Land,Yunnan,1395.751888734325,云南
+49,Northwest,Land,Yunnan,788.1162917198747,云南
+50,EU,Land,Yunnan,26.59156595921388,云南
+51,Non-EU,Land,Yunnan,13.920039715134545,云南
+52,EA,Land,Yunnan,6.370829229263505,云南
+53,BRIIAT,Land,Yunnan,761.3830173168095,云南
+54,NAFTA,Land,Yunnan,302.51140251916297,云南
+55,RoW,Land,Yunnan,1338.3296113299382,云南
+56,Yunnan,Water,North,865.1307881463598,云南
+70,Yunnan,Energy,North,2.2038927217087023,云南
+84,Yunnan,CO2,North,6.817302106814311,云南
+98,Yunnan,Land,North,991.5265848402623,云南
+112,Yunnan,Water,Northeast,159.8535263090647,云南
+126,Yunnan,Energy,Northeast,0.6473964197402102,云南
+140,Yunnan,CO2,Northeast,1.8850523978802585,云南
+154,Yunnan,Land,Northeast,175.29420675297365,云南
+168,Yunnan,Water,Central,1293.468132643316,云南
+182,Yunnan,Energy,Central,3.341413690256182,云南
+196,Yunnan,CO2,Central,10.39128254375522,云南
+210,Yunnan,Land,Central,1448.9977814029426,云南
+224,Yunnan,Water,Central Coast,1153.7959662473445,云南
+238,Yunnan,Energy,Central Coast,3.7006020650606635,云南
+252,Yunnan,CO2,Central Coast,10.997294820745404,云南
+266,Yunnan,Land,Central Coast,1298.486694524134,云南
+280,Yunnan,Water,South Coast,1647.7957013640355,云南
+294,Yunnan,Energy,South Coast,9.250633923587912,云南
+308,Yunnan,CO2,South Coast,26.775229090374534,云南
+322,Yunnan,Land,South Coast,1564.0727108935903,云南
+336,Yunnan,Water,Southwest,1646.9058439312957,云南
+350,Yunnan,Energy,Southwest,3.5905813571554743,云南
+364,Yunnan,CO2,Southwest,11.425158263698712,云南
+378,Yunnan,Land,Southwest,1890.2506624034072,云南
+392,Yunnan,Water,Northwest,707.3805065571306,云南
+406,Yunnan,Energy,Northwest,1.71542371532368,云南
+420,Yunnan,CO2,Northwest,5.406479552259601,云南
+434,Yunnan,Land,Northwest,807.8962561577829,云南
+448,Yunnan,Water,EU,340.1797407148824,云南
+462,Yunnan,Energy,EU,2.449216781969932,云南
+476,Yunnan,CO2,EU,6.8474138568265515,云南
+490,Yunnan,Land,EU,323.1915652345796,云南
+504,Yunnan,Water,Non-EU,115.15866908937306,云南
+518,Yunnan,Energy,Non-EU,0.8208458282850569,云南
+532,Yunnan,CO2,Non-EU,2.2899070489282973,云南
+546,Yunnan,Land,Non-EU,110.90306115177155,云南
+560,Yunnan,Water,EA,298.3941711785759,云南
+574,Yunnan,Energy,EA,1.898830887606769,云南
+588,Yunnan,CO2,EA,5.339493428944198,云南
+602,Yunnan,Land,EA,298.2823061067965,云南
+616,Yunnan,Water,BRIIAT,292.81544554183563,云南
+630,Yunnan,Energy,BRIIAT,2.07286035148578,云南
+644,Yunnan,CO2,BRIIAT,5.789345526966354,云南
+658,Yunnan,Land,BRIIAT,284.7171041481196,云南
+672,Yunnan,Water,NAFTA,567.7047894451306,云南
+686,Yunnan,Energy,NAFTA,3.993524278653065,云南
+700,Yunnan,CO2,NAFTA,11.180137481838702,云南
+714,Yunnan,Land,NAFTA,548.3500890235778,云南
+728,Yunnan,Water,RoW,464.98995279046903,云南
+742,Yunnan,Energy,RoW,3.369380151822477,云南
+756,Yunnan,CO2,RoW,9.389087035304952,云南
+770,Yunnan,Land,RoW,450.70914287807767,云南
+,source,EWCL,target,value,region
+1,North,Water,Shanghai,10245.000355541302,上海
+2,Northeast,Water,Shanghai,4722.717897502237,上海
+3,Central,Water,Shanghai,7232.937762005144,上海
+4,Central Coast,Water,Shanghai,1878.0293514967861,上海
+5,South Coast,Water,Shanghai,607.1303357815568,上海
+6,Southwest,Water,Shanghai,2458.989719589611,上海
+7,Northwest,Water,Shanghai,4362.4059670711,上海
+8,EU,Water,Shanghai,106.95851727808297,上海
+9,Non-EU,Water,Shanghai,55.0306319658718,上海
+10,EA,Water,Shanghai,64.48445715987214,上海
+11,BRIIAT,Water,Shanghai,2033.8544144985315,上海
+12,NAFTA,Water,Shanghai,1265.510037240931,上海
+13,RoW,Water,Shanghai,3984.6463036461987,上海
+15,North,Energy,Shanghai,15.06468854271657,上海
+16,Northeast,Energy,Shanghai,4.226885768355982,上海
+17,Central,Energy,Shanghai,21.168625014716426,上海
+18,Central Coast,Energy,Shanghai,11.454645556849067,上海
+19,South Coast,Energy,Shanghai,3.488140007713828,上海
+20,Southwest,Energy,Shanghai,4.66306027704631,上海
+21,Northwest,Energy,Shanghai,9.125273150668573,上海
+22,EU,Energy,Shanghai,1.4679529705988181,上海
+23,Non-EU,Energy,Shanghai,0.4476573137862505,上海
+24,EA,Energy,Shanghai,4.90511866598017,上海
+25,BRIIAT,Energy,Shanghai,3.14221888376275,上海
+26,NAFTA,Energy,Shanghai,1.9564612917588138,上海
+27,RoW,Energy,Shanghai,9.374668713341853,上海
+29,North,CO2,Shanghai,45.275644049986305,上海
+30,Northeast,CO2,Shanghai,13.938387835476727,上海
+31,Central,CO2,Shanghai,64.0378817974513,上海
+32,Central Coast,CO2,Shanghai,31.64139017742666,上海
+33,South Coast,CO2,Shanghai,9.290260426642083,上海
+34,Southwest,CO2,Shanghai,14.88146861847723,上海
+35,Northwest,CO2,Shanghai,27.942758878450324,上海
+36,EU,CO2,Shanghai,1.7011504089744205,上海
+37,Non-EU,CO2,Shanghai,0.6727701275174538,上海
+38,EA,CO2,Shanghai,4.45919916860465,上海
+39,BRIIAT,CO2,Shanghai,7.321887629830098,上海
+40,NAFTA,CO2,Shanghai,3.0716240191724666,上海
+41,RoW,CO2,Shanghai,11.8884596483484,上海
+43,North,Land,Shanghai,1791.4220308798667,上海
+44,Northeast,Land,Shanghai,2520.4620098375344,上海
+45,Central,Land,Shanghai,2053.3991968636687,上海
+46,Central Coast,Land,Shanghai,348.8512418730515,上海
+47,South Coast,Land,Shanghai,238.19216480608657,上海
+48,Southwest,Land,Shanghai,1975.2697598151103,上海
+49,Northwest,Land,Shanghai,8032.086331513283,上海
+50,EU,Land,Shanghai,52.00755079032576,上海
+51,Non-EU,Land,Shanghai,27.361685353294334,上海
+52,EA,Land,Shanghai,12.184096288923715,上海
+53,BRIIAT,Land,Shanghai,1521.0634774024988,上海
+54,NAFTA,Land,Shanghai,596.7459432153793,上海
+55,RoW,Land,Shanghai,2723.3361818339986,上海
+56,Shanghai,Water,North,504.64530313173475,上海
+70,Shanghai,Energy,North,6.883562145458318,上海
+84,Shanghai,CO2,North,16.178783572518405,上海
+98,Shanghai,Land,North,28.60631865167014,上海
+112,Shanghai,Water,Northeast,190.19283319169256,上海
+126,Shanghai,Energy,Northeast,2.285291038201249,上海
+140,Shanghai,CO2,Northeast,5.606176739726567,上海
+154,Shanghai,Land,Northeast,7.923468569211187,上海
+168,Shanghai,Water,Central,570.9755421704522,上海
+182,Shanghai,Energy,Central,6.253457775372789,上海
+196,Shanghai,CO2,Central,15.311616963505598,上海
+210,Shanghai,Land,Central,25.663207756966038,上海
+224,Shanghai,Water,Central Coast,315.24176188254717,上海
+238,Shanghai,Energy,Central Coast,3.4820346083819302,上海
+252,Shanghai,CO2,Central Coast,8.28961460318469,上海
+266,Shanghai,Land,Central Coast,19.713593901082675,上海
+280,Shanghai,Water,South Coast,260.88237442572915,上海
+294,Shanghai,Energy,South Coast,3.319087194316284,上海
+308,Shanghai,CO2,South Coast,7.899799330385388,上海
+322,Shanghai,Land,South Coast,12.306211354933161,上海
+336,Shanghai,Water,Southwest,292.9700653854208,上海
+350,Shanghai,Energy,Southwest,3.3056910222802554,上海
+364,Shanghai,CO2,Southwest,8.007622348265322,上海
+378,Shanghai,Land,Southwest,13.734199629648023,上海
+392,Shanghai,Water,Northwest,365.96404759851197,上海
+406,Shanghai,Energy,Northwest,4.080353607903406,上海
+420,Shanghai,CO2,Northwest,9.784902022073064,上海
+434,Shanghai,Land,Northwest,20.085493652951396,上海
+448,Shanghai,Water,EU,412.82584797460885,上海
+462,Shanghai,Energy,EU,4.258029286237043,上海
+476,Shanghai,CO2,EU,10.46744565850002,上海
+490,Shanghai,Land,EU,18.420614076003826,上海
+504,Shanghai,Water,Non-EU,146.2895191833518,上海
+518,Shanghai,Energy,Non-EU,1.4897324686607314,上海
+532,Shanghai,CO2,Non-EU,3.6604646517904595,上海
+546,Shanghai,Land,Non-EU,6.814443255047241,上海
+560,Shanghai,Water,EA,333.67757190474566,上海
+574,Shanghai,Energy,EA,3.5786708690319133,上海
+588,Shanghai,CO2,EA,8.795861719689293,上海
+602,Shanghai,Land,EA,15.445276693253758,上海
+616,Shanghai,Water,BRIIAT,356.2504375332183,上海
+630,Shanghai,Energy,BRIIAT,3.7676284117371326,上海
+644,Shanghai,CO2,BRIIAT,9.256892912392708,上海
+658,Shanghai,Land,BRIIAT,16.47600572336788,上海
+672,Shanghai,Water,NAFTA,724.5145587757003,上海
+686,Shanghai,Energy,NAFTA,7.329718417869099,上海
+700,Shanghai,CO2,NAFTA,18.098107170489715,上海
+714,Shanghai,Land,NAFTA,31.716389064526727,上海
+728,Shanghai,Water,RoW,589.6749865199265,上海
+742,Shanghai,Energy,RoW,6.510220776621528,上海
+756,Shanghai,CO2,RoW,15.957522725135062,上海
+770,Shanghai,Land,RoW,25.031443832911496,上海
+,source,EWCL,target,value,region
+1,North,Water,Henan,3062.9439549781964,河南
+2,Northeast,Water,Henan,2380.6186917744576,河南
+3,Central,Water,Henan,2205.195185662201,河南
+4,Central Coast,Water,Henan,1529.1947272119635,河南
+5,South Coast,Water,Henan,673.4456458913018,河南
+6,Southwest,Water,Henan,1863.962622596542,河南
+7,Northwest,Water,Henan,3302.91224698899,河南
+8,EU,Water,Henan,180.8485688541943,河南
+9,Non-EU,Water,Henan,91.5063906926741,河南
+10,EA,Water,Henan,103.55344898990428,河南
+11,BRIIAT,Water,Henan,4318.246426777641,河南
+12,NAFTA,Water,Henan,2695.3922529023585,河南
+13,RoW,Water,Henan,7884.196584847767,河南
+15,North,Energy,Henan,16.024959332274594,河南
+16,Northeast,Energy,Henan,6.6212066852440925,河南
+17,Central,Energy,Henan,9.379563601152643,河南
+18,Central Coast,Energy,Henan,10.705905201338922,河南
+19,South Coast,Energy,Henan,6.154349957967149,河南
+20,Southwest,Energy,Henan,8.479704316970983,河南
+21,Northwest,Energy,Henan,9.448347584298215,河南
+22,EU,Energy,Henan,2.2502346873103996,河南
+23,Non-EU,Energy,Henan,0.6867968620396818,河南
+24,EA,Energy,Henan,7.445346110498299,河南
+25,BRIIAT,Energy,Henan,4.754548425280451,河南
+26,NAFTA,Energy,Henan,3.035519041706205,河南
+27,RoW,Energy,Henan,13.29325342261851,河南
+29,North,CO2,Henan,43.649811150703115,河南
+30,Northeast,CO2,Henan,18.020697772971435,河南
+31,Central,CO2,Henan,27.48699676846138,河南
+32,Central Coast,CO2,Henan,28.04437888030536,河南
+33,South Coast,CO2,Henan,16.71670669438164,河南
+34,Southwest,CO2,Henan,24.378920258307737,河南
+35,Northwest,CO2,Henan,27.39413118780558,河南
+36,EU,CO2,Henan,2.6395985095574703,河南
+37,Non-EU,CO2,Henan,1.0491402804435392,河南
+38,EA,CO2,Henan,7.007148277643408,河南
+39,BRIIAT,CO2,Henan,12.120586358628024,河南
+40,NAFTA,CO2,Henan,5.157639323980736,河南
+41,RoW,CO2,Henan,18.941353644150624,河南
+43,North,Land,Henan,540.1007460222953,河南
+44,Northeast,Land,Henan,1230.1469830187377,河南
+45,Central,Land,Henan,708.7827148836767,河南
+46,Central Coast,Land,Henan,178.51564946850092,河南
+47,South Coast,Land,Henan,281.4860470773235,河南
+48,Southwest,Land,Henan,1239.7341062206258,河南
+49,Northwest,Land,Henan,6077.810686836433,河南
+50,EU,Land,Henan,94.53730007980485,河南
+51,Non-EU,Land,Henan,43.54275027128894,河南
+52,EA,Land,Henan,19.205479478058738,河南
+53,BRIIAT,Land,Henan,3166.2267421653787,河南
+54,NAFTA,Land,Henan,1259.6950904569771,河南
+55,RoW,Land,Henan,5481.458240377429,河南
+56,Henan,Water,North,5712.2623085327905,河南
+70,Henan,Energy,North,19.79204484741287,河南
+84,Henan,CO2,North,56.76481752193269,河南
+98,Henan,Land,North,912.874807508994,河南
+112,Henan,Water,Northeast,2305.9592505351147,河南
+126,Henan,Energy,Northeast,4.867956328239654,河南
+140,Henan,CO2,Northeast,14.39130125033837,河南
+154,Henan,Land,Northeast,370.39004998344984,河南
+168,Henan,Water,Central,3837.159899054091,河南
+182,Henan,Energy,Central,14.123389358360622,河南
+196,Henan,CO2,Central,40.125941369166384,河南
+210,Henan,Land,Central,613.1957806208723,河南
+224,Henan,Water,Central Coast,5930.798898076537,河南
+238,Henan,Energy,Central Coast,22.469473894213547,河南
+252,Henan,CO2,Central Coast,62.84428413332932,河南
+266,Henan,Land,Central Coast,948.0366542667549,河南
+280,Henan,Water,South Coast,3069.043105283612,河南
+294,Henan,Energy,South Coast,7.099665137195872,河南
+308,Henan,CO2,South Coast,21.026504894945255,河南
+322,Henan,Land,South Coast,492.8652496177921,河南
+336,Henan,Water,Southwest,3312.666775338974,河南
+350,Henan,Energy,Southwest,7.625389795316502,河南
+364,Henan,CO2,Southwest,22.332759398621565,河南
+378,Henan,Land,Southwest,532.4875859194675,河南
+392,Henan,Water,Northwest,5158.607060508523,河南
+406,Henan,Energy,Northwest,16.020687738093837,河南
+420,Henan,CO2,Northwest,45.32156048931425,河南
+434,Henan,Land,Northwest,828.3561956286858,河南
+448,Henan,Water,EU,1505.4970322656159,河南
+462,Henan,Energy,EU,4.192714128669497,河南
+476,Henan,CO2,EU,12.080815275383651,河南
+490,Henan,Land,EU,242.2857103200013,河南
+504,Henan,Water,Non-EU,514.0691303257526,河南
+518,Henan,Energy,Non-EU,1.4575872885208787,河南
+532,Henan,CO2,Non-EU,4.192009180680707,河南
+546,Henan,Land,Non-EU,82.74689676750201,河南
+560,Henan,Water,EA,1341.5896848991897,河南
+574,Henan,Energy,EA,3.5237310555624006,河南
+588,Henan,CO2,EA,10.21434918561046,河南
+602,Henan,Land,EA,215.89802934870602,河南
+616,Henan,Water,BRIIAT,1404.5854327457228,河南
+630,Henan,Energy,BRIIAT,3.838952841182619,河南
+644,Henan,CO2,BRIIAT,11.089674664254604,河南
+658,Henan,Land,BRIIAT,225.96271649511402,河南
+672,Henan,Water,NAFTA,2587.2210746246114,河南
+686,Henan,Energy,NAFTA,7.163707172349344,河南
+700,Henan,CO2,NAFTA,20.689000368053655,河南
+714,Henan,Land,NAFTA,415.39469995584244,河南
+728,Henan,Water,RoW,2066.136569554596,河南
+742,Henan,Energy,RoW,6.184798458697821,河南
+756,Henan,CO2,RoW,17.69440737790867,河南
+770,Henan,Land,RoW,332.38723837236546,河南
+,source,EWCL,target,value,region
+1,North,Water,Inner Mongolia,1295.1364564715043,内蒙古
+2,Northeast,Water,Inner Mongolia,1268.3824275214652,内蒙古
+3,Central,Water,Inner Mongolia,2872.4897397785912,内蒙古
+4,Central Coast,Water,Inner Mongolia,1006.094277811243,内蒙古
+5,South Coast,Water,Inner Mongolia,293.18587271498984,内蒙古
+6,Southwest,Water,Inner Mongolia,971.5777912999891,内蒙古
+7,Northwest,Water,Inner Mongolia,643.194799010718,内蒙古
+8,EU,Water,Inner Mongolia,74.1878837056626,内蒙古
+9,Non-EU,Water,Inner Mongolia,37.80055395261639,内蒙古
+10,EA,Water,Inner Mongolia,42.55569645349176,内蒙古
+11,BRIIAT,Water,Inner Mongolia,1657.7013810613284,内蒙古
+12,NAFTA,Water,Inner Mongolia,1038.974039184005,内蒙古
+13,RoW,Water,Inner Mongolia,2954.1461862118026,内蒙古
+15,North,Energy,Inner Mongolia,9.904920105633328,内蒙古
+16,Northeast,Energy,Inner Mongolia,5.856229690547273,内蒙古
+17,Central,Energy,Inner Mongolia,8.921105476038585,内蒙古
+18,Central Coast,Energy,Inner Mongolia,5.7203186997938955,内蒙古
+19,South Coast,Energy,Inner Mongolia,2.0608226035086448,内蒙古
+20,Southwest,Energy,Inner Mongolia,3.7782570369578257,内蒙古
+21,Northwest,Energy,Inner Mongolia,3.234743083984994,内蒙古
+22,EU,Energy,Inner Mongolia,0.9535421513755925,内蒙古
+23,Non-EU,Energy,Inner Mongolia,0.29556352496526733,内蒙古
+24,EA,Energy,Inner Mongolia,3.1164615194257106,内蒙古
+25,BRIIAT,Energy,Inner Mongolia,2.2377704940588123,内蒙古
+26,NAFTA,Energy,Inner Mongolia,1.3107417995572632,内蒙古
+27,RoW,Energy,Inner Mongolia,6.271789696180934,内蒙古
+29,North,CO2,Inner Mongolia,26.713481089429088,内蒙古
+30,Northeast,CO2,Inner Mongolia,15.239925274760578,内蒙古
+31,Central,CO2,Inner Mongolia,25.63295828455454,内蒙古
+32,Central Coast,CO2,Inner Mongolia,14.739093515567152,内蒙古
+33,South Coast,CO2,Inner Mongolia,5.271802666359941,内蒙古
+34,Southwest,CO2,Inner Mongolia,10.309673259377169,内蒙古
+35,Northwest,CO2,Inner Mongolia,8.735235684842966,内蒙古
+36,EU,CO2,Inner Mongolia,1.120465012202761,内蒙古
+37,Non-EU,CO2,Inner Mongolia,0.44961378592675033,内蒙古
+38,EA,CO2,Inner Mongolia,2.887729541315437,内蒙古
+39,BRIIAT,CO2,Inner Mongolia,5.574823565417518,内蒙古
+40,NAFTA,CO2,Inner Mongolia,2.196033026894311,内蒙古
+41,RoW,CO2,Inner Mongolia,8.270374910365597,内蒙古
+43,North,Land,Inner Mongolia,222.59823363911252,内蒙古
+44,Northeast,Land,Inner Mongolia,630.1848995612808,内蒙古
+45,Central,Land,Inner Mongolia,673.1347643790222,内蒙古
+46,Central Coast,Land,Inner Mongolia,145.17479920096002,内蒙古
+47,South Coast,Land,Inner Mongolia,113.52142531455398,内蒙古
+48,Southwest,Land,Inner Mongolia,658.7259614388415,内蒙古
+49,Northwest,Land,Inner Mongolia,1428.4392962060508,内蒙古
+50,EU,Land,Inner Mongolia,38.11371025855107,内蒙古
+51,Non-EU,Land,Inner Mongolia,18.09077603726673,内蒙古
+52,EA,Land,Inner Mongolia,7.9050243862999565,内蒙古
+53,BRIIAT,Land,Inner Mongolia,1206.0590873039523,内蒙古
+54,NAFTA,Land,Inner Mongolia,487.454772177477,内蒙古
+55,RoW,Land,Inner Mongolia,2027.2797739308612,内蒙古
+56,Inner Mongolia,Water,North,3530.873813317199,内蒙古
+70,Inner Mongolia,Energy,North,34.41451845345982,内蒙古
+84,Inner Mongolia,CO2,North,98.65362443600297,内蒙古
+98,Inner Mongolia,Land,North,10080.374809391209,内蒙古
+112,Inner Mongolia,Water,Northeast,1712.2153171089947,内蒙古
+126,Inner Mongolia,Energy,Northeast,29.987878648399054,内蒙古
+140,Inner Mongolia,CO2,Northeast,85.40659530737283,内蒙古
+154,Inner Mongolia,Land,Northeast,4738.5103415339945,内蒙古
+168,Inner Mongolia,Water,Central,2328.1210001294926,内蒙古
+182,Inner Mongolia,Energy,Central,10.431552993939448,内蒙古
+196,Inner Mongolia,CO2,Central,30.592198632111483,内蒙古
+210,Inner Mongolia,Land,Central,6772.05269175023,内蒙古
+224,Inner Mongolia,Water,Central Coast,3279.6922302075336,内蒙古
+238,Inner Mongolia,Energy,Central Coast,13.148784702153652,内蒙古
+252,Inner Mongolia,CO2,Central Coast,38.610722203602236,内蒙古
+266,Inner Mongolia,Land,Central Coast,9557.252935763061,内蒙古
+280,Inner Mongolia,Water,South Coast,708.20875940898,内蒙古
+294,Inner Mongolia,Energy,South Coast,4.4551093343322705,内蒙古
+308,Inner Mongolia,CO2,South Coast,12.694403170032707,内蒙古
+322,Inner Mongolia,Land,South Coast,2048.1140055577016,内蒙古
+336,Inner Mongolia,Water,Southwest,600.7319196209422,内蒙古
+350,Inner Mongolia,Energy,Southwest,4.024830951270227,内蒙古
+364,Inner Mongolia,CO2,Southwest,11.417427862401109,内蒙古
+378,Inner Mongolia,Land,Southwest,1733.0807860976956,内蒙古
+392,Inner Mongolia,Water,Northwest,770.8572039994635,内蒙古
+406,Inner Mongolia,Energy,Northwest,5.413895163841227,内蒙古
+420,Inner Mongolia,CO2,Northwest,15.333366576156433,内蒙古
+434,Inner Mongolia,Land,Northwest,2212.6545311458767,内蒙古
+448,Inner Mongolia,Water,EU,570.3105375584286,内蒙古
+462,Inner Mongolia,Energy,EU,3.9028844865697327,内蒙古
+476,Inner Mongolia,CO2,EU,11.069272894074329,内蒙古
+490,Inner Mongolia,Land,EU,1645.3922400269314,内蒙古
+504,Inner Mongolia,Water,Non-EU,200.2941233777406,内蒙古
+518,Inner Mongolia,Energy,Non-EU,1.3552573485269317,内蒙古
+532,Inner Mongolia,CO2,Non-EU,3.8433205008115108,内蒙古
+546,Inner Mongolia,Land,Non-EU,578.0808664077849,内蒙古
+560,Inner Mongolia,Water,EA,471.47031513964714,内蒙古
+574,Inner Mongolia,Energy,EA,3.2331927790728794,内蒙古
+588,Inner Mongolia,CO2,EA,9.163604713071157,内蒙古
+602,Inner Mongolia,Land,EA,1360.556808604641,内蒙古
+616,Inner Mongolia,Water,BRIIAT,574.7448562268834,内蒙古
+630,Inner Mongolia,Energy,BRIIAT,3.403309597737676,内蒙古
+644,Inner Mongolia,CO2,BRIIAT,9.739696986430427,内蒙古
+658,Inner Mongolia,Land,BRIIAT,1664.555833353361,内蒙古
+672,Inner Mongolia,Water,NAFTA,1012.5765889400185,内蒙古
+686,Inner Mongolia,Energy,NAFTA,6.408773226322762,内蒙古
+700,Inner Mongolia,CO2,NAFTA,18.30024686193759,内蒙古
+714,Inner Mongolia,Land,NAFTA,2925.931546236072,内蒙古
+728,Inner Mongolia,Water,RoW,746.0035914941712,内蒙古
+742,Inner Mongolia,Energy,RoW,5.68100703628969,内蒙古
+756,Inner Mongolia,CO2,RoW,16.015011987206712,内蒙古
+770,Inner Mongolia,Land,RoW,2145.983540912853,内蒙古
+,source,EWCL,target,value,region
+1,North,Water,Liaoning,2476.662341715043,辽宁
+2,Northeast,Water,Liaoning,5552.102578391621,辽宁
+3,Central,Water,Liaoning,1637.0987620861845,辽宁
+4,Central Coast,Water,Liaoning,732.439624797424,辽宁
+5,South Coast,Water,Liaoning,201.4101071534644,辽宁
+6,Southwest,Water,Liaoning,410.73353001055506,辽宁
+7,Northwest,Water,Liaoning,967.6418184086675,辽宁
+8,EU,Water,Liaoning,124.52600685912358,辽宁
+9,Non-EU,Water,Liaoning,63.33568028812762,辽宁
+10,EA,Water,Liaoning,69.98219638445529,辽宁
+11,BRIIAT,Water,Liaoning,2742.6404019819315,辽宁
+12,NAFTA,Water,Liaoning,1716.756333293419,辽宁
+13,RoW,Water,Liaoning,5130.821498646738,辽宁
+15,North,Energy,Liaoning,11.353303027405302,辽宁
+16,Northeast,Energy,Liaoning,10.652385193907136,辽宁
+17,Central,Energy,Liaoning,5.349154431427716,辽宁
+18,Central Coast,Energy,Liaoning,3.78824211612554,辽宁
+19,South Coast,Energy,Liaoning,1.020457189364542,辽宁
+20,Southwest,Energy,Liaoning,1.6900696531687198,辽宁
+21,Northwest,Energy,Liaoning,8.499840988844056,辽宁
+22,EU,Energy,Liaoning,1.5869504934887744,辽宁
+23,Non-EU,Energy,Liaoning,0.4878960425780211,辽宁
+24,EA,Energy,Liaoning,5.112673640570167,辽宁
+25,BRIIAT,Energy,Liaoning,3.5020734522440873,辽宁
+26,NAFTA,Energy,Liaoning,2.1368938059898035,辽宁
+27,RoW,Energy,Liaoning,9.758378402336163,辽宁
+29,North,CO2,Liaoning,31.004790365739396,辽宁
+30,Northeast,CO2,Liaoning,31.289793152064775,辽宁
+31,Central,CO2,Liaoning,15.641889636962787,辽宁
+32,Central Coast,CO2,Liaoning,9.989559093223477,辽宁
+33,South Coast,CO2,Liaoning,2.6822936014677787,辽宁
+34,Southwest,CO2,Liaoning,4.683314112039249,辽宁
+35,Northwest,CO2,Liaoning,23.43689529897289,辽宁
+36,EU,CO2,Liaoning,1.8627916988017987,辽宁
+37,Non-EU,CO2,Liaoning,0.7440093932111501,辽宁
+38,EA,CO2,Liaoning,4.794063129116682,辽宁
+39,BRIIAT,CO2,Liaoning,8.718797009529812,辽宁
+40,NAFTA,CO2,Liaoning,3.560303421276235,辽宁
+41,RoW,CO2,Liaoning,13.621877071771017,辽宁
+43,North,Land,Liaoning,422.2063925484246,辽宁
+44,Northeast,Land,Liaoning,3114.3427164843015,辽宁
+45,Central,Land,Liaoning,408.76592123997096,辽宁
+46,Central Coast,Land,Liaoning,98.94058277116716,辽宁
+47,South Coast,Land,Liaoning,85.30717419254806,辽宁
+48,Southwest,Land,Liaoning,286.6636733655839,辽宁
+49,Northwest,Land,Liaoning,2574.1161224465404,辽宁
+50,EU,Land,Liaoning,63.347433626757955,辽宁
+51,Non-EU,Land,Liaoning,30.519100677456283,辽宁
+52,EA,Land,Liaoning,13.13342057701844,辽宁
+53,BRIIAT,Land,Liaoning,2023.1553414578923,辽宁
+54,NAFTA,Land,Liaoning,804.2617847142657,辽宁
+55,RoW,Land,Liaoning,3535.9101619619423,辽宁
+56,Liaoning,Water,North,2402.076364081551,辽宁
+70,Liaoning,Energy,North,16.10637833662133,辽宁
+84,Liaoning,CO2,North,41.67582667797429,辽宁
+98,Liaoning,Land,North,862.7755234812829,辽宁
+112,Liaoning,Water,Northeast,1610.9787098775344,辽宁
+126,Liaoning,Energy,Northeast,20.034898451284377,辽宁
+140,Liaoning,CO2,Northeast,47.951170781842926,辽宁
+154,Liaoning,Land,Northeast,552.4328282367115,辽宁
+168,Liaoning,Water,Central,1290.9047774257442,辽宁
+182,Liaoning,Energy,Central,8.493436748637544,辽宁
+196,Liaoning,CO2,Central,21.186809785773384,辽宁
+210,Liaoning,Land,Central,464.5214885523689,辽宁
+224,Liaoning,Water,Central Coast,1787.65235741966,辽宁
+238,Liaoning,Energy,Central Coast,7.6615036839942,辽宁
+252,Liaoning,CO2,Central Coast,19.92075012059917,辽宁
+266,Liaoning,Land,Central Coast,652.8545689250078,辽宁
+280,Liaoning,Water,South Coast,386.7879864359213,辽宁
+294,Liaoning,Energy,South Coast,3.2453620273164137,辽宁
+308,Liaoning,CO2,South Coast,7.9445306268551175,辽宁
+322,Liaoning,Land,South Coast,139.2844245084722,辽宁
+336,Liaoning,Water,Southwest,472.03612639763264,辽宁
+350,Liaoning,Energy,Southwest,3.315761126399146,辽宁
+364,Liaoning,CO2,Southwest,8.242203553332413,辽宁
+378,Liaoning,Land,Southwest,170.5242724860822,辽宁
+392,Liaoning,Water,Northwest,773.4080039617372,辽宁
+406,Liaoning,Energy,Northwest,7.008266691361854,辽宁
+420,Liaoning,CO2,Northwest,17.541934921784613,辽宁
+434,Liaoning,Land,Northwest,274.4406319018683,辽宁
+448,Liaoning,Water,EU,760.1693150849196,辽宁
+462,Liaoning,Energy,EU,4.985405868102426,辽宁
+476,Liaoning,CO2,EU,12.38950330626871,辽宁
+490,Liaoning,Land,EU,274.8056034834217,辽宁
+504,Liaoning,Water,Non-EU,264.78643901013425,辽宁
+518,Liaoning,Energy,Non-EU,1.7265210319436262,辽宁
+532,Liaoning,CO2,Non-EU,4.291103282477843,辽宁
+546,Liaoning,Land,Non-EU,95.81413021865885,辽宁
+560,Liaoning,Water,EA,693.2272783811203,辽宁
+574,Liaoning,Energy,EA,4.555860645779387,辽宁
+588,Liaoning,CO2,EA,11.294587183209456,辽宁
+602,Liaoning,Land,EA,249.66941169270243,辽宁
+616,Liaoning,Water,BRIIAT,703.0994195894515,辽宁
+630,Liaoning,Energy,BRIIAT,4.657549862864884,辽宁
+644,Liaoning,CO2,BRIIAT,11.547184484911464,辽宁
+658,Liaoning,Land,BRIIAT,253.74048763588476,辽宁
+672,Liaoning,Water,NAFTA,1353.3644626994715,辽宁
+686,Liaoning,Energy,NAFTA,8.290140347072613,辽宁
+700,Liaoning,CO2,NAFTA,20.69971758460221,辽宁
+714,Liaoning,Land,NAFTA,488.6347812695462,辽宁
+728,Liaoning,Water,RoW,1058.3619070786472,辽宁
+742,Liaoning,Energy,RoW,7.860612800539187,辽宁
+756,Liaoning,CO2,RoW,19.337583311457152,辽宁
+770,Liaoning,Land,RoW,380.38916799800205,辽宁
+,source,EWCL,target,value,region
+1,North,Water,Ningxia,258.83449144810186,宁夏
+2,Northeast,Water,Ningxia,155.63392383960456,宁夏
+3,Central,Water,Ningxia,419.0155099666615,宁夏
+4,Central Coast,Water,Ningxia,156.61805682074134,宁夏
+5,South Coast,Water,Ningxia,70.20102503466276,宁夏
+6,Southwest,Water,Ningxia,144.78398312772532,宁夏
+7,Northwest,Water,Ningxia,263.42644167150513,宁夏
+8,EU,Water,Ningxia,12.026702113524973,宁夏
+9,Non-EU,Water,Ningxia,6.3364501114458545,宁夏
+10,EA,Water,Ningxia,7.399016134403016,宁夏
+11,BRIIAT,Water,Ningxia,202.72955466763182,宁夏
+12,NAFTA,Water,Ningxia,124.13579036847818,宁夏
+13,RoW,Water,Ningxia,414.20717398381845,宁夏
+15,North,Energy,Ningxia,2.004064425235321,宁夏
+16,Northeast,Energy,Ningxia,0.9644507883828699,宁夏
+17,Central,Energy,Ningxia,2.01923359786572,宁夏
+18,Central Coast,Energy,Ningxia,1.0393111077810404,宁夏
+19,South Coast,Energy,Ningxia,0.361825479592227,宁夏
+20,Southwest,Energy,Ningxia,0.712688789214788,宁夏
+21,Northwest,Energy,Ningxia,2.120924783552408,宁夏
+22,EU,Energy,Ningxia,0.1774719329712201,宁夏
+23,Non-EU,Energy,Ningxia,0.05632464334956424,宁夏
+24,EA,Energy,Ningxia,0.587067257047147,宁夏
+25,BRIIAT,Energy,Ningxia,0.47468222332155585,宁夏
+26,NAFTA,Energy,Ningxia,0.24088448620669256,宁夏
+27,RoW,Energy,Ningxia,1.3072955603743424,宁夏
+29,North,CO2,Ningxia,5.371625048634228,宁夏
+30,Northeast,CO2,Ningxia,2.444245756506467,宁夏
+31,Central,CO2,Ningxia,5.6080852301464,宁夏
+32,Central Coast,CO2,Ningxia,2.6778421056262336,宁夏
+33,South Coast,CO2,Ningxia,0.9506944999744085,宁夏
+34,Southwest,CO2,Ningxia,1.9446416775777458,宁夏
+35,Northwest,CO2,Ningxia,5.774312902186982,宁夏
+36,EU,CO2,Ningxia,0.20406454083938572,宁夏
+37,Non-EU,CO2,Ningxia,0.08467827314157099,宁夏
+38,EA,CO2,Ningxia,0.5355343797114451,宁夏
+39,BRIIAT,CO2,Ningxia,1.099237606336194,宁夏
+40,NAFTA,CO2,Ningxia,0.37264780518166285,宁夏
+41,RoW,CO2,Ningxia,1.6924016215495377,宁夏
+43,North,Land,Ningxia,44.14220817819883,宁夏
+44,Northeast,Land,Ningxia,77.30406693522484,宁夏
+45,Central,Land,Ningxia,107.65249601295089,宁夏
+46,Central Coast,Land,Ningxia,18.16190875195372,宁夏
+47,South Coast,Land,Ningxia,27.491115749451748,宁夏
+48,Southwest,Land,Ningxia,96.86640867325443,宁夏
+49,Northwest,Land,Ningxia,274.2172754099894,宁夏
+50,EU,Land,Ningxia,5.568706111872675,宁夏
+51,Non-EU,Land,Ningxia,3.148721247931722,宁夏
+52,EA,Land,Ningxia,1.4064140075647882,宁夏
+53,BRIIAT,Land,Ningxia,152.72092749170824,宁夏
+54,NAFTA,Land,Ningxia,58.93951684221599,宁夏
+55,RoW,Land,Ningxia,271.66305812473485,宁夏
+56,Ningxia,Water,North,686.6292890007686,宁夏
+70,Ningxia,Energy,North,4.266253592013859,宁夏
+84,Ningxia,CO2,North,12.543386034206405,宁夏
+98,Ningxia,Land,North,4241.0177228966895,宁夏
+112,Ningxia,Water,Northeast,137.94537087730274,宁夏
+126,Ningxia,Energy,Northeast,0.7028193559497402,宁夏
+140,Ningxia,CO2,Northeast,2.067500793218656,宁夏
+154,Ningxia,Land,Northeast,851.944595625941,宁夏
+168,Ningxia,Water,Central,481.39266470783576,宁夏
+182,Ningxia,Energy,Central,1.6806045134535235,宁夏
+196,Ningxia,CO2,Central,5.081884410358509,宁夏
+210,Ningxia,Land,Central,3017.3907228307357,宁夏
+224,Ningxia,Water,Central Coast,766.4998839457552,宁夏
+238,Ningxia,Energy,Central Coast,2.067718689121864,宁夏
+252,Ningxia,CO2,Central Coast,6.415339437897395,宁夏
+266,Ningxia,Land,Central Coast,4830.867744393999,宁夏
+280,Ningxia,Water,South Coast,139.69984376202623,宁夏
+294,Ningxia,Energy,South Coast,0.7195551496597382,宁夏
+308,Ningxia,CO2,South Coast,2.0991690557982494,宁夏
+322,Ningxia,Land,South Coast,864.2986393141673,宁夏
+336,Ningxia,Water,Southwest,229.55006354213165,宁夏
+350,Ningxia,Energy,Southwest,0.7922820193018781,宁夏
+364,Ningxia,CO2,Southwest,2.3911823935112118,宁夏
+378,Ningxia,Land,Southwest,1439.7498381258733,宁夏
+392,Ningxia,Water,Northwest,361.8165567674543,宁夏
+406,Ningxia,Energy,Northwest,3.386645680912201,宁夏
+420,Ningxia,CO2,Northwest,9.839943599678655,宁夏
+434,Ningxia,Land,Northwest,2187.9883070065216,宁夏
+448,Ningxia,Water,EU,100.90055964154149,宁夏
+462,Ningxia,Energy,EU,0.7080424900452634,宁夏
+476,Ningxia,CO2,EU,2.0299157562854475,宁夏
+490,Ningxia,Land,EU,617.5657196530772,宁夏
+504,Ningxia,Water,Non-EU,34.78133557092175,宁夏
+518,Ningxia,Energy,Non-EU,0.24743204769424615,宁夏
+532,Ningxia,CO2,Non-EU,0.708814521776553,宁夏
+546,Ningxia,Land,Non-EU,212.72553389784807,宁夏
+560,Ningxia,Water,EA,82.83015281547857,宁夏
+574,Ningxia,Energy,EA,0.6219299021942731,宁夏
+588,Ningxia,CO2,EA,1.7788609343379596,宁夏
+602,Ningxia,Land,EA,505.975985635242,宁夏
+616,Ningxia,Water,BRIIAT,105.23044536280273,宁夏
+630,Ningxia,Energy,BRIIAT,0.6554546516899781,宁夏
+644,Ningxia,CO2,BRIIAT,1.891724668915133,宁夏
+658,Ningxia,Land,BRIIAT,648.0251555709993,宁夏
+672,Ningxia,Water,NAFTA,179.1065080819994,宁夏
+686,Ningxia,Energy,NAFTA,1.1758619359940237,宁夏
+700,Ningxia,CO2,NAFTA,3.3893038447293002,宁夏
+714,Ningxia,Land,NAFTA,1099.4811366908853,宁夏
+728,Ningxia,Water,RoW,131.07050064986456,宁夏
+742,Ningxia,Energy,RoW,1.043407812837398,宁夏
+756,Ningxia,CO2,RoW,2.9760339112263527,宁夏
+770,Ningxia,Land,RoW,798.1685609082562,宁夏
+,source,EWCL,target,value,region
+1,North,Water,Guizhou,521.3648226343059,贵州
+2,Northeast,Water,Guizhou,271.6550673794967,贵州
+3,Central,Water,Guizhou,1146.1965416371313,贵州
+4,Central Coast,Water,Guizhou,285.3572791852668,贵州
+5,South Coast,Water,Guizhou,383.6757092796111,贵州
+6,Southwest,Water,Guizhou,1014.1095809072184,贵州
+7,Northwest,Water,Guizhou,352.78916030509254,贵州
+8,EU,Water,Guizhou,25.803652207827078,贵州
+9,Non-EU,Water,Guizhou,13.296688056449506,贵州
+10,EA,Water,Guizhou,15.825034357003295,贵州
+11,BRIIAT,Water,Guizhou,466.6973308557474,贵州
+12,NAFTA,Water,Guizhou,290.1956380474043,贵州
+13,RoW,Water,Guizhou,915.6395934474612,贵州
+15,North,Energy,Guizhou,2.3669872186498204,贵州
+16,Northeast,Energy,Guizhou,0.8982637372897622,贵州
+17,Central,Energy,Guizhou,3.188157163306664,贵州
+18,Central Coast,Energy,Guizhou,1.6488936429821333,贵州
+19,South Coast,Energy,Guizhou,1.6812075193346239,贵州
+20,Southwest,Energy,Guizhou,3.35784434655012,贵州
+21,Northwest,Energy,Guizhou,1.7811701196994054,贵州
+22,EU,Energy,Guizhou,0.36216857837138616,贵州
+23,Non-EU,Energy,Guizhou,0.11116944043876478,贵州
+24,EA,Energy,Guizhou,1.2173517466411303,贵州
+25,BRIIAT,Energy,Guizhou,0.816804084735807,贵州
+26,NAFTA,Energy,Guizhou,0.4867015890496192,贵州
+27,RoW,Energy,Guizhou,2.3617851072821017,贵州
+29,North,CO2,Guizhou,6.391017950708175,贵州
+30,Northeast,CO2,Guizhou,2.408165107872142,贵州
+31,Central,CO2,Guizhou,9.591069438945935,贵州
+32,Central Coast,CO2,Guizhou,4.320081971519211,贵州
+33,South Coast,CO2,Guizhou,4.496780180771798,贵州
+34,Southwest,CO2,Guizhou,9.414345401611822,贵州
+35,Northwest,CO2,Guizhou,4.923944757100429,贵州
+36,EU,CO2,Guizhou,0.4190269574600127,贵州
+37,Non-EU,CO2,Guizhou,0.16742236483603393,贵州
+38,EA,CO2,Guizhou,1.1086643982132336,贵州
+39,BRIIAT,CO2,Guizhou,1.8979986884302744,贵州
+40,NAFTA,CO2,Guizhou,0.7601669966065244,贵州
+41,RoW,CO2,Guizhou,2.945630324370606,贵州
+43,North,Land,Guizhou,100.53622097320275,贵州
+44,Northeast,Land,Guizhou,134.94974164841386,贵州
+45,Central,Land,Guizhou,390.37533232477085,贵州
+46,Central Coast,Land,Guizhou,53.841595372435236,贵州
+47,South Coast,Land,Guizhou,149.38133263020615,贵州
+48,Southwest,Land,Guizhou,795.8825893628773,贵州
+49,Northwest,Land,Guizhou,809.0024606574875,贵州
+50,EU,Land,Guizhou,12.245425664371405,贵州
+51,Non-EU,Land,Guizhou,6.56764306310296,贵州
+52,EA,Land,Guizhou,2.9771523423714346,贵州
+53,BRIIAT,Land,Guizhou,349.1891194571414,贵州
+54,NAFTA,Land,Guizhou,137.2233829698722,贵州
+55,RoW,Land,Guizhou,621.5919937201897,贵州
+56,Guizhou,Water,North,621.0029322296482,贵州
+70,Guizhou,Energy,North,3.168515947867753,贵州
+84,Guizhou,CO2,North,9.600422382714036,贵州
+98,Guizhou,Land,North,500.0150108502181,贵州
+112,Guizhou,Water,Northeast,103.13615451772253,贵州
+126,Guizhou,Energy,Northeast,0.9620438051539666,贵州
+140,Guizhou,CO2,Northeast,2.7772256467349434,贵州
+154,Guizhou,Land,Northeast,77.92677142373174,贵州
+168,Guizhou,Water,Central,1007.0147786394965,贵州
+182,Guizhou,Energy,Central,9.524292024543545,贵州
+196,Guizhou,CO2,Central,28.264670592067716,贵州
+210,Guizhou,Land,Central,738.4845109139302,贵州
+224,Guizhou,Water,Central Coast,947.1727988501801,贵州
+238,Guizhou,Energy,Central Coast,4.683769642877028,贵州
+252,Guizhou,CO2,Central Coast,14.091463581284664,贵州
+266,Guizhou,Land,Central Coast,763.9021965430256,贵州
+280,Guizhou,Water,South Coast,1842.914756686282,贵州
+294,Guizhou,Energy,South Coast,7.125465857384111,贵州
+308,Guizhou,CO2,South Coast,22.493119343790614,贵州
+322,Guizhou,Land,South Coast,1494.4154235938613,贵州
+336,Guizhou,Water,Southwest,1519.530132973401,贵州
+350,Guizhou,Energy,Southwest,6.340328649237366,贵州
+364,Guizhou,CO2,Southwest,19.72631890414502,贵州
+378,Guizhou,Land,Southwest,1238.2237225799468,贵州
+392,Guizhou,Water,Northwest,277.56186881649484,贵州
+406,Guizhou,Energy,Northwest,1.8574641820684166,贵州
+420,Guizhou,CO2,Northwest,5.496094245592008,贵州
+434,Guizhou,Land,Northwest,216.1730630491142,贵州
+448,Guizhou,Water,EU,177.9000124435961,贵州
+462,Guizhou,Energy,EU,1.6791602012350928,贵州
+476,Guizhou,CO2,EU,4.7826250143305,贵州
+490,Guizhou,Land,EU,135.498905238582,贵州
+504,Guizhou,Water,Non-EU,64.02449426220561,贵州
+518,Guizhou,Energy,Non-EU,0.5871593778711013,贵州
+532,Guizhou,CO2,Non-EU,1.674247895082557,贵州
+546,Guizhou,Land,Non-EU,48.9414250779285,贵州
+560,Guizhou,Water,EA,152.74249952342973,贵州
+574,Guizhou,Energy,EA,1.3380286075639125,贵州
+588,Guizhou,CO2,EA,3.82571899517725,贵州
+602,Guizhou,Land,EA,117.59608487639822,贵州
+616,Guizhou,Water,BRIIAT,161.10067497998386,贵州
+630,Guizhou,Energy,BRIIAT,1.4443013355777934,贵州
+644,Guizhou,CO2,BRIIAT,4.123102384968654,贵州
+658,Guizhou,Land,BRIIAT,123.3802686397332,贵州
+672,Guizhou,Water,NAFTA,316.0630784268228,贵州
+686,Guizhou,Energy,NAFTA,2.856825992499375,贵州
+700,Guizhou,CO2,NAFTA,8.17004195695072,贵州
+714,Guizhou,Land,NAFTA,241.05050410850896,贵州
+728,Guizhou,Water,RoW,239.55688873663362,贵州
+742,Guizhou,Energy,RoW,2.371862370146293,贵州
+756,Guizhou,CO2,RoW,6.733564275388133,贵州
+770,Guizhou,Land,RoW,181.8404079494167,贵州
+,source,EWCL,target,value,region
+1,North,Water,Guangxi,1084.5237288481176,广西
+2,Northeast,Water,Guangxi,576.2582962359926,广西
+3,Central,Water,Guangxi,4149.655260765515,广西
+4,Central Coast,Water,Guangxi,517.9904521419779,广西
+5,South Coast,Water,Guangxi,596.4647904971467,广西
+6,Southwest,Water,Guangxi,2199.509623712591,广西
+7,Northwest,Water,Guangxi,729.3033478050769,广西
+8,EU,Water,Guangxi,74.78260800603961,广西
+9,Non-EU,Water,Guangxi,37.835919992391176,广西
+10,EA,Water,Guangxi,39.63268304819901,广西
+11,BRIIAT,Water,Guangxi,1867.0758032972033,广西
+12,NAFTA,Water,Guangxi,1180.3901887044785,广西
+13,RoW,Water,Guangxi,3218.8395180182547,广西
+15,North,Energy,Guangxi,4.138704197672629,广西
+16,Northeast,Energy,Guangxi,1.5256238225828138,广西
+17,Central,Energy,Guangxi,6.849525630306395,广西
+18,Central Coast,Energy,Guangxi,3.3292006576724944,广西
+19,South Coast,Energy,Guangxi,3.2385011959597025,广西
+20,Southwest,Energy,Guangxi,5.2978424083407285,广西
+21,Northwest,Energy,Guangxi,3.217375725898056,广西
+22,EU,Energy,Guangxi,0.8955646575607864,广西
+23,Non-EU,Energy,Guangxi,0.2761143008790418,广西
+24,EA,Energy,Guangxi,2.802817290250285,广西
+25,BRIIAT,Energy,Guangxi,2.0004674101853666,广西
+26,NAFTA,Energy,Guangxi,1.234427002223525,广西
+27,RoW,Energy,Guangxi,5.354581615343828,广西
+29,North,CO2,Guangxi,11.294138516855718,广西
+30,Northeast,CO2,Guangxi,4.178196659533183,广西
+31,Central,CO2,Guangxi,23.018498250819896,广西
+32,Central Coast,CO2,Guangxi,8.669083292841048,广西
+33,South Coast,CO2,Guangxi,8.494185627709083,广西
+34,Southwest,CO2,Guangxi,16.572776217965398,广西
+35,Northwest,CO2,Guangxi,8.963964601373291,广西
+36,EU,CO2,Guangxi,1.0639857942737108,广西
+37,Non-EU,CO2,Guangxi,0.4243262886684002,广西
+38,EA,CO2,Guangxi,2.6519701387889345,广西
+39,BRIIAT,CO2,Guangxi,5.2951608799537615,广西
+40,NAFTA,CO2,Guangxi,2.1680814095982623,广西
+41,RoW,CO2,Guangxi,7.699977202485348,广西
+43,North,Land,Guangxi,200.94329788740188,广西
+44,Northeast,Land,Guangxi,293.93554952723804,广西
+45,Central,Land,Guangxi,1555.1712523752724,广西
+46,Central Coast,Land,Guangxi,93.85744151188885,广西
+47,South Coast,Land,Guangxi,238.62682588505126,广西
+48,Southwest,Land,Guangxi,1844.3229477038415,广西
+49,Northwest,Land,Guangxi,1826.5158532594687,广西
+50,EU,Land,Guangxi,40.3794239952309,广西
+51,Non-EU,Land,Guangxi,17.89553872117893,广西
+52,EA,Land,Guangxi,7.397112157862309,广西
+53,BRIIAT,Land,Guangxi,1347.052429246439,广西
+54,NAFTA,Land,Guangxi,550.6461824162723,广西
+55,RoW,Land,Guangxi,2236.080235044257,广西
+56,Guangxi,Water,North,2223.184869645636,广西
+70,Guangxi,Energy,North,2.1827367295657334,广西
+84,Guangxi,CO2,North,7.314534302119358,广西
+98,Guangxi,Land,North,1261.8760388887306,广西
+112,Guangxi,Water,Northeast,407.0063054750123,广西
+126,Guangxi,Energy,Northeast,0.7979579124302509,广西
+140,Guangxi,CO2,Northeast,2.2788738176066907,广西
+154,Guangxi,Land,Northeast,225.73342465346212,广西
+168,Guangxi,Water,Central,2087.7564208496165,广西
+182,Guangxi,Energy,Central,4.282813134124166,广西
+196,Guangxi,CO2,Central,12.738601182634286,广西
+210,Guangxi,Land,Central,1143.035805444946,广西
+224,Guangxi,Water,Central Coast,1856.613024905628,广西
+238,Guangxi,Energy,Central Coast,3.6327677331365984,广西
+252,Guangxi,CO2,Central Coast,10.267929877524333,广西
+266,Guangxi,Land,Central Coast,1030.390747835254,广西
+280,Guangxi,Water,South Coast,2417.726931493471,广西
+294,Guangxi,Energy,South Coast,5.636724884273494,广西
+308,Guangxi,CO2,South Coast,15.845866614693344,广西
+322,Guangxi,Land,South Coast,1325.2600260820357,广西
+336,Guangxi,Water,Southwest,2151.049444262614,广西
+350,Guangxi,Energy,Southwest,3.1199195887953,广西
+364,Guangxi,CO2,Southwest,9.475092201037004,广西
+378,Guangxi,Land,Southwest,1203.173637813391,广西
+392,Guangxi,Water,Northwest,1767.1270867773758,广西
+406,Guangxi,Energy,Northwest,1.571799359002719,广西
+420,Guangxi,CO2,Northwest,5.390335543796009,广西
+434,Guangxi,Land,Northwest,1001.9152993016919,广西
+448,Guangxi,Water,EU,516.1440402910594,广西
+462,Guangxi,Energy,EU,1.7484538291109784,广西
+476,Guangxi,CO2,EU,4.5795319749356205,广西
+490,Guangxi,Land,EU,278.27592187011794,广西
+504,Guangxi,Water,Non-EU,184.24662680865583,广西
+518,Guangxi,Energy,Non-EU,0.6197273006720043,广西
+532,Guangxi,CO2,Non-EU,1.6243760052393206,广西
+546,Guangxi,Land,Non-EU,99.43790739424813,广西
+560,Guangxi,Water,EA,454.8677056136985,广西
+574,Guangxi,Energy,EA,1.4493568470834144,广西
+588,Guangxi,CO2,EA,3.8215002210163775,广西
+602,Guangxi,Land,EA,246.56132143678613,广西
+616,Guangxi,Water,BRIIAT,477.14225179566796,广西
+630,Guangxi,Energy,BRIIAT,1.572686474949808,广西
+644,Guangxi,CO2,BRIIAT,4.135995327414961,广西
+658,Guangxi,Land,BRIIAT,257.9043895503258,广西
+672,Guangxi,Water,NAFTA,924.552323375646,广西
+686,Guangxi,Energy,NAFTA,3.0426744451662047,广西
+700,Guangxi,CO2,NAFTA,7.998040936975832,广西
+714,Guangxi,Land,NAFTA,498.1489462463536,广西
+728,Guangxi,Water,RoW,689.9362176126135,广西
+742,Guangxi,Energy,RoW,2.5212309372835997,广西
+756,Guangxi,CO2,RoW,6.543397891560322,广西
+770,Guangxi,Land,RoW,370.2751724531977,广西
+,source,EWCL,target,value,region
+1,North,Water,Shandong,3821.899585016077,山东
+2,Northeast,Water,Shandong,8339.23246688806,山东
+3,Central,Water,Shandong,5614.248999568707,山东
+4,Central Coast,Water,Shandong,1444.7817674606254,山东
+5,South Coast,Water,Shandong,192.7597063207351,山东
+6,Southwest,Water,Shandong,2939.5578696903494,山东
+7,Northwest,Water,Shandong,4215.6885212902835,山东
+8,EU,Water,Shandong,315.9958567602336,山东
+9,Non-EU,Water,Shandong,159.91061152710864,山东
+10,EA,Water,Shandong,180.48621713736702,山东
+11,BRIIAT,Water,Shandong,8759.020895577654,山东
+12,NAFTA,Water,Shandong,5505.381352921121,山东
+13,RoW,Water,Shandong,14786.210421789398,山东
+15,North,Energy,Shandong,10.0392503223733,山东
+16,Northeast,Energy,Shandong,8.688057202419646,山东
+17,Central,Energy,Shandong,25.635444001291305,山东
+18,Central Coast,Energy,Shandong,9.060415115756628,山东
+19,South Coast,Energy,Shandong,1.4795181428826671,山东
+20,Southwest,Energy,Shandong,4.592870356714492,山东
+21,Northwest,Energy,Shandong,14.701414019533408,山东
+22,EU,Energy,Shandong,3.819720658643252,山东
+23,Non-EU,Energy,Shandong,1.1726025011102332,山东
+24,EA,Energy,Shandong,13.524708331165996,山东
+25,BRIIAT,Energy,Shandong,8.63387235130179,山东
+26,NAFTA,Energy,Shandong,5.445744188876238,山东
+27,RoW,Energy,Shandong,24.78322143691714,山东
+29,North,CO2,Shandong,27.829243670235844,山东
+30,Northeast,CO2,Shandong,28.388122693641556,山东
+31,Central,CO2,Shandong,75.72373624881848,山东
+32,Central Coast,CO2,Shandong,24.982093277783317,山东
+33,South Coast,CO2,Shandong,3.8162347648082133,山东
+34,Southwest,CO2,Shandong,15.255809998857412,山东
+35,Northwest,CO2,Shandong,44.4003377872842,山东
+36,EU,CO2,Shandong,4.376277833438666,山东
+37,Non-EU,CO2,Shandong,1.761129268741615,山东
+38,EA,CO2,Shandong,12.246622988287625,山东
+39,BRIIAT,CO2,Shandong,22.6570738572133,山东
+40,NAFTA,CO2,Shandong,9.460606888165579,山东
+41,RoW,CO2,Shandong,35.64385698498888,山东
+43,North,Land,Shandong,826.2655776885991,山东
+44,Northeast,Land,Shandong,4436.932634722316,山东
+45,Central,Land,Shandong,1388.6195399920625,山东
+46,Central Coast,Land,Shandong,172.7390101700039,山东
+47,South Coast,Land,Shandong,78.07521558905776,山东
+48,Southwest,Land,Shandong,2173.953672786999,山东
+49,Northwest,Land,Shandong,6463.709786933267,山东
+50,EU,Land,Shandong,178.4089686181182,山东
+51,Non-EU,Land,Shandong,75.31667008500382,山东
+52,EA,Land,Shandong,32.298721019604436,山东
+53,BRIIAT,Land,Shandong,6252.3664875382965,山东
+54,NAFTA,Land,Shandong,2561.595871194157,山东
+55,RoW,Land,Shandong,10270.899034442473,山东
+56,Shandong,Water,North,5018.234708121364,山东
+70,Shandong,Energy,North,14.255644260297856,山东
+84,Shandong,CO2,North,41.254968160387236,山东
+98,Shandong,Land,North,608.7699642939687,山东
+112,Shandong,Water,Northeast,4959.971967054126,山东
+126,Shandong,Energy,Northeast,10.744688185377063,山东
+140,Shandong,CO2,Northeast,32.09527290483995,山东
+154,Shandong,Land,Northeast,601.9262509390195,山东
+168,Shandong,Water,Central,4596.160234455025,山东
+182,Shandong,Energy,Central,12.64811507113983,山东
+196,Shandong,CO2,Central,36.911445509989676,山东
+210,Shandong,Land,Central,559.5063996210853,山东
+224,Shandong,Water,Central Coast,9010.934069346216,山东
+238,Shandong,Energy,Central Coast,17.510183900875994,山东
+252,Shandong,CO2,Central Coast,52.386265637117724,山东
+266,Shandong,Land,Central Coast,1092.4835679307148,山东
+280,Shandong,Water,South Coast,1357.867703711952,山东
+294,Shandong,Energy,South Coast,4.697187064542386,山东
+308,Shandong,CO2,South Coast,13.401482928049084,山东
+322,Shandong,Land,South Coast,165.53722221730914,山东
+336,Shandong,Water,Southwest,1776.12467403839,山东
+350,Shandong,Energy,Southwest,5.397712235226767,山东
+364,Shandong,CO2,Southwest,15.590607344874769,山东
+378,Shandong,Land,Southwest,216.7795119541666,山东
+392,Shandong,Water,Northwest,3625.415470585708,山东
+406,Shandong,Energy,Northwest,9.95969848652906,山东
+420,Shandong,CO2,Northwest,29.047179136800697,山东
+434,Shandong,Land,Northwest,441.29007499201475,山东
+448,Shandong,Water,EU,2654.731712608449,山东
+462,Shandong,Energy,EU,9.008795799199609,山东
+476,Shandong,CO2,EU,25.774592486557776,山东
+490,Shandong,Land,EU,326.94830189777184,山东
+504,Shandong,Water,Non-EU,908.6948001735668,山东
+518,Shandong,Energy,Non-EU,3.1475464145294403,山东
+532,Shandong,CO2,Non-EU,8.99437815864874,山东
+546,Shandong,Land,Non-EU,111.94933076208046,山东
+560,Shandong,Water,EA,2398.6065494367317,山东
+574,Shandong,Energy,EA,7.821730493594037,山东
+588,Shandong,CO2,EA,22.431436170223286,山东
+602,Shandong,Land,EA,294.8471599630044,山东
+616,Shandong,Water,BRIIAT,2588.3405873746237,山东
+630,Shandong,Energy,BRIIAT,8.33254754836394,山东
+644,Shandong,CO2,BRIIAT,23.908619495543668,山东
+658,Shandong,Land,BRIIAT,318.12897383068395,山东
+672,Shandong,Water,NAFTA,4695.542923494563,山东
+686,Shandong,Energy,NAFTA,15.516002142354402,山东
+700,Shandong,CO2,NAFTA,44.64193201934406,山东
+714,Shandong,Land,NAFTA,576.0360969024977,山东
+728,Shandong,Water,RoW,3653.5430404038857,山东
+742,Shandong,Energy,RoW,13.372401235114166,山东
+756,Shandong,CO2,RoW,38.10778373876786,山东
+770,Shandong,Land,RoW,450.0278158113481,山东
+,source,EWCL,target,value,region
+1,North,Water,Shannxi,3728.873412018792,陕西
+2,Northeast,Water,Shannxi,1156.5092304957743,陕西
+3,Central,Water,Shannxi,5078.671023801314,陕西
+4,Central Coast,Water,Shannxi,1306.975337910418,陕西
+5,South Coast,Water,Shannxi,1160.9646844629287,陕西
+6,Southwest,Water,Shannxi,3537.5853904221813,陕西
+7,Northwest,Water,Shannxi,1001.4596100937869,陕西
+8,EU,Water,Shannxi,69.94669605951046,陕西
+9,Non-EU,Water,Shannxi,35.65210054799502,陕西
+10,EA,Water,Shannxi,39.696375895407826,陕西
+11,BRIIAT,Water,Shannxi,1632.447717682258,陕西
+12,NAFTA,Water,Shannxi,1017.2860909155822,陕西
+13,RoW,Water,Shannxi,2937.639497055785,陕西
+15,North,Energy,Shannxi,9.900826982784437,陕西
+16,Northeast,Energy,Shannxi,2.6464247798480973,陕西
+17,Central,Energy,Shannxi,13.004199910423896,陕西
+18,Central Coast,Energy,Shannxi,5.505881196393445,陕西
+19,South Coast,Energy,Shannxi,2.2599194382514374,陕西
+20,Southwest,Energy,Shannxi,5.182741874212376,陕西
+21,Northwest,Energy,Shannxi,4.852952268950032,陕西
+22,EU,Energy,Shannxi,0.8939140823395847,陕西
+23,Non-EU,Energy,Shannxi,0.27696524560704955,陕西
+24,EA,Energy,Shannxi,2.9274571759160244,陕西
+25,BRIIAT,Energy,Shannxi,2.110849480309652,陕西
+26,NAFTA,Energy,Shannxi,1.214072987441494,陕西
+27,RoW,Energy,Shannxi,5.907448118144882,陕西
+29,North,CO2,Shannxi,28.03815438255162,陕西
+30,Northeast,CO2,Shannxi,7.4051608541063905,陕西
+31,Central,CO2,Shannxi,39.08421534072685,陕西
+32,Central Coast,CO2,Shannxi,14.655239931074307,陕西
+33,South Coast,CO2,Shannxi,6.750438719418847,陕西
+34,Southwest,CO2,Shannxi,16.96767706469854,陕西
+35,Northwest,CO2,Shannxi,13.584321854135588,陕西
+36,EU,CO2,Shannxi,1.0366029627393305,陕西
+37,Non-EU,CO2,Shannxi,0.4187181719963126,陕西
+38,EA,CO2,Shannxi,2.6888122292840686,陕西
+39,BRIIAT,CO2,Shannxi,5.287740621936387,陕西
+40,NAFTA,CO2,Shannxi,2.030838859800611,陕西
+41,RoW,CO2,Shannxi,8.368788919454326,陕西
+43,North,Land,Shannxi,634.2453152534375,陕西
+44,Northeast,Land,Shannxi,588.4770968523444,陕西
+45,Central,Land,Shannxi,1359.9939411427426,陕西
+46,Central Coast,Land,Shannxi,195.8692065149661,陕西
+47,South Coast,Land,Shannxi,465.85314978545676,陕西
+48,Southwest,Land,Shannxi,2615.329559574204,陕西
+49,Northwest,Land,Shannxi,1944.9149434581022,陕西
+50,EU,Land,Shannxi,36.55279049411007,陕西
+51,Non-EU,Land,Shannxi,17.114145041704113,陕西
+52,EA,Land,Shannxi,7.355992518402303,陕西
+53,BRIIAT,Land,Shannxi,1183.1385391295807,陕西
+54,NAFTA,Land,Shannxi,475.80630173028163,陕西
+55,RoW,Land,Shannxi,2007.9740363114663,陕西
+56,Shannxi,Water,North,1278.196390825225,陕西
+70,Shannxi,Energy,North,6.138700471086564,陕西
+84,Shannxi,CO2,North,16.879653360815254,陕西
+98,Shannxi,Land,North,4626.189086934763,陕西
+112,Shannxi,Water,Northeast,443.407722219075,陕西
+126,Shannxi,Energy,Northeast,1.7627944004157239,陕西
+140,Shannxi,CO2,Northeast,4.920309365987584,陕西
+154,Shannxi,Land,Northeast,1614.6380188985254,陕西
+168,Shannxi,Water,Central,2695.319460395317,陕西
+182,Shannxi,Energy,Central,7.2475881632074195,陕西
+196,Shannxi,CO2,Central,20.814600285087945,陕西
+210,Shannxi,Land,Central,9891.230144299701,陕西
+224,Shannxi,Water,Central Coast,1842.180764323436,陕西
+238,Shannxi,Energy,Central Coast,8.109751993120396,陕西
+252,Shannxi,CO2,Central Coast,22.589727849878518,陕西
+266,Shannxi,Land,Central Coast,6689.7130502709415,陕西
+280,Shannxi,Water,South Coast,1052.2160438871704,陕西
+294,Shannxi,Energy,South Coast,4.139093523855776,陕西
+308,Shannxi,CO2,South Coast,11.493829698183491,陕西
+322,Shannxi,Land,South Coast,3830.2340523365033,陕西
+336,Shannxi,Water,Southwest,1216.2500594630271,陕西
+350,Shannxi,Energy,Southwest,4.573807107120983,陕西
+364,Shannxi,CO2,Southwest,12.90842936436155,陕西
+378,Shannxi,Land,Southwest,4425.833105409463,陕西
+392,Shannxi,Water,Northwest,641.794247620489,陕西
+406,Shannxi,Energy,Northwest,3.678417882386048,陕西
+420,Shannxi,CO2,Northwest,10.190029824655483,陕西
+434,Shannxi,Land,Northwest,2279.749536607884,陕西
+448,Shannxi,Water,EU,310.32507017851054,陕西
+462,Shannxi,Energy,EU,1.8777020025017597,陕西
+476,Shannxi,CO2,EU,5.07307024958051,陕西
+490,Shannxi,Land,EU,1114.8887388324595,陕西
+504,Shannxi,Water,Non-EU,111.2367097963734,陕西
+518,Shannxi,Energy,Non-EU,0.6638370542930441,陕西
+532,Shannxi,CO2,Non-EU,1.7929848188800213,陕西
+546,Shannxi,Land,Non-EU,400.0563377294617,陕西
+560,Shannxi,Water,EA,259.60727433093587,陕西
+574,Shannxi,Energy,EA,1.5865658136879484,陕西
+588,Shannxi,CO2,EA,4.286925309534745,陕西
+602,Shannxi,Land,EA,933.1015609463917,陕西
+616,Shannxi,Water,BRIIAT,304.4364189705914,陕西
+630,Shannxi,Energy,BRIIAT,1.6828963485604418,陕西
+644,Shannxi,CO2,BRIIAT,4.5663301024297205,陕西
+658,Shannxi,Land,BRIIAT,1098.0667963037529,陕西
+672,Shannxi,Water,NAFTA,559.9290655873541,陕西
+686,Shannxi,Energy,NAFTA,3.193140650094153,陕西
+700,Shannxi,CO2,NAFTA,8.727397389024409,陕西
+714,Shannxi,Land,NAFTA,2012.3664906446766,陕西
+728,Shannxi,Water,RoW,411.04928361239797,陕西
+742,Shannxi,Energy,RoW,2.7740744893747986,陕西
+756,Shannxi,CO2,RoW,7.469577904088295,陕西
+770,Shannxi,Land,RoW,1467.6933438479975,陕西
+,source,EWCL,target,value,region
+1,North,Water,Hebei,1942.0068679185001,河北
+2,Northeast,Water,Hebei,3347.1242631671853,河北
+3,Central,Water,Hebei,3810.959624306646,河北
+4,Central Coast,Water,Hebei,1457.4583971160328,河北
+5,South Coast,Water,Hebei,553.6113687002029,河北
+6,Southwest,Water,Hebei,1496.6337961988243,河北
+7,Northwest,Water,Hebei,2582.439043292467,河北
+8,EU,Water,Hebei,109.18660342144304,河北
+9,Non-EU,Water,Hebei,56.27775576685638,河北
+10,EA,Water,Hebei,62.95103842061115,河北
+11,BRIIAT,Water,Hebei,2209.054458680309,河北
+12,NAFTA,Water,Hebei,1369.3548769668507,河北
+13,RoW,Water,Hebei,4220.839500050492,河北
+15,North,Energy,Hebei,10.570143729284903,河北
+16,Northeast,Energy,Hebei,13.009873875836934,河北
+17,Central,Energy,Hebei,22.167865243227272,河北
+18,Central Coast,Energy,Hebei,8.263989656378753,河北
+19,South Coast,Energy,Hebei,2.752858067359228,河北
+20,Southwest,Energy,Hebei,4.914822518401417,河北
+21,Northwest,Energy,Hebei,15.809992584446954,河北
+22,EU,Energy,Hebei,1.4705067989828249,河北
+23,Non-EU,Energy,Hebei,0.46196625162313826,河北
+24,EA,Energy,Hebei,4.708895285221995,河北
+25,BRIIAT,Energy,Hebei,3.709717381508273,河北
+26,NAFTA,Energy,Hebei,1.9735573380641884,河北
+27,RoW,Energy,Hebei,10.139717594971701,河北
+29,North,CO2,Hebei,28.96193632033752,河北
+30,Northeast,CO2,Hebei,35.4558639389744,河北
+31,Central,CO2,Hebei,62.48872733631167,河北
+32,Central Coast,CO2,Hebei,21.843932176816374,河北
+33,South Coast,CO2,Hebei,7.179357954225387,河北
+34,Southwest,CO2,Hebei,14.082722609587844,河北
+35,Northwest,CO2,Hebei,44.435974080895015,河北
+36,EU,CO2,Hebei,1.7127519307052697,河北
+37,Non-EU,CO2,Hebei,0.7012844539538375,河北
+38,EA,CO2,Hebei,4.380620398508295,河北
+39,BRIIAT,CO2,Hebei,9.015141867698425,河北
+40,NAFTA,CO2,Hebei,3.212017757977579,河北
+41,RoW,CO2,Hebei,13.931806291368241,河北
+43,North,Land,Hebei,259.5169332242231,河北
+44,Northeast,Land,Hebei,1697.0269525719095,河北
+45,Central,Land,Hebei,1072.387255789232,河北
+46,Central Coast,Land,Hebei,222.22133835392168,河北
+47,South Coast,Land,Hebei,239.4948977223162,河北
+48,Southwest,Land,Hebei,1045.2016872540016,河北
+49,Northwest,Land,Hebei,6055.707835482685,河北
+50,EU,Land,Hebei,53.628733643921436,河北
+51,Non-EU,Land,Hebei,27.23747942020122,河北
+52,EA,Land,Hebei,11.899718991239224,河北
+53,BRIIAT,Land,Hebei,1630.8661649361663,河北
+54,NAFTA,Land,Hebei,644.4139247777182,河北
+55,RoW,Land,Hebei,2839.972760583714,河北
+56,Hebei,Water,North,7096.345259609426,河北
+70,Hebei,Energy,North,23.660546360340074,河北
+84,Hebei,CO2,North,65.35007057784554,河北
+98,Hebei,Land,North,1518.1911169534583,河北
+112,Hebei,Water,Northeast,4066.61482486043,河北
+126,Hebei,Energy,Northeast,16.201791474281908,河北
+140,Hebei,CO2,Northeast,44.08884899553976,河北
+154,Hebei,Land,Northeast,864.5177902977873,河北
+168,Hebei,Water,Central,6621.091945161693,河北
+182,Hebei,Energy,Central,21.455691995448593,河北
+196,Hebei,CO2,Central,59.1756703145908,河北
+210,Hebei,Land,Central,1416.7448128690132,河北
+224,Hebei,Water,Central Coast,11397.808255920652,河北
+238,Hebei,Energy,Central Coast,29.94599154201428,河北
+252,Hebei,CO2,Central Coast,83.26137802836907,河北
+266,Hebei,Land,Central Coast,2451.941845534869,河北
+280,Hebei,Water,South Coast,3122.2546473923485,河北
+294,Hebei,Energy,South Coast,7.175158522512531,河北
+308,Hebei,CO2,South Coast,20.31495058731551,河北
+322,Hebei,Land,South Coast,675.1666527241379,河北
+336,Hebei,Water,Southwest,2283.4316393418085,河北
+350,Hebei,Energy,Southwest,7.801995709005008,河北
+364,Hebei,CO2,Southwest,21.465231988544133,河北
+378,Hebei,Land,Southwest,489.4464859828144,河北
+392,Hebei,Water,Northwest,3422.177732782146,河北
+406,Hebei,Energy,Northwest,13.673644179447482,河北
+420,Hebei,CO2,Northwest,37.46341291085273,河北
+434,Hebei,Land,Northwest,728.0063414522972,河北
+448,Hebei,Water,EU,1205.8741862259776,河北
+462,Hebei,Energy,EU,6.994413693981169,河北
+476,Hebei,CO2,EU,18.7720855626697,河北
+490,Hebei,Land,EU,254.91031640917328,河北
+504,Hebei,Water,Non-EU,427.00946913500024,河北
+518,Hebei,Energy,Non-EU,2.437139443978496,河北
+532,Hebei,CO2,Non-EU,6.544993195791214,河北
+546,Hebei,Land,Non-EU,90.3356631290134,河北
+560,Hebei,Water,EA,1028.4390084356428,河北
+574,Hebei,Energy,EA,6.043157188644796,河北
+588,Hebei,CO2,EA,16.213571658099497,河北
+602,Hebei,Land,EA,217.44022407199364,河北
+616,Hebei,Water,BRIIAT,1174.592278818219,河北
+630,Hebei,Energy,BRIIAT,6.422748839880822,河北
+644,Hebei,CO2,BRIIAT,17.2780467891301,河北
+658,Hebei,Land,BRIIAT,248.72843290288256,河北
+672,Hebei,Water,NAFTA,2183.235616579848,河北
+686,Hebei,Energy,NAFTA,11.978009880179508,河北
+700,Hebei,CO2,NAFTA,32.23858788603754,河北
+714,Hebei,Land,NAFTA,461.3491915955854,河北
+728,Hebei,Water,RoW,1606.0027498510149,河北
+742,Hebei,Energy,RoW,10.531450113669132,河北
+756,Hebei,CO2,RoW,28.11237143577032,河北
+770,Hebei,Land,RoW,338.2065462722312,河北
+,source,EWCL,target,value,region
+1,North,Water,Tianjin,2983.3601291649406,天津
+2,Northeast,Water,Tianjin,2120.6545884303555,天津
+3,Central,Water,Tianjin,2581.633255900962,天津
+4,Central Coast,Water,Tianjin,869.4096299736818,天津
+5,South Coast,Water,Tianjin,280.4392289779651,天津
+6,Southwest,Water,Tianjin,1573.4203843117152,天津
+7,Northwest,Water,Tianjin,2536.3864691801364,天津
+8,EU,Water,Tianjin,65.11688249998134,天津
+9,Non-EU,Water,Tianjin,33.72362664575267,天津
+10,EA,Water,Tianjin,38.69473154898245,天津
+11,BRIIAT,Water,Tianjin,1296.4519948044626,天津
+12,NAFTA,Water,Tianjin,802.2870087925301,天津
+13,RoW,Water,Tianjin,2494.3954366200746,天津
+15,North,Energy,Tianjin,11.747629598405858,天津
+16,Northeast,Energy,Tianjin,7.233223098542264,天津
+17,Central,Energy,Tianjin,10.650697043464907,天津
+18,Central Coast,Energy,Tianjin,6.313057990078126,天津
+19,South Coast,Energy,Tianjin,1.832806314616176,天津
+20,Southwest,Energy,Tianjin,3.8029060510694923,天津
+21,Northwest,Energy,Tianjin,11.22458377157505,天津
+22,EU,Energy,Tianjin,0.8928372387380575,天津
+23,Non-EU,Energy,Tianjin,0.2804279758614072,天津
+24,EA,Energy,Tianjin,3.0125971293805303,天津
+25,BRIIAT,Energy,Tianjin,2.2421702967510444,天津
+26,NAFTA,Energy,Tianjin,1.224690109033688,天津
+27,RoW,Energy,Tianjin,6.419539682385281,天津
+29,North,CO2,Tianjin,32.634286773133105,天津
+30,Northeast,CO2,Tianjin,19.95266848693387,天津
+31,Central,CO2,Tianjin,30.39268614736377,天津
+32,Central Coast,CO2,Tianjin,15.826385400701348,天津
+33,South Coast,CO2,Tianjin,4.630742025183983,天津
+34,Southwest,CO2,Tianjin,11.218877822262455,天津
+35,Northwest,CO2,Tianjin,31.885038222918244,天津
+36,EU,CO2,Tianjin,1.0357790991898104,天津
+37,Non-EU,CO2,Tianjin,0.4228272935572352,天津
+38,EA,CO2,Tianjin,2.740351700007932,天津
+39,BRIIAT,CO2,Tianjin,5.333580597472276,天津
+40,NAFTA,CO2,Tianjin,1.9641733497200613,天津
+41,RoW,CO2,Tianjin,8.117330430422538,天津
+43,North,Land,Tianjin,520.0839581513646,天津
+44,Northeast,Land,Tianjin,1091.1271523073337,天津
+45,Central,Land,Tianjin,699.2750092600384,天津
+46,Central Coast,Land,Tianjin,120.82405899385326,天津
+47,South Coast,Land,Tianjin,117.56314683121933,天津
+48,Southwest,Land,Tianjin,1083.7023342781401,天津
+49,Northwest,Land,Tianjin,4165.86997522634,天津
+50,EU,Land,Tianjin,31.84228138031909,天津
+51,Non-EU,Land,Tianjin,16.458823763381258,天津
+52,EA,Land,Tianjin,7.304300038640207,天津
+53,BRIIAT,Land,Tianjin,965.225672604418,天津
+54,NAFTA,Land,Tianjin,378.1769798867379,天津
+55,RoW,Land,Tianjin,1685.6929505819435,天津
+56,Tianjin,Water,North,394.3586889871174,天津
+70,Tianjin,Energy,North,4.631869378182154,天津
+84,Tianjin,CO2,North,12.018237876299208,天津
+98,Tianjin,Land,North,78.54504046440005,天津
+112,Tianjin,Water,Northeast,224.82653233496518,天津
+126,Tianjin,Energy,Northeast,3.437182615612454,天津
+140,Tianjin,CO2,Northeast,8.681498512983563,天津
+154,Tianjin,Land,Northeast,44.61320230013217,天津
+168,Tianjin,Water,Central,265.7240302794902,天津
+182,Tianjin,Energy,Central,4.524863286856689,天津
+196,Tianjin,CO2,Central,11.34682155062146,天津
+210,Tianjin,Land,Central,54.55868722726875,天津
+224,Tianjin,Water,Central Coast,361.3607712859478,天津
+238,Tianjin,Energy,Central Coast,5.656980603239482,天津
+252,Tianjin,CO2,Central Coast,14.203164957942183,天津
+266,Tianjin,Land,Central Coast,73.85714813132161,天津
+280,Tianjin,Water,South Coast,77.62476785594833,天津
+294,Tianjin,Energy,South Coast,2.2203407650738884,天津
+308,Tianjin,CO2,South Coast,5.450703446270857,天津
+322,Tianjin,Land,South Coast,16.864394113618033,天津
+336,Tianjin,Water,Southwest,99.61918478439583,天津
+350,Tianjin,Energy,Southwest,2.9107073944123183,天津
+364,Tianjin,CO2,Southwest,7.2634406247767584,天津
+378,Tianjin,Land,Southwest,21.111211845321478,天津
+392,Tianjin,Water,Northwest,206.60419313416966,天津
+406,Tianjin,Energy,Northwest,4.096835841863743,天津
+420,Tianjin,CO2,Northwest,10.271614024071813,天津
+434,Tianjin,Land,Northwest,41.828162168425074,天津
+448,Tianjin,Water,EU,108.58719398502646,天津
+462,Tianjin,Energy,EU,2.0222885470171255,天津
+476,Tianjin,CO2,EU,5.070485926678074,天津
+490,Tianjin,Land,EU,22.221881597408387,天津
+504,Tianjin,Water,Non-EU,37.080592467831416,天津
+518,Tianjin,Energy,Non-EU,0.7073787663693764,天津
+532,Tianjin,CO2,Non-EU,1.7736434791630415,天津
+546,Tianjin,Land,Non-EU,7.594849817764386,天津
+560,Tianjin,Water,EA,98.41869181619953,天津
+574,Tianjin,Energy,EA,1.728857379105017,天津
+588,Tianjin,CO2,EA,4.338598803458993,天津
+602,Tianjin,Land,EA,19.98965028912974,天津
+616,Tianjin,Water,BRIIAT,94.23391153832998,天津
+630,Tianjin,Energy,BRIIAT,1.8084398628364584,天津
+644,Tianjin,CO2,BRIIAT,4.530952262048366,天津
+658,Tianjin,Land,BRIIAT,19.18330433418779,天津
+672,Tianjin,Water,NAFTA,186.0739997794531,天津
+686,Tianjin,Energy,NAFTA,3.4961897174528285,天津
+700,Tianjin,CO2,NAFTA,8.789146072589897,天津
+714,Tianjin,Land,NAFTA,37.98788826945119,天津
+728,Tianjin,Water,RoW,153.88385524087823,天津
+742,Tianjin,Energy,RoW,3.0534088062053386,天津
+756,Tianjin,CO2,RoW,7.6223803350047135,天津
+770,Tianjin,Land,RoW,31.488338808417353,天津
+,source,EWCL,target,value,region
+1,North,Water,Hunan,1243.4267466570884,湖南
+2,Northeast,Water,Hunan,615.8317740067168,湖南
+3,Central,Water,Hunan,1859.613822245148,湖南
+4,Central Coast,Water,Hunan,632.2838851268309,湖南
+5,South Coast,Water,Hunan,583.2242378943575,湖南
+6,Southwest,Water,Hunan,1402.8781771975944,湖南
+7,Northwest,Water,Hunan,733.6865997027191,湖南
+8,EU,Water,Hunan,90.88185732639535,湖南
+9,Non-EU,Water,Hunan,45.6465378945781,湖南
+10,EA,Water,Hunan,50.231223871538084,湖南
+11,BRIIAT,Water,Hunan,2044.4122692144513,湖南
+12,NAFTA,Water,Hunan,1282.0373930944083,湖南
+13,RoW,Water,Hunan,3774.6304170718677,湖南
+15,North,Energy,Hunan,3.7562371055960266,湖南
+16,Northeast,Energy,Hunan,1.2985382427337249,湖南
+17,Central,Energy,Hunan,8.101724514779534,湖南
+18,Central Coast,Energy,Hunan,3.781010003796457,湖南
+19,South Coast,Energy,Hunan,3.7665307782209507,湖南
+20,Southwest,Energy,Hunan,6.172521489634843,湖南
+21,Northwest,Energy,Hunan,3.6485295920749414,湖南
+22,EU,Energy,Hunan,1.1272658369095097,湖南
+23,Non-EU,Energy,Hunan,0.34262648188471206,湖南
+24,EA,Energy,Hunan,3.5885949261554857,湖南
+25,BRIIAT,Energy,Hunan,2.4026419966758987,湖南
+26,NAFTA,Energy,Hunan,1.5165000773416073,湖南
+27,RoW,Energy,Hunan,6.736491705165367,湖南
+29,North,CO2,Hunan,10.478273766805764,湖南
+30,Northeast,CO2,Hunan,3.625099352815458,湖南
+31,Central,CO2,Hunan,23.35848382597034,湖南
+32,Central Coast,CO2,Hunan,10.022262511413052,湖南
+33,South Coast,CO2,Hunan,10.081354259909496,湖南
+34,Southwest,CO2,Hunan,17.56795383540108,湖南
+35,Northwest,CO2,Hunan,10.015004109927961,湖南
+36,EU,CO2,Hunan,1.3254965533705312,湖南
+37,Non-EU,CO2,Hunan,0.5224833891420557,湖南
+38,EA,CO2,Hunan,3.3272819775715825,湖南
+39,BRIIAT,CO2,Hunan,6.0637856960905205,湖南
+40,NAFTA,CO2,Hunan,2.552811438365699,湖南
+41,RoW,CO2,Hunan,9.415016906443466,湖南
+43,North,Land,Hunan,223.93267274723252,湖南
+44,Northeast,Land,Hunan,314.47789767682826,湖南
+45,Central,Land,Hunan,493.4713867559154,湖南
+46,Central Coast,Land,Hunan,105.76741539805354,湖南
+47,South Coast,Land,Hunan,222.28690544286147,湖南
+48,Southwest,Land,Hunan,979.4035174585683,湖南
+49,Northwest,Land,Hunan,1878.5669272236362,湖南
+50,EU,Land,Hunan,46.462720342886286,湖南
+51,Non-EU,Land,Hunan,21.832580238407395,湖南
+52,EA,Land,Hunan,9.316277369385071,湖南
+53,BRIIAT,Land,Hunan,1502.6150419717392,湖南
+54,NAFTA,Land,Hunan,599.7576137287077,湖南
+55,RoW,Land,Hunan,2615.90291211171,湖南
+56,Hunan,Water,North,1209.3032419789643,湖南
+70,Hunan,Energy,North,4.007021911049703,湖南
+84,Hunan,CO2,North,12.19318783229119,湖南
+98,Hunan,Land,North,549.122951277061,湖南
+112,Hunan,Water,Northeast,354.8170321768897,湖南
+126,Hunan,Energy,Northeast,1.568124900135253,湖南
+140,Hunan,CO2,Northeast,4.5647465266475855,湖南
+154,Hunan,Land,Northeast,153.5831039492469,湖南
+168,Hunan,Water,Central,1393.9064661006846,湖南
+182,Hunan,Energy,Central,4.4554265916937705,湖南
+196,Hunan,CO2,Central,13.963142490824364,湖南
+210,Hunan,Land,Central,640.3115047675234,湖南
+224,Hunan,Water,Central Coast,1806.7923753611442,湖南
+238,Hunan,Energy,Central Coast,4.950274035735292,湖南
+252,Hunan,CO2,Central Coast,16.06407194664035,湖南
+266,Hunan,Land,Central Coast,867.6447522510445,湖南
+280,Hunan,Water,South Coast,2585.3196280138077,湖南
+294,Hunan,Energy,South Coast,6.712504400519276,湖南
+308,Hunan,CO2,South Coast,22.011285957635423,湖南
+322,Hunan,Land,South Coast,1241.727922390627,湖南
+336,Hunan,Water,Southwest,2658.572101018933,湖南
+350,Hunan,Energy,Southwest,5.779740209739524,湖南
+364,Hunan,CO2,Southwest,19.78053620817396,湖南
+378,Hunan,Land,Southwest,1298.7236322933213,湖南
+392,Hunan,Water,Northwest,1047.4695858719708,湖南
+406,Hunan,Energy,Northwest,4.018622151737354,湖南
+420,Hunan,CO2,Northwest,11.69261479282106,湖南
+434,Hunan,Land,Northwest,453.2655442493521,湖南
+448,Hunan,Water,EU,419.21228602028214,湖南
+462,Hunan,Energy,EU,2.195884194955417,湖南
+476,Hunan,CO2,EU,6.29555076030835,湖南
+490,Hunan,Land,EU,180.2050076652616,湖南
+504,Hunan,Water,Non-EU,148.8048765418971,湖南
+518,Hunan,Energy,Non-EU,0.761789178770974,湖南
+532,Hunan,CO2,Non-EU,2.193184365447497,湖南
+546,Hunan,Land,Non-EU,64.35955790470847,湖南
+560,Hunan,Water,EA,348.9040203690776,湖南
+574,Hunan,Energy,EA,1.8050742137926552,湖南
+588,Hunan,CO2,EA,5.1993733973820415,湖南
+602,Hunan,Land,EA,151.33785427821758,湖南
+616,Hunan,Water,BRIIAT,398.9914408889911,湖南
+630,Hunan,Energy,BRIIAT,1.9653471581550774,湖南
+644,Hunan,CO2,BRIIAT,5.70755194600643,湖南
+658,Hunan,Land,BRIIAT,174.12649544571184,湖南
+672,Hunan,Water,NAFTA,747.5996525012955,湖南
+686,Hunan,Energy,NAFTA,3.6846181820382444,湖南
+700,Hunan,CO2,NAFTA,10.71400065689017,湖南
+714,Hunan,Land,NAFTA,325.09855367998824,湖南
+728,Hunan,Water,RoW,554.7879174668171,湖南
+742,Hunan,Energy,RoW,3.194232714695244,湖南
+756,Hunan,CO2,RoW,9.058845538798096,湖南
+770,Hunan,Land,RoW,234.24152552554943,湖南
+,source,EWCL,target,value,region
+1,North,Water,Hainan,72.0050684914783,海南
+2,Northeast,Water,Hainan,91.38788132298087,海南
+3,Central,Water,Hainan,270.205688872057,海南
+4,Central Coast,Water,Hainan,65.73314848606375,海南
+5,South Coast,Water,Hainan,39.01563212601416,海南
+6,Southwest,Water,Hainan,120.25566058519595,海南
+7,Northwest,Water,Hainan,85.97858891953415,海南
+8,EU,Water,Hainan,11.088286887888353,海南
+9,Non-EU,Water,Hainan,5.641559953602965,海南
+10,EA,Water,Hainan,5.742586143538249,海南
+11,BRIIAT,Water,Hainan,230.62821080804358,海南
+12,NAFTA,Water,Hainan,143.07659525527748,海南
+13,RoW,Water,Hainan,432.5204837917597,海南
+15,North,Energy,Hainan,0.3033756240951555,海南
+16,Northeast,Energy,Hainan,0.154114127838379,海南
+17,Central,Energy,Hainan,0.5705081169730537,海南
+18,Central Coast,Energy,Hainan,0.270481980160914,海南
+19,South Coast,Energy,Hainan,0.2735217180380057,海南
+20,Southwest,Energy,Hainan,0.33092833691147433,海南
+21,Northwest,Energy,Hainan,0.4044536710509453,海南
+22,EU,Energy,Hainan,0.14363192491691915,海南
+23,Non-EU,Energy,Hainan,0.04468979105382609,海南
+24,EA,Energy,Hainan,0.41251278634807786,海南
+25,BRIIAT,Energy,Hainan,0.3324078879147361,海南
+26,NAFTA,Energy,Hainan,0.17454428076792072,海南
+27,RoW,Energy,Hainan,0.9990647188300975,海南
+29,North,CO2,Hainan,0.8210018949589033,海南
+30,Northeast,CO2,Hainan,0.4501474515848797,海南
+31,Central,CO2,Hainan,1.8583920199358732,海南
+32,Central Coast,CO2,Hainan,0.7205940708746429,海南
+33,South Coast,CO2,Hainan,0.686195641563083,海南
+34,Southwest,CO2,Hainan,0.9831986100007907,海南
+35,Northwest,CO2,Hainan,1.069971030610053,海南
+36,EU,CO2,Hainan,0.16947091204015724,海南
+37,Non-EU,CO2,Hainan,0.06775850046497299,海南
+38,EA,CO2,Hainan,0.3754686251180421,海南
+39,BRIIAT,CO2,Hainan,0.799130029316459,海南
+40,NAFTA,CO2,Hainan,0.2857562439130007,海南
+41,RoW,CO2,Hainan,1.42652181907537,海南
+43,North,Land,Hainan,14.529425070822692,海南
+44,Northeast,Land,Hainan,44.69696962127477,海南
+45,Central,Land,Hainan,110.27771536927392,海南
+46,Central Coast,Land,Hainan,18.51761822155683,海南
+47,South Coast,Land,Hainan,15.228714225723474,海南
+48,Southwest,Land,Hainan,91.30908477291567,海南
+49,Northwest,Land,Hainan,188.35116776427216,海南
+50,EU,Land,Hainan,5.571919893643551,海南
+51,Non-EU,Land,Hainan,2.72585639618175,海南
+52,EA,Land,Hainan,1.123910102796717,海南
+53,BRIIAT,Land,Hainan,165.75628877895778,海南
+54,NAFTA,Land,Hainan,67.10958315327579,海南
+55,RoW,Land,Hainan,289.49882916838413,海南
+56,Hainan,Water,North,154.9917927333298,海南
+70,Hainan,Energy,North,0.6007174601991537,海南
+84,Hainan,CO2,North,1.4599719415560932,海南
+98,Hainan,Land,North,97.17825449189888,海南
+112,Hainan,Water,Northeast,40.853384188912834,海南
+126,Hainan,Energy,Northeast,0.17605376684745536,海南
+140,Hainan,CO2,Northeast,0.42794502200089035,海南
+154,Hainan,Land,Northeast,25.545268021990527,海南
+168,Hainan,Water,Central,260.2819358660772,海南
+182,Hainan,Energy,Central,0.5146519522368613,海南
+196,Hainan,CO2,Central,1.432129114992505,海南
+210,Hainan,Land,Central,164.4267737578831,海南
+224,Hainan,Water,Central Coast,221.70813648959867,海南
+238,Hainan,Energy,Central Coast,0.575523356614734,海南
+252,Hainan,CO2,Central Coast,1.5208542033501926,海南
+266,Hainan,Land,Central Coast,139.5053640560144,海南
+280,Hainan,Water,South Coast,182.6546800924874,海南
+294,Hainan,Energy,South Coast,0.6965025454492657,海南
+308,Hainan,CO2,South Coast,1.797296376433479,海南
+322,Hainan,Land,South Coast,114.22428918049178,海南
+336,Hainan,Water,Southwest,166.89697710187733,海南
+350,Hainan,Energy,Southwest,0.4351009271434974,海南
+364,Hainan,CO2,Southwest,1.1403684931023321,海南
+378,Hainan,Land,Southwest,104.74465910280321,海南
+392,Hainan,Water,Northwest,102.24450306993958,海南
+406,Hainan,Energy,Northwest,0.2942667924250315,海南
+420,Hainan,CO2,Northwest,0.7553568842851603,海南
+434,Hainan,Land,Northwest,64.27249225596323,海南
+448,Hainan,Water,EU,61.71359564618081,海南
+462,Hainan,Energy,EU,0.30569113036672024,海南
+476,Hainan,CO2,EU,0.7241763964171554,海南
+490,Hainan,Land,EU,38.487832049319984,海南
+504,Hainan,Water,Non-EU,21.685357920034107,海南
+518,Hainan,Energy,Non-EU,0.10645045412705827,海南
+532,Hainan,CO2,Non-EU,0.25243070831241865,海南
+546,Hainan,Land,Non-EU,13.52964586053962,海南
+560,Hainan,Water,EA,53.40383946257884,海南
+574,Hainan,Energy,EA,0.2522742226653911,海南
+588,Hainan,CO2,EA,0.5986739682131847,海南
+602,Hainan,Land,EA,33.37105866846705,海南
+616,Hainan,Water,BRIIAT,53.64506930138035,海南
+630,Hainan,Energy,BRIIAT,0.27001880918481624,海南
+644,Hainan,CO2,BRIIAT,0.6348437105000561,海南
+658,Hainan,Land,BRIIAT,33.46326214243296,海南
+672,Hainan,Water,NAFTA,103.99111864462034,海南
+686,Hainan,Energy,NAFTA,0.47869904060157525,海南
+700,Hainan,CO2,NAFTA,1.139842974848705,海南
+714,Hainan,Land,NAFTA,64.77208726182411,海南
+728,Hainan,Water,RoW,88.6034127613952,海南
+742,Hainan,Energy,RoW,0.46835670655064565,海南
+756,Hainan,CO2,RoW,1.1017073288909591,海南
+770,Hainan,Land,RoW,55.23234347456338,海南
+,source,EWCL,target,value,region
+1,North,Water,Zhejiang,4802.5660900339235,浙江
+2,Northeast,Water,Zhejiang,2733.794042937366,浙江
+3,Central,Water,Zhejiang,5720.353596405588,浙江
+4,Central Coast,Water,Zhejiang,1980.862398064913,浙江
+5,South Coast,Water,Zhejiang,952.0900588288332,浙江
+6,Southwest,Water,Zhejiang,1866.0802536543758,浙江
+7,Northwest,Water,Zhejiang,2271.1267342228225,浙江
+8,EU,Water,Zhejiang,161.03373558278545,浙江
+9,Non-EU,Water,Zhejiang,82.26771641709982,浙江
+10,EA,Water,Zhejiang,100.46614353088593,浙江
+11,BRIIAT,Water,Zhejiang,3084.9685246853796,浙江
+12,NAFTA,Water,Zhejiang,1914.8316958596977,浙江
+13,RoW,Water,Zhejiang,5962.503030057944,浙江
+15,North,Energy,Zhejiang,17.50805822126752,浙江
+16,Northeast,Energy,Zhejiang,4.581298041814214,浙江
+17,Central,Energy,Zhejiang,20.912143327685136,浙江
+18,Central Coast,Energy,Zhejiang,10.93753154265451,浙江
+19,South Coast,Energy,Zhejiang,5.796945496622488,浙江
+20,Southwest,Energy,Zhejiang,7.250214459427159,浙江
+21,Northwest,Energy,Zhejiang,11.140553212171604,浙江
+22,EU,Energy,Zhejiang,2.1816861199160584,浙江
+23,Non-EU,Energy,Zhejiang,0.6710940123826293,浙江
+24,EA,Energy,Zhejiang,7.267489282878166,浙江
+25,BRIIAT,Energy,Zhejiang,5.028108475973943,浙江
+26,NAFTA,Energy,Zhejiang,2.9654353375046947,浙江
+27,RoW,Energy,Zhejiang,13.671923010252897,浙江
+29,North,CO2,Zhejiang,47.63537731241985,浙江
+30,Northeast,CO2,Zhejiang,13.209417061376188,浙江
+31,Central,CO2,Zhejiang,61.38027535737284,浙江
+32,Central Coast,CO2,Zhejiang,29.6211869481802,浙江
+33,South Coast,CO2,Zhejiang,15.427408385482275,浙江
+34,Southwest,CO2,Zhejiang,20.217977146754098,浙江
+35,Northwest,CO2,Zhejiang,30.192342072901038,浙江
+36,EU,CO2,Zhejiang,2.535049426858546,浙江
+37,Non-EU,CO2,Zhejiang,1.0180221784837509,浙江
+38,EA,CO2,Zhejiang,6.804346650062737,浙江
+39,BRIIAT,CO2,Zhejiang,12.094698195216523,浙江
+40,NAFTA,CO2,Zhejiang,4.743882154908179,浙江
+41,RoW,CO2,Zhejiang,18.23334320703133,浙江
+43,North,Land,Zhejiang,892.3865614223853,浙江
+44,Northeast,Land,Zhejiang,1428.2379903218102,浙江
+45,Central,Land,Zhejiang,1743.8558458361967,浙江
+46,Central Coast,Land,Zhejiang,133.4750009352912,浙江
+47,South Coast,Land,Zhejiang,413.8076280114996,浙江
+48,Southwest,Land,Zhejiang,1322.8284246329515,浙江
+49,Northwest,Land,Zhejiang,5619.708280781962,浙江
+50,EU,Land,Zhejiang,77.34315344551399,浙江
+51,Non-EU,Land,Zhejiang,40.21335294581726,浙江
+52,EA,Land,Zhejiang,18.4143869805488,浙江
+53,BRIIAT,Land,Zhejiang,2305.017612627246,浙江
+54,NAFTA,Land,Zhejiang,903.3227061391201,浙江
+55,RoW,Land,Zhejiang,4064.4410348298034,浙江
+56,Zhejiang,Water,North,600.2469626105216,浙江
+70,Zhejiang,Energy,North,8.393965892528646,浙江
+84,Zhejiang,CO2,North,23.135240434162526,浙江
+98,Zhejiang,Land,North,310.9023836854881,浙江
+112,Zhejiang,Water,Northeast,237.56275418181116,浙江
+126,Zhejiang,Energy,Northeast,2.0278013401160835,浙江
+140,Zhejiang,CO2,Northeast,5.516389349341251,浙江
+154,Zhejiang,Land,Northeast,118.29218171095721,浙江
+168,Zhejiang,Water,Central,684.7094553564295,浙江
+182,Zhejiang,Energy,Central,6.4022813549316195,浙江
+196,Zhejiang,CO2,Central,17.342283215317472,浙江
+210,Zhejiang,Land,Central,350.3746370274569,浙江
+224,Zhejiang,Water,Central Coast,767.3353579536902,浙江
+238,Zhejiang,Energy,Central Coast,8.26578913668367,浙江
+252,Zhejiang,CO2,Central Coast,22.69328332720816,浙江
+266,Zhejiang,Land,Central Coast,392.42792183388485,浙江
+280,Zhejiang,Water,South Coast,754.4208245215749,浙江
+294,Zhejiang,Energy,South Coast,5.212131854380836,浙江
+308,Zhejiang,CO2,South Coast,14.130432007476845,浙江
+322,Zhejiang,Land,South Coast,393.9159587429929,浙江
+336,Zhejiang,Water,Southwest,437.9415462059869,浙江
+350,Zhejiang,Energy,Southwest,3.8205287107674213,浙江
+364,Zhejiang,CO2,Southwest,10.277752115859212,浙江
+378,Zhejiang,Land,Southwest,227.1888999643696,浙江
+392,Zhejiang,Water,Northwest,426.6372236921877,浙江
+406,Zhejiang,Energy,Northwest,2.8701363173225447,浙江
+420,Zhejiang,CO2,Northwest,7.844357751032295,浙江
+434,Zhejiang,Land,Northwest,226.74630753892976,浙江
+448,Zhejiang,Water,EU,771.1456744352054,浙江
+462,Zhejiang,Energy,EU,6.2667865547929935,浙江
+476,Zhejiang,CO2,EU,16.92959190326219,浙江
+490,Zhejiang,Land,EU,388.03937218799433,浙江
+504,Zhejiang,Water,Non-EU,271.3955533570827,浙江
+518,Zhejiang,Energy,Non-EU,2.188143043666746,浙江
+532,Zhejiang,CO2,Non-EU,5.910501261203516,浙江
+546,Zhejiang,Land,Non-EU,136.83935675940114,浙江
+560,Zhejiang,Water,EA,660.9573061118739,浙江
+574,Zhejiang,Energy,EA,5.196808921571042,浙江
+588,Zhejiang,CO2,EA,14.035654453440937,浙江
+602,Zhejiang,Land,EA,334.92137992010095,浙江
+616,Zhejiang,Water,BRIIAT,756.0851023589374,浙江
+630,Zhejiang,Energy,BRIIAT,5.994573812287376,浙江
+644,Zhejiang,CO2,BRIIAT,16.262131741611924,浙江
+658,Zhejiang,Land,BRIIAT,379.16091934066344,浙江
+672,Zhejiang,Water,NAFTA,1388.2930490487502,浙江
+686,Zhejiang,Energy,NAFTA,11.073611680176336,浙江
+700,Zhejiang,CO2,NAFTA,30.057780046056507,浙江
+714,Zhejiang,Land,NAFTA,694.0791530200758,浙江
+728,Zhejiang,Water,RoW,1012.7353680829856,浙江
+742,Zhejiang,Energy,RoW,8.913349609265111,浙江
+756,Zhejiang,CO2,RoW,23.94787382348665,浙江
+770,Zhejiang,Land,RoW,505.1866430399519,浙江
+,source,EWCL,target,value,region
+1,North,Water,Qinghai,688.5608365872878,青海
+2,Northeast,Water,Qinghai,235.52927251695982,青海
+3,Central,Water,Qinghai,624.2349206129142,青海
+4,Central Coast,Water,Qinghai,129.620424455354,青海
+5,South Coast,Water,Qinghai,116.07840949753452,青海
+6,Southwest,Water,Qinghai,259.9346674931966,青海
+7,Northwest,Water,Qinghai,568.5142956965722,青海
+8,EU,Water,Qinghai,7.853862553004886,青海
+9,Non-EU,Water,Qinghai,4.055822682905443,青海
+10,EA,Water,Qinghai,4.3978142709084524,青海
+11,BRIIAT,Water,Qinghai,153.93204281374724,青海
+12,NAFTA,Water,Qinghai,96.24013213608131,青海
+13,RoW,Water,Qinghai,287.5053879767642,青海
+15,North,Energy,Qinghai,1.250791938288173,青海
+16,Northeast,Energy,Qinghai,0.5968536804667959,青海
+17,Central,Energy,Qinghai,1.0590013589232226,青海
+18,Central Coast,Energy,Qinghai,0.8314911899443485,青海
+19,South Coast,Energy,Qinghai,0.30836547800827185,青海
+20,Southwest,Energy,Qinghai,0.3169741389368966,青海
+21,Northwest,Energy,Qinghai,2.7504595632506645,青海
+22,EU,Energy,Qinghai,0.1076132647478658,青海
+23,Non-EU,Energy,Qinghai,0.03348680257186367,青海
+24,EA,Energy,Qinghai,0.34125611831895253,青海
+25,BRIIAT,Energy,Qinghai,0.25957200140340186,青海
+26,NAFTA,Energy,Qinghai,0.14289730603150536,青海
+27,RoW,Energy,Qinghai,0.764063242661339,青海
+29,North,CO2,Qinghai,3.5470731375230105,青海
+30,Northeast,CO2,Qinghai,1.6663289829629848,青海
+31,Central,CO2,Qinghai,3.3341275078010186,青海
+32,Central Coast,CO2,Qinghai,2.0808451339481513,青海
+33,South Coast,CO2,Qinghai,0.8579116972682707,青海
+34,Southwest,CO2,Qinghai,1.1137585927097469,青海
+35,Northwest,CO2,Qinghai,7.954964803360176,青海
+36,EU,CO2,Qinghai,0.12557890866691926,青海
+37,Non-EU,CO2,Qinghai,0.050519741413808036,青海
+38,EA,CO2,Qinghai,0.3040845462307787,青海
+39,BRIIAT,CO2,Qinghai,0.614123481847342,青海
+40,NAFTA,CO2,Qinghai,0.22851066127742775,青海
+41,RoW,CO2,Qinghai,0.9662916417387492,青海
+43,North,Land,Qinghai,109.8620920020608,青海
+44,Northeast,Land,Qinghai,127.97938368871891,青海
+45,Central,Land,Qinghai,162.18684989673355,青海
+46,Central Coast,Land,Qinghai,14.458638891143986,青海
+47,South Coast,Land,Qinghai,45.93294863033919,青海
+48,Southwest,Land,Qinghai,195.52447670226894,青海
+49,Northwest,Land,Qinghai,939.5048145213913,青海
+50,EU,Land,Qinghai,3.87736927437431,青海
+51,Non-EU,Land,Qinghai,1.9853973800520825,青海
+52,EA,Land,Qinghai,0.8472434075910377,青海
+53,BRIIAT,Land,Qinghai,112.6939863131236,青海
+54,NAFTA,Land,Qinghai,45.349340500033506,青海
+55,RoW,Land,Qinghai,193.22075723690807,青海
+56,Qinghai,Water,North,39.34580740355062,青海
+70,Qinghai,Energy,North,0.8483774888178577,青海
+84,Qinghai,CO2,North,2.3120288680036865,青海
+98,Qinghai,Land,North,351.5019405144305,青海
+112,Qinghai,Water,Northeast,9.527802121102647,青海
+126,Qinghai,Energy,Northeast,0.23913440075264703,青海
+140,Qinghai,CO2,Northeast,0.6249470363458475,青海
+154,Qinghai,Land,Northeast,80.2911990618645,青海
+168,Qinghai,Water,Central,32.49785467581339,青海
+182,Qinghai,Energy,Central,0.6925536422929279,青海
+196,Qinghai,CO2,Central,1.8320889088978467,青海
+210,Qinghai,Land,Central,279.94825513227494,青海
+224,Qinghai,Water,Central Coast,36.27706061845117,青海
+238,Qinghai,Energy,Central Coast,1.031110457025223,青海
+252,Qinghai,CO2,Central Coast,2.672805260008988,青海
+266,Qinghai,Land,Central Coast,286.85881559750607,青海
+280,Qinghai,Water,South Coast,15.151500907893228,青海
+294,Qinghai,Energy,South Coast,0.6221680784821586,青海
+308,Qinghai,CO2,South Coast,1.5631019802788042,青海
+322,Qinghai,Land,South Coast,97.34149464241372,青海
+336,Qinghai,Water,Southwest,19.27802501656306,青海
+350,Qinghai,Energy,Southwest,0.5417810714312168,青海
+364,Qinghai,CO2,Southwest,1.3809890660334905,青海
+378,Qinghai,Land,Southwest,145.03110251830546,青海
+392,Qinghai,Water,Northwest,43.75213804920708,青海
+406,Qinghai,Energy,Northwest,1.1537937549717057,青海
+420,Qinghai,CO2,Northwest,2.906061788945244,青海
+434,Qinghai,Land,Northwest,329.32780905026624,青海
+448,Qinghai,Water,EU,11.203126847048221,青海
+462,Qinghai,Energy,EU,0.30975530168893106,青海
+476,Qinghai,CO2,EU,0.8128279139823527,青海
+490,Qinghai,Land,EU,93.83728532109103,青海
+504,Qinghai,Water,Non-EU,3.9619469046433,青海
+518,Qinghai,Energy,Non-EU,0.1080995447742666,青海
+532,Qinghai,CO2,Non-EU,0.2839820776482922,青海
+546,Qinghai,Land,Non-EU,33.34544748528908,青海
+560,Qinghai,Water,EA,9.224807400963996,青海
+574,Qinghai,Energy,EA,0.2523652632767462,青海
+588,Qinghai,CO2,EA,0.6630858771197805,青海
+602,Qinghai,Land,EA,78.01117253991981,青海
+616,Qinghai,Water,BRIIAT,10.062415999754585,青海
+630,Qinghai,Energy,BRIIAT,0.26991301416323754,青海
+644,Qinghai,CO2,BRIIAT,0.7100485732490959,青海
+658,Qinghai,Land,BRIIAT,84.98088108927642,青海
+672,Qinghai,Water,NAFTA,18.92955800283123,青海
+686,Qinghai,Energy,NAFTA,0.5217312136660716,青海
+700,Qinghai,CO2,NAFTA,1.373885750012177,青海
+714,Qinghai,Land,NAFTA,157.6562999429757,青海
+728,Qinghai,Water,RoW,15.346523362429117,青海
+742,Qinghai,Energy,RoW,0.44954737518849686,青海
+756,Qinghai,CO2,RoW,1.1732452268392308,青海
+770,Qinghai,Land,RoW,126.35951675617946,青海
+,source,EWCL,target,value,region
+1,North,Water,Xinjiang,753.2879227002746,新疆
+2,Northeast,Water,Xinjiang,415.62804955401464,新疆
+3,Central,Water,Xinjiang,1482.2939213075206,新疆
+4,Central Coast,Water,Xinjiang,615.718955237393,新疆
+5,South Coast,Water,Xinjiang,320.8060214672302,新疆
+6,Southwest,Water,Xinjiang,246.94342708865543,新疆
+7,Northwest,Water,Xinjiang,358.4360178517256,新疆
+8,EU,Water,Xinjiang,34.213297485374454,新疆
+9,Non-EU,Water,Xinjiang,17.34011689097976,新疆
+10,EA,Water,Xinjiang,19.94121617838503,新疆
+11,BRIIAT,Water,Xinjiang,730.2785363350888,新疆
+12,NAFTA,Water,Xinjiang,453.2868708939176,新疆
+13,RoW,Water,Xinjiang,1331.1866471440087,新疆
+15,North,Energy,Xinjiang,4.285015534931843,新疆
+16,Northeast,Energy,Xinjiang,1.358559099464508,新疆
+17,Central,Energy,Xinjiang,5.34131783699037,新疆
+18,Central Coast,Energy,Xinjiang,3.1694709382662443,新疆
+19,South Coast,Energy,Xinjiang,0.9969228221769805,新疆
+20,Southwest,Energy,Xinjiang,1.254196581834165,新疆
+21,Northwest,Energy,Xinjiang,2.6092879209890443,新疆
+22,EU,Energy,Xinjiang,0.4477372352592305,新疆
+23,Non-EU,Energy,Xinjiang,0.1392629626852047,新疆
+24,EA,Energy,Xinjiang,1.4281981122396423,新疆
+25,BRIIAT,Energy,Xinjiang,1.1031359099345408,新疆
+26,NAFTA,Energy,Xinjiang,0.5946505080265072,新疆
+27,RoW,Energy,Xinjiang,3.121659806466057,新疆
+29,North,CO2,Xinjiang,11.55412412454058,新疆
+30,Northeast,CO2,Xinjiang,3.6885127749133173,新疆
+31,Central,CO2,Xinjiang,15.099718611143091,新疆
+32,Central Coast,CO2,Xinjiang,8.247297100358214,新疆
+33,South Coast,CO2,Xinjiang,2.7965451163027204,新疆
+34,Southwest,CO2,Xinjiang,3.4662117788593143,新疆
+35,Northwest,CO2,Xinjiang,7.251381323138491,新疆
+36,EU,CO2,Xinjiang,0.5202954754162565,新疆
+37,Non-EU,CO2,Xinjiang,0.2103443280845138,新疆
+38,EA,CO2,Xinjiang,1.301662341278584,新疆
+39,BRIIAT,CO2,Xinjiang,2.6949780568733854,新疆
+40,NAFTA,CO2,Xinjiang,0.9740328002509192,新疆
+41,RoW,CO2,Xinjiang,4.308451990523124,新疆
+43,North,Land,Xinjiang,132.1974632143825,新疆
+44,Northeast,Land,Xinjiang,211.21985076720188,新疆
+45,Central,Land,Xinjiang,403.2690408742608,新疆
+46,Central Coast,Land,Xinjiang,79.75715835570786,新疆
+47,South Coast,Land,Xinjiang,125.81899496294459,新疆
+48,Southwest,Land,Xinjiang,171.42536080740274,新疆
+49,Northwest,Land,Xinjiang,1298.192881423034,新疆
+50,EU,Land,Xinjiang,17.219345990870398,新疆
+51,Non-EU,Land,Xinjiang,8.340248491523242,新疆
+52,EA,Land,Xinjiang,3.665761738771376,新疆
+53,BRIIAT,Land,Xinjiang,528.6128465747978,新疆
+54,NAFTA,Land,Xinjiang,212.90769369064532,新疆
+55,RoW,Land,Xinjiang,896.8985018124367,新疆
+56,Xinjiang,Water,North,4856.8355497823,新疆
+70,Xinjiang,Energy,North,4.231155602149005,新疆
+84,Xinjiang,CO2,North,13.505736058074731,新疆
+98,Xinjiang,Land,North,606.2598065800545,新疆
+112,Xinjiang,Water,Northeast,816.8663711112853,新疆
+126,Xinjiang,Energy,Northeast,0.9807469718209851,新疆
+140,Xinjiang,CO2,Northeast,2.8695051787192636,新疆
+154,Xinjiang,Land,Northeast,101.25350066172264,新疆
+168,Xinjiang,Water,Central,3520.803445295777,新疆
+182,Xinjiang,Energy,Central,3.01777902522666,新疆
+196,Xinjiang,CO2,Central,9.61211949265219,新疆
+210,Xinjiang,Land,Central,437.97726116446233,新疆
+224,Xinjiang,Water,Central Coast,4087.9611296035605,新疆
+238,Xinjiang,Energy,Central Coast,3.9820673224799403,新疆
+252,Xinjiang,CO2,Central Coast,12.251230359106755,新疆
+266,Xinjiang,Land,Central Coast,507.5301147977558,新疆
+280,Xinjiang,Water,South Coast,650.5782902380391,新疆
+294,Xinjiang,Energy,South Coast,1.7826576435000074,新疆
+308,Xinjiang,CO2,South Coast,4.555573735268172,新疆
+322,Xinjiang,Land,South Coast,79.53527171454337,新疆
+336,Xinjiang,Water,Southwest,1178.5221560586838,新疆
+350,Xinjiang,Energy,Southwest,1.77387695980727,新疆
+364,Xinjiang,CO2,Southwest,4.988212326374001,新疆
+378,Xinjiang,Land,Southwest,145.29436554981686,新疆
+392,Xinjiang,Water,Northwest,1198.6072526926725,新疆
+406,Xinjiang,Energy,Northwest,2.5588288212270522,新疆
+420,Xinjiang,CO2,Northwest,6.902722607868009,新疆
+434,Xinjiang,Land,Northwest,145.63691184923894,新疆
+448,Xinjiang,Water,EU,866.80810051041,新疆
+462,Xinjiang,Energy,EU,1.512558268172612,新疆
+476,Xinjiang,CO2,EU,4.417355548209525,新疆
+490,Xinjiang,Land,EU,107.46641862771254,新疆
+504,Xinjiang,Water,Non-EU,292.5934671764832,新疆
+518,Xinjiang,Energy,Non-EU,0.5260940507058399,新疆
+532,Xinjiang,CO2,Non-EU,1.5293228488369282,新疆
+546,Xinjiang,Land,Non-EU,36.27149764428645,新疆
+560,Xinjiang,Water,EA,728.3239499232982,新疆
+574,Xinjiang,Energy,EA,1.2862997842828148,新疆
+588,Xinjiang,CO2,EA,3.7577735149613476,新疆
+602,Xinjiang,Land,EA,90.32354726740944,新疆
+616,Xinjiang,Water,BRIIAT,914.5946404396634,新疆
+630,Xinjiang,Energy,BRIIAT,1.4660220023690107,新疆
+644,Xinjiang,CO2,BRIIAT,4.350444404496762,新疆
+658,Xinjiang,Land,BRIIAT,113.44313913847765,新疆
+672,Xinjiang,Water,NAFTA,1497.241118663845,新疆
+686,Xinjiang,Energy,NAFTA,2.568680093033684,新疆
+700,Xinjiang,CO2,NAFTA,7.550501186577134,新疆
+714,Xinjiang,Land,NAFTA,185.1587042597989,新疆
+728,Xinjiang,Water,RoW,1139.9523012987324,新疆
+742,Xinjiang,Energy,RoW,2.1853948711011144,新疆
+756,Xinjiang,CO2,RoW,6.302379017386139,新疆
+770,Xinjiang,Land,RoW,141.12973733872388,新疆
+,source,EWCL,target,value,region
+1,North,Water,Hubei,2057.3775103475286,湖北
+2,Northeast,Water,Hubei,1394.5185054260364,湖北
+3,Central,Water,Hubei,2056.168964452341,湖北
+4,Central Coast,Water,Hubei,429.79738412631167,湖北
+5,South Coast,Water,Hubei,188.8613763826894,湖北
+6,Southwest,Water,Hubei,2101.636058584112,湖北
+7,Northwest,Water,Hubei,1704.9912734821514,湖北
+8,EU,Water,Hubei,94.51655411541671,湖北
+9,Non-EU,Water,Hubei,47.073316572114855,湖北
+10,EA,Water,Hubei,50.148807154900744,湖北
+11,BRIIAT,Water,Hubei,2383.625844026433,湖北
+12,NAFTA,Water,Hubei,1504.7624003025405,湖北
+13,RoW,Water,Hubei,4160.804699914148,湖北
+15,North,Energy,Hubei,3.50018820238073,湖北
+16,Northeast,Energy,Hubei,1.2524840776617658,湖北
+17,Central,Energy,Hubei,7.168796683891198,湖北
+18,Central Coast,Energy,Hubei,2.247510758341561,湖北
+19,South Coast,Energy,Hubei,1.5292900456114253,湖北
+20,Southwest,Energy,Hubei,1.9997389463230884,湖北
+21,Northwest,Energy,Hubei,2.676309352629363,湖北
+22,EU,Energy,Hubei,1.0993266926075995,湖北
+23,Non-EU,Energy,Hubei,0.33381825687485056,湖北
+24,EA,Energy,Hubei,3.46233971242094,湖北
+25,BRIIAT,Energy,Hubei,2.2996478725525766,湖北
+26,NAFTA,Energy,Hubei,1.4970976022571831,湖北
+27,RoW,Energy,Hubei,6.548196151593427,湖北
+29,North,CO2,Hubei,10.19004798462225,湖北
+30,Northeast,CO2,Hubei,4.053443528335857,湖北
+31,Central,CO2,Hubei,21.518518987708738,湖北
+32,Central Coast,CO2,Hubei,6.051935937783737,湖北
+33,South Coast,CO2,Hubei,4.075340962674084,湖北
+34,Southwest,CO2,Hubei,7.538861876776557,湖北
+35,Northwest,CO2,Hubei,8.389786097481498,湖北
+36,EU,CO2,Hubei,1.2976575366111711,湖北
+37,Non-EU,CO2,Hubei,0.5079911086302822,湖北
+38,EA,CO2,Hubei,3.1983217673327,湖北
+39,BRIIAT,CO2,Hubei,6.066495081084816,湖北
+40,NAFTA,CO2,Hubei,2.6174279751019642,湖北
+41,RoW,CO2,Hubei,9.490922820377062,湖北
+43,North,Land,Hubei,380.4912089278036,湖北
+44,Northeast,Land,Hubei,747.452738678798,湖北
+45,Central,Land,Hubei,600.0980014157573,湖北
+46,Central Coast,Land,Hubei,60.59685574112134,湖北
+47,South Coast,Land,Hubei,76.1903391536274,湖北
+48,Southwest,Land,Hubei,1575.733687353332,湖北
+49,Northwest,Land,Hubei,3958.5153742689663,湖北
+50,EU,Land,Hubei,51.248506212419784,湖北
+51,Non-EU,Land,Hubei,22.388895027144216,湖北
+52,EA,Land,Hubei,9.153983886519455,湖北
+53,BRIIAT,Land,Hubei,1720.2922731351923,湖北
+54,NAFTA,Land,Hubei,700.9939225230016,湖北
+55,RoW,Land,Hubei,2900.2733567799137,湖北
+56,Hubei,Water,North,1252.5173321159673,湖北
+70,Hubei,Energy,North,6.294951772124771,湖北
+84,Hubei,CO2,North,18.016469728537402,湖北
+98,Hubei,Land,North,430.0968571852054,湖北
+112,Hubei,Water,Northeast,264.9678456092965,湖北
+126,Hubei,Energy,Northeast,1.2791436512233296,湖北
+140,Hubei,CO2,Northeast,3.625490227232782,湖北
+154,Hubei,Land,Northeast,96.73192398696827,湖北
+168,Hubei,Water,Central,1452.327261729845,湖北
+182,Hubei,Energy,Central,8.819133806260707,湖北
+196,Hubei,CO2,Central,25.419267096289747,湖北
+210,Hubei,Land,Central,448.29964180668026,湖北
+224,Hubei,Water,Central Coast,1648.6323304742689,湖北
+238,Hubei,Energy,Central Coast,8.989165578272372,湖北
+252,Hubei,CO2,Central Coast,25.999262584602175,湖北
+266,Hubei,Land,Central Coast,532.131690690654,湖北
+280,Hubei,Water,South Coast,2498.658913908927,湖北
+294,Hubei,Energy,South Coast,3.770301693317662,湖北
+308,Hubei,CO2,South Coast,12.668167550849711,湖北
+322,Hubei,Land,South Coast,1035.3079344052628,湖北
+336,Hubei,Water,Southwest,3630.1169172266996,湖北
+350,Hubei,Energy,Southwest,3.297619499165775,湖北
+364,Hubei,CO2,Southwest,12.799242027254984,湖北
+378,Hubei,Land,Southwest,1525.7105707071673,湖北
+392,Hubei,Water,Northwest,1327.8087219821518,湖北
+406,Hubei,Energy,Northwest,2.7687247752171844,湖北
+420,Hubei,CO2,Northwest,8.777268447988321,湖北
+434,Hubei,Land,Northwest,534.7196256830496,湖北
+448,Hubei,Water,EU,568.1526154240601,湖北
+462,Hubei,Energy,EU,2.8095267079037476,湖北
+476,Hubei,CO2,EU,7.941087786651065,湖北
+490,Hubei,Land,EU,207.987857377944,湖北
+504,Hubei,Water,Non-EU,201.0270669679954,湖北
+518,Hubei,Energy,Non-EU,0.9867907491128894,湖北
+532,Hubei,CO2,Non-EU,2.7892691942398486,湖北
+546,Hubei,Land,Non-EU,73.74123377456132,湖北
+560,Hubei,Water,EA,480.8013439360668,湖北
+574,Hubei,Energy,EA,2.3507322873373333,湖北
+588,Hubei,CO2,EA,6.642519737164191,湖北
+602,Hubei,Land,EA,177.44667766414616,湖北
+616,Hubei,Water,BRIIAT,531.8215886199604,湖北
+630,Hubei,Energy,BRIIAT,2.5069877261618942,湖北
+644,Hubei,CO2,BRIIAT,7.111293898427487,湖北
+658,Hubei,Land,BRIIAT,196.93043057743895,湖北
+672,Hubei,Water,NAFTA,1047.4275782215416,湖北
+686,Hubei,Energy,NAFTA,4.864068564597341,湖北
+700,Hubei,CO2,NAFTA,13.869116381169842,湖北
+714,Hubei,Land,NAFTA,385.1383744699228,湖北
+728,Hubei,Water,RoW,767.3904460960196,湖北
+742,Hubei,Energy,RoW,4.089156458886117,湖北
+756,Hubei,CO2,RoW,11.487338701346186,湖北
+770,Hubei,Land,RoW,277.76094344203307,湖北
+,source,EWCL,target,value,region
+1,North,Water,Guangdong,2855.139242229492,广东
+2,Northeast,Water,Guangdong,993.6102969032975,广东
+3,Central,Water,Guangdong,8930.197874619522,广东
+4,Central Coast,Water,Guangdong,1796.1677925239148,广东
+5,South Coast,Water,Guangdong,912.9495442857292,广东
+6,Southwest,Water,Guangdong,7166.049616549794,广东
+7,Northwest,Water,Guangdong,1964.3833832861337,广东
+8,EU,Water,Guangdong,226.9821943839171,广东
+9,Non-EU,Water,Guangdong,115.7377711766583,广东
+10,EA,Water,Guangdong,140.75169926427174,广东
+11,BRIIAT,Water,Guangdong,4398.324796407058,广东
+12,NAFTA,Water,Guangdong,2751.329185646768,广东
+13,RoW,Water,Guangdong,8408.023876167666,广东
+15,North,Energy,Guangdong,10.394216672069977,广东
+16,Northeast,Energy,Guangdong,5.498510759412154,广东
+17,Central,Energy,Guangdong,23.259743804099113,广东
+18,Central Coast,Energy,Guangdong,10.174389869597816,广东
+19,South Coast,Energy,Guangdong,2.966620857936646,广东
+20,Southwest,Energy,Guangdong,27.548609175519015,广东
+21,Northwest,Energy,Guangdong,9.610553416133262,广东
+22,EU,Energy,Guangdong,3.0305566146625043,广东
+23,Non-EU,Energy,Guangdong,0.9227824176273044,广东
+24,EA,Energy,Guangdong,10.084524614437747,广东
+25,BRIIAT,Energy,Guangdong,6.248413091455038,广东
+26,NAFTA,Energy,Guangdong,3.9929613545786076,广东
+27,RoW,Energy,Guangdong,18.20452654449271,广东
+29,North,CO2,Guangdong,28.557306216273254,广东
+30,Northeast,CO2,Guangdong,13.925520964459055,广东
+31,Central,CO2,Guangdong,72.35707422767544,广东
+32,Central Coast,CO2,Guangdong,26.845219320142814,广东
+33,South Coast,CO2,Guangdong,8.201445015387955,广东
+34,Southwest,CO2,Guangdong,80.21867214745458,广东
+35,Northwest,CO2,Guangdong,26.387851652189322,广东
+36,EU,CO2,Guangdong,3.535027520750138,广东
+37,Non-EU,CO2,Guangdong,1.3962492887001796,广东
+38,EA,CO2,Guangdong,9.594164177579074,广东
+39,BRIIAT,CO2,Guangdong,14.870204284491104,广东
+40,NAFTA,CO2,Guangdong,6.356071490969378,广东
+41,RoW,CO2,Guangdong,24.53615590327628,广东
+43,North,Land,Guangdong,543.8768179765959,广东
+44,Northeast,Land,Guangdong,483.58483356664095,广东
+45,Central,Land,Guangdong,3311.558590039072,广东
+46,Central Coast,Land,Guangdong,341.52070608624433,广东
+47,South Coast,Land,Guangdong,445.8216594587983,广东
+48,Southwest,Land,Guangdong,5023.706101687818,广东
+49,Northwest,Land,Guangdong,5030.326398913615,广东
+50,EU,Land,Guangdong,111.2731698797195,广东
+51,Non-EU,Land,Guangdong,57.343560901218645,广东
+52,EA,Land,Guangdong,26.28532815659621,广东
+53,BRIIAT,Land,Guangdong,3250.2520827397675,广东
+54,NAFTA,Land,Guangdong,1296.9025022445965,广东
+55,RoW,Land,Guangdong,5758.471910296276,广东
+56,Guangdong,Water,North,971.0398620234794,广东
+70,Guangdong,Energy,North,5.420663726693444,广东
+84,Guangdong,CO2,North,14.12068023524893,广东
+98,Guangdong,Land,North,358.47272970989195,广东
+112,Guangdong,Water,Northeast,261.520577069064,广东
+126,Guangdong,Energy,Northeast,2.0430437734698255,广东
+140,Guangdong,CO2,Northeast,5.324688310381514,广东
+154,Guangdong,Land,Northeast,91.07646488826066,广东
+168,Guangdong,Water,Central,1496.5017738852757,广东
+182,Guangdong,Energy,Central,15.779778436640912,广东
+196,Guangdong,CO2,Central,42.42621872761559,广东
+210,Guangdong,Land,Central,507.57953551180236,广东
+224,Guangdong,Water,Central Coast,1441.945386058007,广东
+238,Guangdong,Energy,Central Coast,9.650627954269858,广东
+252,Guangdong,CO2,Central Coast,25.482355566541223,广东
+266,Guangdong,Land,Central Coast,516.9272350792761,广东
+280,Guangdong,Water,South Coast,320.4571307175073,广东
+294,Guangdong,Energy,South Coast,2.001367111054394,广东
+308,Guangdong,CO2,South Coast,5.1731841858629855,广东
+322,Guangdong,Land,South Coast,114.66568205922131,广东
+336,Guangdong,Water,Southwest,1651.1011140666074,广东
+350,Guangdong,Energy,Southwest,9.744366379095695,广东
+364,Guangdong,CO2,Southwest,25.695799466942788,广东
+378,Guangdong,Land,Southwest,587.1126942012585,广东
+392,Guangdong,Water,Northwest,1661.676246605859,广东
+406,Guangdong,Energy,Northwest,4.639281900994666,广东
+420,Guangdong,CO2,Northwest,13.077622806347987,广东
+434,Guangdong,Land,Northwest,626.9462374657768,广东
+448,Guangdong,Water,EU,1159.9708554844465,广东
+462,Guangdong,Energy,EU,9.738991238898521,广东
+476,Guangdong,CO2,EU,25.09149813531331,广东
+490,Guangdong,Land,EU,387.6330516922563,广东
+504,Guangdong,Water,Non-EU,415.08978969843764,广东
+518,Guangdong,Energy,Non-EU,3.3816994860001963,广东
+532,Guangdong,CO2,Non-EU,8.709562453751273,广东
+546,Guangdong,Land,Non-EU,139.08965887572384,广东
+560,Guangdong,Water,EA,1020.1125495724174,广东
+574,Guangdong,Energy,EA,7.880130025102693,广东
+588,Guangdong,CO2,EA,20.31612366082238,广东
+602,Guangdong,Land,EA,346.92362674270214,广东
+616,Guangdong,Water,BRIIAT,1039.2063220127418,广东
+630,Guangdong,Energy,BRIIAT,8.695110179333795,广东
+644,Guangdong,CO2,BRIIAT,22.408630021478054,广东
+658,Guangdong,Land,BRIIAT,348.10968973816864,广东
+672,Guangdong,Water,NAFTA,2164.6123864160777,广东
+686,Guangdong,Energy,NAFTA,17.015820344532816,广东
+700,Guangdong,CO2,NAFTA,44.10791340978904,广东
+714,Guangdong,Land,NAFTA,720.7670377583315,广东
+728,Guangdong,Water,RoW,1556.0396394335646,广东
+742,Guangdong,Energy,RoW,13.959680000230078,广东
+756,Guangdong,CO2,RoW,35.649420814316095,广东
+770,Guangdong,Land,RoW,516.5756191033712,广东
+,source,EWCL,target,value,region
+1,North,Water,Jiangxi,1342.0547526072394,江西
+2,Northeast,Water,Jiangxi,641.4704854806982,江西
+3,Central,Water,Jiangxi,1721.6209767907858,江西
+4,Central Coast,Water,Jiangxi,506.8386755026572,江西
+5,South Coast,Water,Jiangxi,319.00200630039103,江西
+6,Southwest,Water,Jiangxi,676.25768119682,江西
+7,Northwest,Water,Jiangxi,655.7421316307249,江西
+8,EU,Water,Jiangxi,60.601271146914435,江西
+9,Non-EU,Water,Jiangxi,31.299234350326845,江西
+10,EA,Water,Jiangxi,34.10838834613245,江西
+11,BRIIAT,Water,Jiangxi,1486.189107314565,江西
+12,NAFTA,Water,Jiangxi,922.3343435848832,江西
+13,RoW,Water,Jiangxi,2672.797916437606,江西
+15,North,Energy,Jiangxi,2.4911594182294414,江西
+16,Northeast,Energy,Jiangxi,1.0437876316069852,江西
+17,Central,Energy,Jiangxi,9.473369973761596,江西
+18,Central Coast,Energy,Jiangxi,3.5324932480184117,江西
+19,South Coast,Energy,Jiangxi,4.4837880855512005,江西
+20,Southwest,Energy,Jiangxi,6.263543014496344,江西
+21,Northwest,Energy,Jiangxi,2.193923587609509,江西
+22,EU,Energy,Jiangxi,0.7570137245189196,江西
+23,Non-EU,Energy,Jiangxi,0.2392176111354712,江西
+24,EA,Energy,Jiangxi,2.543908452304958,江西
+25,BRIIAT,Energy,Jiangxi,1.9974070714702838,江西
+26,NAFTA,Energy,Jiangxi,1.1189274692739828,江西
+27,RoW,Energy,Jiangxi,5.090202246625631,江西
+29,North,CO2,Jiangxi,7.164326447392228,江西
+30,Northeast,CO2,Jiangxi,3.0729839791454547,江西
+31,Central,CO2,Jiangxi,27.44274207410993,江西
+32,Central Coast,CO2,Jiangxi,9.575054421789583,江西
+33,South Coast,CO2,Jiangxi,12.227708482290733,江西
+34,Southwest,CO2,Jiangxi,18.04063064287081,江西
+35,Northwest,CO2,Jiangxi,6.341898459050927,江西
+36,EU,CO2,Jiangxi,0.8851043193893843,江西
+37,Non-EU,CO2,Jiangxi,0.36534836841069135,江西
+38,EA,CO2,Jiangxi,2.388385946860243,江西
+39,BRIIAT,CO2,Jiangxi,5.173602720766629,江西
+40,NAFTA,CO2,Jiangxi,1.9205245548755345,江西
+41,RoW,CO2,Jiangxi,7.144531793000675,江西
+43,North,Land,Jiangxi,251.87742731066,江西
+44,Northeast,Land,Jiangxi,336.6101602018587,江西
+45,Central,Land,Jiangxi,387.35515225084043,江西
+46,Central Coast,Land,Jiangxi,59.07333889966827,江西
+47,South Coast,Land,Jiangxi,119.08288078956946,江西
+48,Southwest,Land,Jiangxi,405.4652273600485,江西
+49,Northwest,Land,Jiangxi,1655.1492540016466,江西
+50,EU,Land,Jiangxi,32.08899686653553,江西
+51,Non-EU,Land,Jiangxi,14.973358374565308,江西
+52,EA,Land,Jiangxi,6.250468929154118,江西
+53,BRIIAT,Land,Jiangxi,1096.3857629138497,江西
+54,NAFTA,Land,Jiangxi,431.1616422459051,江西
+55,RoW,Land,Jiangxi,1840.2346887022766,江西
+56,Jiangxi,Water,North,830.0660620110241,江西
+70,Jiangxi,Energy,North,1.547005783017044,江西
+84,Jiangxi,CO2,North,5.5493316626978215,江西
+98,Jiangxi,Land,North,541.0938081330517,江西
+112,Jiangxi,Water,Northeast,386.6939836409885,江西
+126,Jiangxi,Energy,Northeast,1.0237404032496156,江西
+140,Jiangxi,CO2,Northeast,3.3231962763924585,江西
+154,Jiangxi,Land,Northeast,237.31253797926973,江西
+168,Jiangxi,Water,Central,962.3641506494563,江西
+182,Jiangxi,Energy,Central,2.8308626153900303,江西
+196,Jiangxi,CO2,Central,9.132589029537616,江西
+210,Jiangxi,Land,Central,582.0007167182767,江西
+224,Jiangxi,Water,Central Coast,1931.629768329849,江西
+238,Jiangxi,Energy,Central Coast,4.380231695627506,江西
+252,Jiangxi,CO2,Central Coast,15.056149043193786,江西
+266,Jiangxi,Land,Central Coast,1239.7549839254198,江西
+280,Jiangxi,Water,South Coast,1665.1381546926116,江西
+294,Jiangxi,Energy,South Coast,3.696114349985798,江西
+308,Jiangxi,CO2,South Coast,12.894218116472251,江西
+322,Jiangxi,Land,South Coast,1075.0504924494462,江西
+336,Jiangxi,Water,Southwest,591.0841617547532,江西
+350,Jiangxi,Energy,Southwest,1.4844950761705815,江西
+364,Jiangxi,CO2,Southwest,4.991476209947548,江西
+378,Jiangxi,Land,Southwest,373.63678618933136,江西
+392,Jiangxi,Water,Northwest,498.3873661646434,江西
+406,Jiangxi,Energy,Northwest,1.0256359154397594,江西
+420,Jiangxi,CO2,Northwest,3.5839839700767984,江西
+434,Jiangxi,Land,Northwest,320.87819932203746,江西
+448,Jiangxi,Water,EU,362.964288559498,江西
+462,Jiangxi,Energy,EU,1.5315846025176323,江西
+476,Jiangxi,CO2,EU,4.636152626722667,江西
+490,Jiangxi,Land,EU,204.84017599282876,江西
+504,Jiangxi,Water,Non-EU,129.26910975060224,江西
+518,Jiangxi,Energy,Non-EU,0.5390569308503304,江西
+532,Jiangxi,CO2,Non-EU,1.633996627191794,江西
+546,Jiangxi,Land,Non-EU,73.29844197176837,江西
+560,Jiangxi,Water,EA,304.9185966116945,江西
+574,Jiangxi,Energy,EA,1.296165956764869,江西
+588,Jiangxi,CO2,EA,3.9193076214614893,江西
+602,Jiangxi,Land,EA,172.51622758954787,江西
+616,Jiangxi,Water,BRIIAT,352.25951451831304,江西
+630,Jiangxi,Energy,BRIIAT,1.4306855956131086,江西
+644,Jiangxi,CO2,BRIIAT,4.354290985291565,江西
+658,Jiangxi,Land,BRIIAT,201.3054578364161,江西
+672,Jiangxi,Water,NAFTA,670.0922508421809,江西
+686,Jiangxi,Energy,NAFTA,2.671051465427651,江西
+700,Jiangxi,CO2,NAFTA,8.171391101166227,江西
+714,Jiangxi,Land,NAFTA,383.10746121849445,江西
+728,Jiangxi,Water,RoW,495.0201449112773,江西
+742,Jiangxi,Energy,RoW,2.268545816743509,江西
+756,Jiangxi,CO2,RoW,6.792076101635333,江西
+770,Jiangxi,Land,RoW,273.4541962241604,江西
+,source,EWCL,target,value,region
+1,North,Water,Jilin,3753.071952157629,吉林
+2,Northeast,Water,Jilin,3544.9537821771246,吉林
+3,Central,Water,Jilin,2547.213565089296,吉林
+4,Central Coast,Water,Jilin,735.1246904164134,吉林
+5,South Coast,Water,Jilin,161.34175512589945,吉林
+6,Southwest,Water,Jilin,578.577564600065,吉林
+7,Northwest,Water,Jilin,1408.201632872378,吉林
+8,EU,Water,Jilin,67.120954463931,吉林
+9,Non-EU,Water,Jilin,34.42905705918113,吉林
+10,EA,Water,Jilin,38.6621678741735,吉林
+11,BRIIAT,Water,Jilin,1498.3647295706003,吉林
+12,NAFTA,Water,Jilin,936.3947408535962,吉林
+13,RoW,Water,Jilin,2724.829618720719,吉林
+15,North,Energy,Jilin,11.570084610804408,吉林
+16,Northeast,Energy,Jilin,18.72298639630648,吉林
+17,Central,Energy,Jilin,6.4477758982568885,吉林
+18,Central Coast,Energy,Jilin,3.0417300199845685,吉林
+19,South Coast,Energy,Jilin,0.9775775356842761,吉林
+20,Southwest,Energy,Jilin,1.5998401070827541,吉林
+21,Northwest,Energy,Jilin,19.978793771241865,吉林
+22,EU,Energy,Jilin,0.8801308787698997,吉林
+23,Non-EU,Energy,Jilin,0.2711607068102384,吉林
+24,EA,Energy,Jilin,2.8917300371314942,吉林
+25,BRIIAT,Energy,Jilin,1.9980166945013629,吉林
+26,NAFTA,Energy,Jilin,1.194817921928195,吉林
+27,RoW,Energy,Jilin,5.542853577233953,吉林
+29,North,CO2,Jilin,32.65507856886723,吉林
+30,Northeast,CO2,Jilin,48.24896809900037,吉林
+31,Central,CO2,Jilin,19.349399214109138,吉林
+32,Central Coast,CO2,Jilin,8.105501209483496,吉林
+33,South Coast,CO2,Jilin,2.5507644703365826,吉林
+34,Southwest,CO2,Jilin,4.657656053109708,吉林
+35,Northwest,CO2,Jilin,57.31251294926518,吉林
+36,EU,CO2,Jilin,1.0232484397287984,吉林
+37,Non-EU,CO2,Jilin,0.41097769639327913,吉林
+38,EA,CO2,Jilin,2.6561360268812564,吉林
+39,BRIIAT,CO2,Jilin,4.947328397422726,吉林
+40,NAFTA,CO2,Jilin,1.9760055977636675,吉林
+41,RoW,CO2,Jilin,7.569962066049699,吉林
+43,North,Land,Jilin,601.5698258126672,吉林
+44,Northeast,Land,Jilin,1757.9470601250293,吉林
+45,Central,Land,Jilin,613.1692938367348,吉林
+46,Central Coast,Land,Jilin,98.79406982816884,吉林
+47,South Coast,Land,Jilin,65.13686855474158,吉林
+48,Southwest,Land,Jilin,409.98526438299547,吉林
+49,Northwest,Land,Jilin,3060.1650563253124,吉林
+50,EU,Land,Jilin,34.48437118873846,吉林
+51,Non-EU,Land,Jilin,16.59647804947351,吉林
+52,EA,Land,Jilin,7.228312778830479,吉林
+53,BRIIAT,Land,Jilin,1095.4745313863666,吉林
+54,NAFTA,Land,Jilin,438.78684471258157,吉林
+55,RoW,Land,Jilin,1871.1005570430664,吉林
+56,Jilin,Water,North,5519.277644044498,吉林
+70,Jilin,Energy,North,8.46722425228743,吉林
+84,Jilin,CO2,North,26.691861115676804,吉林
+98,Jilin,Land,North,2859.979061414329,吉林
+112,Jilin,Water,Northeast,2592.9830781196356,吉林
+126,Jilin,Energy,Northeast,14.73366551530193,吉林
+140,Jilin,CO2,Northeast,40.68308073272179,吉林
+154,Jilin,Land,Northeast,1280.4155582425863,吉林
+168,Jilin,Water,Central,3224.522356558677,吉林
+182,Jilin,Energy,Central,4.720720092169951,吉林
+196,Jilin,CO2,Central,14.713512034350716,吉林
+210,Jilin,Land,Central,1674.817140858374,吉林
+224,Jilin,Water,Central Coast,4462.54766283341,吉林
+238,Jilin,Energy,Central Coast,3.6475834637369893,吉林
+252,Jilin,CO2,Central Coast,12.863113449567173,吉林
+266,Jilin,Land,Central Coast,2330.9599698806214,吉林
+280,Jilin,Water,South Coast,732.5205340599862,吉林
+294,Jilin,Energy,South Coast,1.4653338544394279,吉林
+308,Jilin,CO2,South Coast,4.348325276616243,吉林
+322,Jilin,Land,South Coast,377.1301921251337,吉林
+336,Jilin,Water,Southwest,877.0075699493605,吉林
+350,Jilin,Energy,Southwest,1.2921483129591846,吉林
+364,Jilin,CO2,Southwest,4.032190191552475,吉林
+378,Jilin,Land,Southwest,455.45775816862374,吉林
+392,Jilin,Water,Northwest,1237.1050291383685,吉林
+406,Jilin,Energy,Northwest,2.806256737530402,吉林
+420,Jilin,CO2,Northwest,8.244228727924337,吉林
+434,Jilin,Land,Northwest,637.2116751581276,吉林
+448,Jilin,Water,EU,753.5586755359058,吉林
+462,Jilin,Energy,EU,1.443643784697403,吉林
+476,Jilin,CO2,EU,4.329718322083807,吉林
+490,Jilin,Land,EU,390.09371240183964,吉林
+504,Jilin,Water,Non-EU,274.9071725441742,吉林
+518,Jilin,Energy,Non-EU,0.5038615480451689,吉林
+532,Jilin,CO2,Non-EU,1.5177633800246921,吉林
+546,Jilin,Land,Non-EU,142.4520526405092,吉林
+560,Jilin,Water,EA,662.7875135721512,吉林
+574,Jilin,Energy,EA,1.2218795323721086,吉林
+588,Jilin,CO2,EA,3.6747356976244028,吉林
+602,Jilin,Land,EA,343.18079821022866,吉林
+616,Jilin,Water,BRIIAT,704.9327043512869,吉林
+630,Jilin,Energy,BRIIAT,1.2353920180444826,吉林
+644,Jilin,CO2,BRIIAT,3.732199062406153,吉林
+658,Jilin,Land,BRIIAT,365.5256306762272,吉林
+672,Jilin,Water,NAFTA,1303.6488913510468,吉林
+686,Jilin,Energy,NAFTA,2.409895267364681,吉林
+700,Jilin,CO2,NAFTA,7.289748888484809,吉林
+714,Jilin,Land,NAFTA,674.0484389980292,吉林
+728,Jilin,Water,RoW,1003.3438860066871,吉林
+742,Jilin,Energy,RoW,2.1392175256474175,吉林
+756,Jilin,CO2,RoW,6.336632961906352,吉林
+770,Jilin,Land,RoW,518.3323320556874,吉林
+,source,EWCL,target,value,region
+1,North,Water,Gansu,629.6958551964073,甘肃
+2,Northeast,Water,Gansu,412.6016818310211,甘肃
+3,Central,Water,Gansu,1254.624958020214,甘肃
+4,Central Coast,Water,Gansu,353.9601077520685,甘肃
+5,South Coast,Water,Gansu,192.91609156017714,甘肃
+6,Southwest,Water,Gansu,326.00405167158107,甘肃
+7,Northwest,Water,Gansu,643.7330531847332,甘肃
+8,EU,Water,Gansu,26.010006389002033,甘肃
+9,Non-EU,Water,Gansu,12.932665252220682,甘肃
+10,EA,Water,Gansu,13.76184875500222,甘肃
+11,BRIIAT,Water,Gansu,608.4519846760286,甘肃
+12,NAFTA,Water,Gansu,382.3343144539705,甘肃
+13,RoW,Water,Gansu,1086.0109713406546,甘肃
+15,North,Energy,Gansu,1.7004407266815171,甘肃
+16,Northeast,Energy,Gansu,1.1054644080948732,甘肃
+17,Central,Energy,Gansu,1.9963500306891293,甘肃
+18,Central Coast,Energy,Gansu,1.8196214149834207,甘肃
+19,South Coast,Energy,Gansu,0.5774161909756452,甘肃
+20,Southwest,Energy,Gansu,0.717444795827754,甘肃
+21,Northwest,Energy,Gansu,4.558557554299104,甘肃
+22,EU,Energy,Gansu,0.3140527971283625,甘肃
+23,Non-EU,Energy,Gansu,0.09593682737381368,甘肃
+24,EA,Energy,Gansu,0.9708923521305565,甘肃
+25,BRIIAT,Energy,Gansu,0.7247910600822092,甘肃
+26,NAFTA,Energy,Gansu,0.42557604507991453,甘肃
+27,RoW,Energy,Gansu,2.023615944309434,甘肃
+29,North,CO2,Gansu,4.794686028043758,甘肃
+30,Northeast,CO2,Gansu,3.2342091055459488,甘肃
+31,Central,CO2,Gansu,6.402283866356636,甘肃
+32,Central Coast,CO2,Gansu,4.931199842839714,甘肃
+33,South Coast,CO2,Gansu,1.6242239392154516,甘肃
+34,Southwest,CO2,Gansu,2.2189013412440644,甘肃
+35,Northwest,CO2,Gansu,12.558787385982027,甘肃
+36,EU,CO2,Gansu,0.36803103388770886,甘肃
+37,Non-EU,CO2,Gansu,0.14540243525780921,甘肃
+38,EA,CO2,Gansu,0.8739039092391189,甘肃
+39,BRIIAT,CO2,Gansu,1.8571711488793334,甘肃
+40,NAFTA,CO2,Gansu,0.7279520162788207,甘肃
+41,RoW,CO2,Gansu,2.8569638033681986,甘肃
+43,North,Land,Gansu,105.58178188635864,甘肃
+44,Northeast,Land,Gansu,213.3439660487594,甘肃
+45,Central,Land,Gansu,287.5148182281388,甘肃
+46,Central Coast,Land,Gansu,47.24081079436614,甘肃
+47,South Coast,Land,Gansu,82.88085110931259,甘肃
+48,Southwest,Land,Gansu,230.45834760797683,甘肃
+49,Northwest,Land,Gansu,1650.550768556359,甘肃
+50,EU,Land,Gansu,13.546519729624126,甘肃
+51,Non-EU,Land,Gansu,6.1295750154777995,甘肃
+52,EA,Land,Gansu,2.5135297053494168,甘肃
+53,BRIIAT,Land,Gansu,441.10945851907405,甘肃
+54,NAFTA,Land,Gansu,178.4970034574384,甘肃
+55,RoW,Land,Gansu,747.6125507055145,甘肃
+56,Gansu,Water,North,673.3038634215609,甘肃
+70,Gansu,Energy,North,3.516220896225739,甘肃
+84,Gansu,CO2,North,9.556991745122973,甘肃
+98,Gansu,Land,North,576.0420009537532,甘肃
+112,Gansu,Water,Northeast,105.06792147090262,甘肃
+126,Gansu,Energy,Northeast,0.9078294768316856,甘肃
+140,Gansu,CO2,Northeast,2.29839049859144,甘肃
+154,Gansu,Land,Northeast,86.48394685184053,甘肃
+168,Gansu,Water,Central,548.6999389085305,甘肃
+182,Gansu,Energy,Central,3.5833637592658905,甘肃
+196,Gansu,CO2,Central,9.712772844770152,甘肃
+210,Gansu,Land,Central,463.2558309432955,甘肃
+224,Gansu,Water,Central Coast,730.152234226572,甘肃
+238,Gansu,Energy,Central Coast,5.315137405251602,甘肃
+252,Gansu,CO2,Central Coast,13.56457915568618,甘肃
+266,Gansu,Land,Central Coast,609.1820804219428,甘肃
+280,Gansu,Water,South Coast,230.4468286722108,甘肃
+294,Gansu,Energy,South Coast,1.5280319665442763,甘肃
+308,Gansu,CO2,South Coast,3.9422059728293193,甘肃
+322,Gansu,Land,South Coast,194.38261647466476,甘肃
+336,Gansu,Water,Southwest,352.64829022872493,甘肃
+350,Gansu,Energy,Southwest,1.7363961257015152,甘肃
+364,Gansu,CO2,Southwest,4.613596702795808,甘肃
+378,Gansu,Land,Southwest,302.75464184518097,甘肃
+392,Gansu,Water,Northwest,461.93681837975527,甘肃
+406,Gansu,Energy,Northwest,3.9353438716880107,甘肃
+420,Gansu,CO2,Northwest,10.686879556342408,甘肃
+434,Gansu,Land,Northwest,380.46288391513843,甘肃
+448,Gansu,Water,EU,121.1695526132752,甘肃
+462,Gansu,Energy,EU,1.0328638453667875,甘肃
+476,Gansu,CO2,EU,2.645481693383458,甘肃
+490,Gansu,Land,EU,99.45544740757747,甘肃
+504,Gansu,Water,Non-EU,42.486261427505966,甘肃
+518,Gansu,Energy,Non-EU,0.36050652982449494,甘肃
+532,Gansu,CO2,Non-EU,0.923579957777992,甘肃
+546,Gansu,Land,Non-EU,34.89554251215881,甘肃
+560,Gansu,Water,EA,103.87477425883597,甘肃
+574,Gansu,Energy,EA,0.8371613259399021,甘肃
+588,Gansu,CO2,EA,2.1485324634120007,甘肃
+602,Gansu,Land,EA,86.0117907977033,甘肃
+616,Gansu,Water,BRIIAT,112.10704709637305,甘肃
+630,Gansu,Energy,BRIIAT,0.9072539423217822,甘肃
+644,Gansu,CO2,BRIIAT,2.328465707082488,甘肃
+658,Gansu,Land,BRIIAT,91.84721487607013,甘肃
+672,Gansu,Water,NAFTA,203.3622979579682,甘肃
+686,Gansu,Energy,NAFTA,1.7125972436728902,甘肃
+700,Gansu,CO2,NAFTA,4.3860285915630195,甘肃
+714,Gansu,Land,NAFTA,166.15205373596856,甘肃
+728,Gansu,Water,RoW,164.27883024830098,甘肃
+742,Gansu,Energy,RoW,1.4830366790438447,甘肃
+756,Gansu,CO2,RoW,3.7793668654264168,甘肃
+770,Gansu,Land,RoW,134.48981970269105,甘肃
+,source,EWCL,target,value,region
+1,North,Water,Anhui,2303.7302620930845,安徽
+2,Northeast,Water,Anhui,1942.8449298317987,安徽
+3,Central,Water,Anhui,1676.222400986736,安徽
+4,Central Coast,Water,Anhui,1093.0893721100783,安徽
+5,South Coast,Water,Anhui,376.65633564309155,安徽
+6,Southwest,Water,Anhui,914.3933125091261,安徽
+7,Northwest,Water,Anhui,1528.1195925234601,安徽
+8,EU,Water,Anhui,78.7306929789897,安徽
+9,Non-EU,Water,Anhui,40.00648779167025,安徽
+10,EA,Water,Anhui,45.35530564620938,安徽
+11,BRIIAT,Water,Anhui,1705.8140286039882,安徽
+12,NAFTA,Water,Anhui,1065.957620913423,安徽
+13,RoW,Water,Anhui,3186.2609868321015,安徽
+15,North,Energy,Anhui,8.48325543796385,安徽
+16,Northeast,Energy,Anhui,2.420208965163294,安徽
+17,Central,Energy,Anhui,7.460778557899852,安徽
+18,Central Coast,Energy,Anhui,5.929213100530873,安徽
+19,South Coast,Energy,Anhui,1.9811355405230284,安徽
+20,Southwest,Energy,Anhui,2.52649301825239,安徽
+21,Northwest,Energy,Anhui,4.496507750841745,安徽
+22,EU,Energy,Anhui,1.0209235028382373,安徽
+23,Non-EU,Energy,Anhui,0.3115940139426107,安徽
+24,EA,Energy,Anhui,3.385689949291184,安徽
+25,BRIIAT,Energy,Anhui,2.2602412769815268,安徽
+26,NAFTA,Energy,Anhui,1.3971141910411304,安徽
+27,RoW,Energy,Anhui,6.474627429523744,安徽
+29,North,CO2,Anhui,23.27238109292438,安徽
+30,Northeast,CO2,Anhui,7.330534159405249,安徽
+31,Central,CO2,Anhui,21.208384883504703,安徽
+32,Central Coast,CO2,Anhui,15.626158684497623,安徽
+33,South Coast,CO2,Anhui,5.211719716040645,安徽
+34,Southwest,CO2,Anhui,7.418028404781708,安徽
+35,Northwest,CO2,Anhui,12.951635623771166,安徽
+36,EU,CO2,Anhui,1.1838199697865686,安徽
+37,Non-EU,CO2,Anhui,0.47041142408596737,安徽
+38,EA,CO2,Anhui,3.0710223951669713,安徽
+39,BRIIAT,CO2,Anhui,5.527758835977449,安徽
+40,NAFTA,CO2,Anhui,2.2831809483523204,安徽
+41,RoW,CO2,Anhui,8.728701789107902,安徽
+43,North,Land,Anhui,417.8680041414521,安徽
+44,Northeast,Land,Anhui,1013.6992741530232,安徽
+45,Central,Land,Anhui,542.5756612966303,安徽
+46,Central Coast,Land,Anhui,176.9362972411041,安徽
+47,South Coast,Land,Anhui,155.6601292087934,安徽
+48,Southwest,Land,Anhui,658.5957737589622,安徽
+49,Northwest,Land,Anhui,3712.454000716994,安徽
+50,EU,Land,Anhui,39.868112169646054,安徽
+51,Non-EU,Land,Anhui,19.425832414350978,安徽
+52,EA,Land,Anhui,8.379012023675505,安徽
+53,BRIIAT,Land,Anhui,1258.1266570867224,安徽
+54,NAFTA,Land,Anhui,499.55684234011505,安徽
+55,RoW,Land,Anhui,2191.950176279919,安徽
+56,Anhui,Water,North,5521.860225504539,安徽
+70,Anhui,Energy,North,5.440095475249074,安徽
+84,Anhui,CO2,North,18.74878081992158,安徽
+98,Anhui,Land,North,1137.9759291069633,安徽
+112,Anhui,Water,Northeast,2530.8569644146155,安徽
+126,Anhui,Energy,Northeast,2.2103487237353288,安徽
+140,Anhui,CO2,Northeast,7.87594040613549,安徽
+154,Anhui,Land,Northeast,520.5885778802781,安徽
+168,Anhui,Water,Central,3534.651026993997,安徽
+182,Anhui,Energy,Central,6.722496186089305,安徽
+196,Anhui,CO2,Central,21.14199612053727,安徽
+210,Anhui,Land,Central,713.7307664038041,安徽
+224,Anhui,Water,Central Coast,6958.315412942909,安徽
+238,Anhui,Energy,Central Coast,16.003684104418646,安徽
+252,Anhui,CO2,Central Coast,49.54615900827549,安徽
+266,Anhui,Land,Central Coast,1393.7915733451816,安徽
+280,Anhui,Water,South Coast,2062.5508369855384,安徽
+294,Anhui,Energy,South Coast,2.7231481178717494,安徽
+308,Anhui,CO2,South Coast,8.891779640758406,安徽
+322,Anhui,Land,South Coast,423.68060361122684,安徽
+336,Anhui,Water,Southwest,1731.8911270524081,安徽
+350,Anhui,Energy,Southwest,1.9604908412567128,安徽
+364,Anhui,CO2,Southwest,6.594823522017909,安徽
+378,Anhui,Land,Southwest,356.17217129542087,安徽
+392,Anhui,Water,Northwest,3441.8742939210906,安徽
+406,Anhui,Energy,Northwest,3.3694455285090124,安徽
+420,Anhui,CO2,Northwest,11.642305095521778,安徽
+434,Anhui,Land,Northwest,708.9124978348738,安徽
+448,Anhui,Water,EU,905.8748516235515,安徽
+462,Anhui,Energy,EU,2.060167868513918,安徽
+476,Anhui,CO2,EU,6.312145052559492,安徽
+490,Anhui,Land,EU,183.25252742390177,安徽
+504,Anhui,Water,Non-EU,322.4060801909288,安徽
+518,Anhui,Energy,Non-EU,0.7177024293485194,安徽
+532,Anhui,CO2,Non-EU,2.2028301779455215,安徽
+546,Anhui,Land,Non-EU,65.28551766570253,安徽
+560,Anhui,Water,EA,757.9235923201924,安徽
+574,Anhui,Energy,EA,1.6515135390235816,安徽
+588,Anhui,CO2,EA,5.079991466472476,安徽
+602,Anhui,Land,EA,153.59983158784365,安徽
+616,Anhui,Water,BRIIAT,899.4489179866113,安徽
+630,Anhui,Energy,BRIIAT,1.9432732543127327,安徽
+644,Anhui,CO2,BRIIAT,5.991641941998723,安徽
+658,Anhui,Land,BRIIAT,181.9965681536712,安徽
+672,Anhui,Water,NAFTA,1642.2109687378997,安徽
+686,Anhui,Energy,NAFTA,3.5656113148804525,安徽
+700,Anhui,CO2,NAFTA,11.001019299151645,安徽
+714,Anhui,Land,NAFTA,331.8716879715151,安徽
+728,Anhui,Water,RoW,1170.3633843096927,安徽
+742,Anhui,Energy,RoW,2.8867617279818116,安徽
+756,Anhui,CO2,RoW,8.77815028493063,安徽
+770,Anhui,Land,RoW,236.27919981095732,安徽
+,source,EWCL,target,value,region
+1,North,Water,Shanxi,1636.0253730896593,山西
+2,Northeast,Water,Shanxi,1211.8760588220407,山西
+3,Central,Water,Shanxi,2089.397477601113,山西
+4,Central Coast,Water,Shanxi,673.9467781885401,山西
+5,South Coast,Water,Shanxi,339.3598762254109,山西
+6,Southwest,Water,Shanxi,1312.913470169801,山西
+7,Northwest,Water,Shanxi,1681.38251978472,山西
+8,EU,Water,Shanxi,56.87813006820341,山西
+9,Non-EU,Water,Shanxi,29.298715890941917,山西
+10,EA,Water,Shanxi,34.34504290864222,山西
+11,BRIIAT,Water,Shanxi,1106.680771980218,山西
+12,NAFTA,Water,Shanxi,691.9622457312481,山西
+13,RoW,Water,Shanxi,2087.7862095230566,山西
+15,North,Energy,Shanxi,6.171033511155468,山西
+16,Northeast,Energy,Shanxi,4.071922153151672,山西
+17,Central,Energy,Shanxi,3.419189251706677,山西
+18,Central Coast,Energy,Shanxi,3.493947539547499,山西
+19,South Coast,Energy,Shanxi,1.0085780586236717,山西
+20,Southwest,Energy,Shanxi,1.9894010312369332,山西
+21,Northwest,Energy,Shanxi,4.189824229932098,山西
+22,EU,Energy,Shanxi,0.775245472631628,山西
+23,Non-EU,Energy,Shanxi,0.2392606582625217,山西
+24,EA,Energy,Shanxi,2.5076304850824074,山西
+25,BRIIAT,Energy,Shanxi,1.7285466260973676,山西
+26,NAFTA,Energy,Shanxi,1.0183330287423413,山西
+27,RoW,Energy,Shanxi,4.701925067819968,山西
+29,North,CO2,Shanxi,17.11585472346094,山西
+30,Northeast,CO2,Shanxi,11.019398850954804,山西
+31,Central,CO2,Shanxi,10.890004295172805,山西
+32,Central Coast,CO2,Shanxi,9.171410498688058,山西
+33,South Coast,CO2,Shanxi,2.7906101571506006,山西
+34,Southwest,CO2,Shanxi,6.510377390535802,山西
+35,Northwest,CO2,Shanxi,12.553209095840984,山西
+36,EU,CO2,Shanxi,0.9140041848272206,山西
+37,Non-EU,CO2,Shanxi,0.3666014794759453,山西
+38,EA,CO2,Shanxi,2.3985575653307825,山西
+39,BRIIAT,CO2,Shanxi,4.194944955548426,山西
+40,NAFTA,CO2,Shanxi,1.6543696451332541,山西
+41,RoW,CO2,Shanxi,6.210304233014239,山西
+43,North,Land,Shanxi,277.204808131006,山西
+44,Northeast,Land,Shanxi,620.8097906589585,山西
+45,Central,Land,Shanxi,511.0992930575815,山西
+46,Central Coast,Land,Shanxi,87.71241574034964,山西
+47,South Coast,Land,Shanxi,142.72091772113816,山西
+48,Southwest,Land,Shanxi,948.6722642709694,山西
+49,Northwest,Land,Shanxi,3579.35866307302,山西
+50,EU,Land,Shanxi,27.61929307883372,山西
+51,Non-EU,Land,Shanxi,14.175172539234971,山西
+52,EA,Land,Shanxi,6.541728648794948,山西
+53,BRIIAT,Land,Shanxi,820.7501359807834,山西
+54,NAFTA,Land,Shanxi,326.4719957439857,山西
+55,RoW,Land,Shanxi,1426.7506065353693,山西
+56,Shanxi,Water,North,932.8234851754619,山西
+70,Shanxi,Energy,North,30.85541059078851,山西
+84,Shanxi,CO2,North,85.92060791789723,山西
+98,Shanxi,Land,North,506.4045338947112,山西
+112,Shanxi,Water,Northeast,163.9336233712977,山西
+126,Shanxi,Energy,Northeast,5.2276760993130615,山西
+140,Shanxi,CO2,Northeast,14.409900490872392,山西
+154,Shanxi,Land,Northeast,88.55543180921237,山西
+168,Shanxi,Water,Central,427.8100232102509,山西
+182,Shanxi,Energy,Central,8.052114025397062,山西
+196,Shanxi,CO2,Central,22.122194728572524,山西
+210,Shanxi,Land,Central,245.8437993432447,山西
+224,Shanxi,Water,Central Coast,719.5592351316977,山西
+238,Shanxi,Energy,Central Coast,12.251081836734729,山西
+252,Shanxi,CO2,Central Coast,33.7439449613379,山西
+266,Shanxi,Land,Central Coast,418.3378377082518,山西
+280,Shanxi,Water,South Coast,365.88529897159935,山西
+294,Shanxi,Energy,South Coast,6.108061291736117,山西
+308,Shanxi,CO2,South Coast,16.693932918765643,山西
+322,Shanxi,Land,South Coast,213.06778803952278,山西
+336,Shanxi,Water,Southwest,242.94680678222895,山西
+350,Shanxi,Energy,Southwest,3.4090291526274896,山西
+364,Shanxi,CO2,Southwest,9.296219121471283,山西
+378,Shanxi,Land,Southwest,144.2856462391299,山西
+392,Shanxi,Water,Northwest,257.18304503883473,山西
+406,Shanxi,Energy,Northwest,5.138092101933774,山西
+420,Shanxi,CO2,Northwest,14.14365604500633,山西
+434,Shanxi,Land,Northwest,147.61984781585,山西
+448,Shanxi,Water,EU,230.87260285585168,山西
+462,Shanxi,Energy,EU,3.5056126930626585,山西
+476,Shanxi,CO2,EU,9.684212492026887,山西
+490,Shanxi,Land,EU,135.5908065000444,山西
+504,Shanxi,Water,Non-EU,82.99567187130916,山西
+518,Shanxi,Energy,Non-EU,1.2398422762910757,山西
+532,Shanxi,CO2,Non-EU,3.4244159585752527,山西
+546,Shanxi,Land,Non-EU,48.8432016164171,山西
+560,Shanxi,Water,EA,198.06564029764488,山西
+574,Shanxi,Energy,EA,3.011348886907775,山西
+588,Shanxi,CO2,EA,8.323702174756988,山西
+602,Shanxi,Land,EA,116.4682475468171,山西
+616,Shanxi,Water,BRIIAT,206.33637048262204,山西
+630,Shanxi,Energy,BRIIAT,3.2083156552947805,山西
+644,Shanxi,CO2,BRIIAT,8.862754754693468,山西
+658,Shanxi,Land,BRIIAT,121.05999395692088,山西
+672,Shanxi,Water,NAFTA,362.5216320304038,山西
+686,Shanxi,Energy,NAFTA,5.859357915043429,山西
+700,Shanxi,CO2,NAFTA,16.216017467306308,山西
+714,Shanxi,Land,NAFTA,211.37950077512525,山西
+728,Shanxi,Water,RoW,328.4706678994265,山西
+742,Shanxi,Energy,RoW,5.143065956193952,山西
+756,Shanxi,CO2,RoW,14.1989940065486,山西
+770,Shanxi,Land,RoW,192.52515249313063,山西
+,source,EWCL,target,value,region
+1,North,Water,Fujian,1723.3348425829588,福建
+2,Northeast,Water,Fujian,645.7659568074588,福建
+3,Central,Water,Fujian,3046.192374364516,福建
+4,Central Coast,Water,Fujian,805.2774866796478,福建
+5,South Coast,Water,Fujian,312.4658326168602,福建
+6,Southwest,Water,Fujian,947.406959503395,福建
+7,Northwest,Water,Fujian,745.9392946706523,福建
+8,EU,Water,Fujian,87.87121544092129,福建
+9,Non-EU,Water,Fujian,43.90238996335686,福建
+10,EA,Water,Fujian,51.733272303934896,福建
+11,BRIIAT,Water,Fujian,1977.63892369224,福建
+12,NAFTA,Water,Fujian,1234.6360990814844,福建
+13,RoW,Water,Fujian,3634.923594696498,福建
+15,North,Energy,Fujian,4.603336758022915,福建
+16,Northeast,Energy,Fujian,1.4565400802831745,福建
+17,Central,Energy,Fujian,6.279543069554306,福建
+18,Central Coast,Energy,Fujian,3.993854283636327,福建
+19,South Coast,Energy,Fujian,1.8295839375539076,福建
+20,Southwest,Energy,Fujian,2.973968407400338,福建
+21,Northwest,Energy,Fujian,3.23160860919002,福建
+22,EU,Energy,Fujian,1.0861084671242438,福建
+23,Non-EU,Energy,Fujian,0.3296928985272312,福建
+24,EA,Energy,Fujian,3.601669117031032,福建
+25,BRIIAT,Energy,Fujian,2.2374772152898887,福建
+26,NAFTA,Energy,Fujian,1.4415697420371403,福建
+27,RoW,Energy,Fujian,6.659902020938319,福建
+29,North,CO2,Fujian,12.671921403393107,福建
+30,Northeast,CO2,Fujian,4.046387625156252,福建
+31,Central,CO2,Fujian,19.97042283181538,福建
+32,Central Coast,CO2,Fujian,10.431406917077275,福建
+33,South Coast,CO2,Fujian,4.748883656481923,福建
+34,Southwest,CO2,Fujian,8.52135682735705,福建
+35,Northwest,CO2,Fujian,8.89046092959137,福建
+36,EU,CO2,Fujian,1.274379717971515,福建
+37,Non-EU,CO2,Fujian,0.5002683761122816,福建
+38,EA,CO2,Fujian,3.3954404558068574,福建
+39,BRIIAT,CO2,Fujian,5.564497132542435,福建
+40,NAFTA,CO2,Fujian,2.4017729533806547,福建
+41,RoW,CO2,Fujian,9.245464290204284,福建
+43,North,Land,Fujian,334.54969560258587,福建
+44,Northeast,Land,Fujian,330.75512173289263,福建
+45,Central,Land,Fujian,1059.8636851055319,福建
+46,Central Coast,Land,Fujian,199.42901505512833,福建
+47,South Coast,Land,Fujian,116.81406411376155,福建
+48,Southwest,Land,Fujian,678.7816300719998,福建
+49,Northwest,Land,Fujian,1895.2285133621067,福建
+50,EU,Land,Fujian,45.07562709483025,福建
+51,Non-EU,Land,Fujian,21.165300964187804,福建
+52,EA,Land,Fujian,9.495436611509415,福建
+53,BRIIAT,Land,Fujian,1444.772822659248,福建
+54,NAFTA,Land,Fujian,578.3841016168143,福建
+55,RoW,Land,Fujian,2515.644831978568,福建
+56,Fujian,Water,North,735.6720007221827,福建
+70,Fujian,Energy,North,1.8118807075248984,福建
+84,Fujian,CO2,North,5.087243173352792,福建
+98,Fujian,Land,North,345.3893357206257,福建
+112,Fujian,Water,Northeast,215.2212510282409,福建
+126,Fujian,Energy,Northeast,0.8444350930639833,福建
+140,Fujian,CO2,Northeast,2.3039345209645767,福建
+154,Fujian,Land,Northeast,95.86211280997846,福建
+168,Fujian,Water,Central,723.7657685858888,福建
+182,Fujian,Energy,Central,2.629242077619652,福建
+196,Fujian,CO2,Central,7.245092429839102,福建
+210,Fujian,Land,Central,325.4209101236283,福建
+224,Fujian,Water,Central Coast,1115.7294270062137,福建
+238,Fujian,Energy,Central Coast,3.35227216488772,福建
+252,Fujian,CO2,Central Coast,9.430712709559025,福建
+266,Fujian,Land,Central Coast,515.1868827341069,福建
+280,Fujian,Water,South Coast,761.3191982186089,福建
+294,Fujian,Energy,South Coast,2.3718568570249,福建
+308,Fujian,CO2,South Coast,6.666043751136497,福建
+322,Fujian,Land,South Coast,348.97446655857016,福建
+336,Fujian,Water,Southwest,499.56951594003755,福建
+350,Fujian,Energy,Southwest,1.4678152295921765,福建
+364,Fujian,CO2,Southwest,4.120022795303191,福建
+378,Fujian,Land,Southwest,230.66519471934143,福建
+392,Fujian,Water,Northwest,390.23135506172446,福建
+406,Fujian,Energy,Northwest,1.631723319093509,福建
+420,Fujian,CO2,Northwest,4.418636947906493,福建
+434,Fujian,Land,Northwest,170.2797558303189,福建
+448,Fujian,Water,EU,596.3966384146207,福建
+462,Fujian,Energy,EU,3.0553411495600935,福建
+476,Fujian,CO2,EU,8.224846551876343,福建
+490,Fujian,Land,EU,256.65733899080124,福建
+504,Fujian,Water,Non-EU,210.13424173086216,福建
+518,Fujian,Energy,Non-EU,1.0802870334041126,福建
+532,Fujian,CO2,Non-EU,2.9039250613242973,福建
+546,Fujian,Land,Non-EU,90.4100578496152,福建
+560,Fujian,Water,EA,527.7371911530458,福建
+574,Fujian,Energy,EA,2.5918535243601273,福建
+588,Fujian,CO2,EA,6.988185609162278,福建
+602,Fujian,Land,EA,229.12594635263932,福建
+616,Fujian,Water,BRIIAT,560.7378000957699,福建
+630,Fujian,Energy,BRIIAT,2.9470968922992813,福建
+644,Fujian,CO2,BRIIAT,7.9471648246907325,福建
+658,Fujian,Land,BRIIAT,239.90220705815506,福建
+672,Fujian,Water,NAFTA,1074.957464971771,福建
+686,Fujian,Energy,NAFTA,5.504075852008423,福建
+700,Fujian,CO2,NAFTA,14.849183813782718,福建
+714,Fujian,Land,NAFTA,460.78387486478687,福建
+728,Fujian,Water,RoW,819.7756063001915,福建
+742,Fujian,Energy,RoW,4.567078998368902,福建
+756,Fujian,CO2,RoW,12.253300760503695,福建
+770,Fujian,Land,RoW,348.50572787801025,福建
+,source,EWCL,target,value,region
+1,North,Water,Beijing,3935.832247312301,北京
+2,Northeast,Water,Beijing,1987.003662936554,北京
+3,Central,Water,Beijing,3451.9907755424356,北京
+4,Central Coast,Water,Beijing,1242.2044001064137,北京
+5,South Coast,Water,Beijing,834.8933514800883,北京
+6,Southwest,Water,Beijing,1703.457225596255,北京
+7,Northwest,Water,Beijing,1730.6706799877181,北京
+8,EU,Water,Beijing,85.59942490750569,北京
+9,Non-EU,Water,Beijing,44.51915907032523,北京
+10,EA,Water,Beijing,55.41596037819325,北京
+11,BRIIAT,Water,Beijing,1459.8412564881714,北京
+12,NAFTA,Water,Beijing,917.020131496396,北京
+13,RoW,Water,Beijing,2843.6205185449653,北京
+15,North,Energy,Beijing,12.375685236597732,北京
+16,Northeast,Energy,Beijing,4.954031140376722,北京
+17,Central,Energy,Beijing,9.482524091658478,北京
+18,Central Coast,Energy,Beijing,4.680162178150791,北京
+19,South Coast,Energy,Beijing,1.7680793695594248,北京
+20,Southwest,Energy,Beijing,2.9090897123373405,北京
+21,Northwest,Energy,Beijing,11.679236128197436,北京
+22,EU,Energy,Beijing,1.2389895488827298,北京
+23,Non-EU,Energy,Beijing,0.3746521303445121,北京
+24,EA,Energy,Beijing,4.22621305841451,北京
+25,BRIIAT,Energy,Beijing,2.4303490381663706,北京
+26,NAFTA,Energy,Beijing,1.5975882640583987,北京
+27,RoW,Energy,Beijing,7.481541529653636,北京
+29,North,CO2,Beijing,34.55593541533034,北京
+30,Northeast,CO2,Beijing,13.932732913567838,北京
+31,Central,CO2,Beijing,28.588045750783984,北京
+32,Central Coast,CO2,Beijing,12.423095397817907,北京
+33,South Coast,CO2,Beijing,5.041560605940235,北京
+34,Southwest,CO2,Beijing,9.316236358582165,北京
+35,Northwest,CO2,Beijing,32.73007041112855,北京
+36,EU,CO2,Beijing,1.4453789944264073,北京
+37,Non-EU,CO2,Beijing,0.5691948877153521,北京
+38,EA,CO2,Beijing,4.0016242698669915,北京
+39,BRIIAT,CO2,Beijing,5.492455129547217,北京
+40,NAFTA,CO2,Beijing,2.4338163640812582,北京
+41,RoW,CO2,Beijing,9.298632517683584,北京
+43,North,Land,Beijing,664.6906679540995,北京
+44,Northeast,Land,Beijing,1031.0826943464633,北京
+45,Central,Land,Beijing,917.287082064654,北京
+46,Central Coast,Land,Beijing,188.44330502523817,北京
+47,South Coast,Land,Beijing,365.9070597798233,北京
+48,Southwest,Land,Beijing,1247.951802788266,北京
+49,Northwest,Land,Beijing,3796.097769628606,北京
+50,EU,Land,Beijing,40.48132889551358,北京
+51,Non-EU,Land,Beijing,22.277897634406873,北京
+52,EA,Land,Beijing,10.725188338978839,北京
+53,BRIIAT,Land,Beijing,1084.4591898692684,北京
+54,NAFTA,Land,Beijing,435.77717562752196,北京
+55,RoW,Land,Beijing,1930.987326272034,北京
+56,Beijing,Water,North,174.16017269390994,北京
+70,Beijing,Energy,North,2.184648887841702,北京
+84,Beijing,CO2,North,5.358125564504813,北京
+98,Beijing,Land,North,65.05101530645962,北京
+112,Beijing,Water,Northeast,87.81946926647933,北京
+126,Beijing,Energy,Northeast,0.8902798889618134,北京
+140,Beijing,CO2,Northeast,2.2938373741166562,北京
+154,Beijing,Land,Northeast,31.801655920913973,北京
+168,Beijing,Water,Central,162.58238987658774,北京
+182,Beijing,Energy,Central,1.7981626541549909,北京
+196,Beijing,CO2,Central,4.436757790706753,北京
+210,Beijing,Land,Central,60.66496756308203,北京
+224,Beijing,Water,Central Coast,272.5245508468566,北京
+238,Beijing,Energy,Central Coast,2.7422503061948174,北京
+252,Beijing,CO2,Central Coast,6.7318171526319155,北京
+266,Beijing,Land,Central Coast,101.6558226228122,北京
+280,Beijing,Water,South Coast,92.73203434368102,北京
+294,Beijing,Energy,South Coast,1.2082427020592408,北京
+308,Beijing,CO2,South Coast,2.883092552989798,北京
+322,Beijing,Land,South Coast,35.38766959493948,北京
+336,Beijing,Water,Southwest,143.20393941620517,北京
+350,Beijing,Energy,Southwest,1.6765028568936295,北京
+364,Beijing,CO2,Southwest,4.091158314873915,北京
+378,Beijing,Land,Southwest,53.80144201023347,北京
+392,Beijing,Water,Northwest,100.1915779203405,北京
+406,Beijing,Energy,Northwest,1.3158812057143359,北京
+420,Beijing,CO2,Northwest,3.236937738997057,北京
+434,Beijing,Land,Northwest,37.50251556081381,北京
+448,Beijing,Water,EU,121.8360193339779,北京
+462,Beijing,Energy,EU,1.3024482873043886,北京
+476,Beijing,CO2,EU,3.319657203380378,北京
+490,Beijing,Land,EU,44.164970132903626,北京
+504,Beijing,Water,Non-EU,46.46879956909595,北京
+518,Beijing,Energy,Non-EU,0.47009367242110206,北京
+532,Beijing,CO2,Non-EU,1.1978554741446987,北京
+546,Beijing,Land,Non-EU,16.843300879717706,北京
+560,Beijing,Water,EA,97.45667832123424,北京
+574,Beijing,Energy,EA,1.018674897589906,北京
+588,Beijing,CO2,EA,2.624810746353166,北京
+602,Beijing,Land,EA,35.21100221177998,北京
+616,Beijing,Water,BRIIAT,99.66847363137452,北京
+630,Beijing,Energy,BRIIAT,1.061129933228351,北京
+644,Beijing,CO2,BRIIAT,2.7240157959935014,北京
+658,Beijing,Land,BRIIAT,35.886315114593316,北京
+672,Beijing,Water,NAFTA,224.7279720537586,北京
+686,Beijing,Energy,NAFTA,2.0741126099230582,北京
+700,Beijing,CO2,NAFTA,5.350292107410629,北京
+714,Beijing,Land,NAFTA,81.70477894565929,北京
+728,Beijing,Water,RoW,142.06945601117536,北京
+742,Beijing,Energy,RoW,1.63928684536786,北京
+756,Beijing,CO2,RoW,4.195042584373329,北京
+770,Beijing,Land,RoW,51.3218178259992,北京

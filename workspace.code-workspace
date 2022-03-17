@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../data.with.python.code"
+		},
+		{
+			"path": "../python.code/Python_demo"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "sleepyclock.github.io"
+	}
+}
